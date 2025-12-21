@@ -7,10 +7,9 @@ tags:
 categories: 音樂短評
 cover: /img/short_cover.jpg
 date: 2023-11-15 00:10
-description: StereoType自我站位所在的“Psycore”（并非90年代Cenobite那种Psycore）是一张颇为成功的融合型专辑，Psychedelic的滚动bassline在占据上风的Hardcore框架之中穿插摇摆，现代制作技术给予了这种融合更多的可能。
+description: StereoType自我站位所在的“Psycore”（并非90年代Cenobite那种Psycore）是一张颇为成功的融合型专辑。
 copyright_author: 聲爆光年
 ---
-
 其实我写硬核的乐评是外行，，不过这张太软（
 StereoType自我站位所在的“Psycore”（并非90年代Cenobite那种Psycore）是一张颇为成功的融合型专辑，Psychedelic的滚动bassline在占据上风的Hardcore框架之中穿插摇摆，现代制作技术给予了这种融合更多的可能。
 高光：Taste of Steel，享受这一刀

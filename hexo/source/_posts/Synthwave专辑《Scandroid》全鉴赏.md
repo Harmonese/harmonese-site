@@ -9,6 +9,7 @@ tags:
 categories: 音樂專欄
 cover: /2021/04/04/Synthwave专辑《Scandroid》全鉴赏/cover.jpg
 copyright_author: 聲爆光年
+description: 让我们把时间拨到 2517 年，发动引擎驶入一个赛博朋克城市。
 ---
 
 本文最初登载于电子谐奏。  

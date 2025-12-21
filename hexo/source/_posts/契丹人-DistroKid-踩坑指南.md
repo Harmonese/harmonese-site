@@ -7,7 +7,7 @@ tags:
   - 经验分享
   - 吐槽
 categories: 音樂專欄
-description: 本专栏不求进行详细的新手引导和教程，而是针对中国用户在使用 DistroKid 的过程中可能踩到的各种坑进行简单汇总和指引避免走弯路。详细的介绍和指引可以在 DistroKid 自己的 FAQ 板块或者社区寻找答案。
+description: 本专栏针对中国用户在使用 DistroKid 的过程中可能踩到的各种坑进行简单汇总和指引避免走弯路。
 cover: /2022/01/10/契丹人-DistroKid-踩坑指南/images.png
 copyright_author: 聲爆光年
 ---

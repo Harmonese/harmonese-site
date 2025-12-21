@@ -7,7 +7,7 @@ tags:
   - Synthwave
 categories: 音樂短評
 date: 2023-10-16 08:20
-description: 英国二人电子乐队LeBrock首专，制作精良的合成器摇滚与常规Synthwave的制作手段融会贯通，配以主唱Shaun Philips激情澎湃的歌声，讲述着虹光与电流之中的爱情故事。
+description: 英国二人电子乐队LeBrock首专。
 cover: /img/short_cover.jpg
 copyright_author: 聲爆光年
 ---

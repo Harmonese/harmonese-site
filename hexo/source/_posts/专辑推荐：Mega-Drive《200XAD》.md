@@ -8,10 +8,9 @@ tags:
 categories: 音樂短評
 cover: /img/short_cover.jpg
 date: 2023-11-17 23:49
-description: 接续着FiXT Neon最早发行，传奇般的《198XAD》以及它的2019年续集《199XAD》，Mega Drive的这张最新专辑级展示了他多年来风格的转变，逐渐从离经叛道而又粗糙叛逆的工业-电子边缘逐渐到规整与黑暗的合成器浪潮乐，Mega Drive歌曲的成长线非常清晰。
+description: 接续着传奇般的《198XAD》以及它的2019年续集《199XAD》，Mega Drive的这张最新专辑级展示了他多年来风格的转变。
 copyright_author: 聲爆光年
 ---
-
 接续着FiXT Neon最早发行，传奇般的《198XAD》以及它的2019年续集《199XAD》，Mega Drive的这张最新专辑级展示了他多年来风格的转变，逐渐从离经叛道而又粗糙叛逆的工业-电子边缘逐渐到规整与黑暗的合成器浪潮乐，Mega Drive歌曲的成长线非常清晰。
 高光：Mnemonic Head Trip，思想风暴
 

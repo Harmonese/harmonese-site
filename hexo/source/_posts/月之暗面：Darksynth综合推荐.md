@@ -10,9 +10,12 @@ tags:
 categories: 音樂專欄
 cover: /2022/01/21/月之暗面：Darksynth综合推荐/cover.jpg
 copyright_author: 聲爆光年
+description: 本期不再做一整张专辑的“全鉴赏”，而是围绕一个分支风格来横向展开：Darksynth。
 ---
 
-本文最初刊载于「电子谐奏」。本期不再做一整张专辑的“全鉴赏”，而是围绕一个分支风格来横向展开：**Darksynth**。
+本文最初刊载于电子谐奏。
+
+本期不再做一整张专辑的“全鉴赏”，而是围绕一个分支风格来横向展开：**Darksynth**。
 
 ---
 
@@ -46,7 +49,7 @@ copyright_author: 聲爆光年
   marginheight="0"
   width="330"
   height="86"
-  src="//music.163.com/outchain/player?type=2&id=26760429&auto=0&height=66">
+  src="//music.163.com/outchain/player?type=2&id=26760429&auto=1&height=66">
 </iframe>
 
 而在后来的 Synthwave 发展史中，里程碑式专辑 **Kavinsky –《OutRun》** 里，也有不少作品在气质上完全可以算作 Darksynth，尽管当时这个概念还没被明确提出：凶狠的锯齿主音、生硬粗暴的低音层，以及若隐若现的惊悚氛围，都已经具备了 Darksynth 的雏形。
@@ -59,7 +62,7 @@ copyright_author: 聲爆光年
   marginheight="0"
   width="330"
   height="450"
-  src="https://music.163.com/outchain/player?type=1&id=2671905&auto=0&height=430">
+  src="https://music.163.com/outchain/player?type=1&id=2671905&auto=1&height=430">
 </iframe>
 </div>
 
@@ -74,7 +77,7 @@ copyright_author: 聲爆光年
     marginheight="0"
     width="330"
     height="450"
-    src="https://music.163.com/outchain/player?type=1&id=34943328&auto=0&height=430">
+    src="https://music.163.com/outchain/player?type=1&id=34943328&auto=1&height=430">
   </iframe>
   </div>
 
@@ -87,7 +90,7 @@ copyright_author: 聲爆光年
     marginheight="0"
     width="330"
     height="450"
-    src="https://music.163.com/outchain/player?type=1&id=2887371&auto=0&height=430">
+    src="https://music.163.com/outchain/player?type=1&id=2887371&auto=1&height=430">
   </iframe>
   </div>
 
@@ -100,7 +103,7 @@ copyright_author: 聲爆光年
     marginheight="0"
     width="330"
     height="450"
-    src="https://music.163.com/outchain/player?type=1&id=87001917&auto=0&height=430">
+    src="https://music.163.com/outchain/player?type=1&id=87001917&auto=1&height=430">
   </iframe>
   </div>
 
@@ -135,7 +138,7 @@ Darksynth 本身并不像 House 那样有固定的 BPM 区间，也不像 Hardco
     marginheight="0"
     width="330"
     height="86"
-    src="//music.163.com/outchain/player?type=2&id=28681523&auto=0&height=66">
+    src="//music.163.com/outchain/player?type=2&id=28681523&auto=1&height=66">
   </iframe>
 
 - **Diabolus Ex Machina**
@@ -147,7 +150,7 @@ Darksynth 本身并不像 House 那样有固定的 BPM 区间，也不像 Hardco
     marginheight="0"
     width="330"
     height="86"
-    src="//music.163.com/outchain/player?type=2&id=437291000&auto=0&height=66">
+    src="//music.163.com/outchain/player?type=2&id=437291000&auto=1&height=66">
   </iframe>
 
 - **Excess**
@@ -159,7 +162,7 @@ Darksynth 本身并不像 House 那样有固定的 BPM 区间，也不像 Hardco
     marginheight="0"
     width="330"
     height="86"
-    src="//music.163.com/outchain/player?type=2&id=1819511483&auto=0&height=66">
+    src="//music.163.com/outchain/player?type=2&id=1819511483&auto=1&height=66">
   </iframe>
 
 也正因为此，**Darksynth 与其他风格的混搭极其常见**。常见的组合包括：
@@ -206,7 +209,7 @@ Darksynth 的流行，也催生了不少非常边缘、甚至有点魔幻的“�
     marginheight="0"
     width="330"
     height="86"
-    src="//music.163.com/outchain/player?type=2&id=1413481294&auto=0&height=66">
+    src="//music.163.com/outchain/player?type=2&id=1413481294&auto=1&height=66">
   </iframe>
 
   但从音乐技术层面看，这类作品与典型 Darksynth 相距甚远，因此这种归类并不常见。
@@ -226,7 +229,7 @@ Darksynth 的流行，也催生了不少非常边缘、甚至有点魔幻的“�
     marginheight="0"
     width="330"
     height="86"
-    src="//music.163.com/outchain/player?type=2&id=1414002209&auto=0&height=66">
+    src="//music.163.com/outchain/player?type=2&id=1414002209&auto=1&height=66">
   </iframe>
 
 - **No Birthday – 【FREE】精神入侵 - Dark Synthwave type beat**
@@ -238,7 +241,7 @@ Darksynth 的流行，也催生了不少非常边缘、甚至有点魔幻的“�
     marginheight="0"
     width="330"
     height="86"
-    src="//music.163.com/outchain/player?type=2&id=1810150717&auto=0&height=66">
+    src="//music.163.com/outchain/player?type=2&id=1810150717&auto=1&height=66">
   </iframe>
 
 （厚颜无耻自荐一首。）
@@ -274,7 +277,7 @@ Darksynth 的流行，也催生了不少非常边缘、甚至有点魔幻的“�
   marginheight="0"
   width="330"
   height="450"
-  src="https://music.163.com/outchain/player?type=1&id=35680123&auto=0&height=430">
+  src="https://music.163.com/outchain/player?type=1&id=35680123&auto=1&height=430">
 </iframe>
 </div>
 
@@ -286,7 +289,7 @@ Darksynth 的流行，也催生了不少非常边缘、甚至有点魔幻的“�
   marginheight="0"
   width="330"
   height="450"
-  src="https://music.163.com/outchain/player?type=1&id=2671905&auto=0&height=430">
+  src="https://music.163.com/outchain/player?type=1&id=2671905&auto=1&height=430">
 </iframe>
 </div>
 
@@ -298,7 +301,7 @@ Darksynth 的流行，也催生了不少非常边缘、甚至有点魔幻的“�
   marginheight="0"
   width="330"
   height="450"
-  src="https://music.163.com/outchain/player?type=1&id=35680121&auto=0&height=430">
+  src="https://music.163.com/outchain/player?type=1&id=35680121&auto=1&height=430">
 </iframe>
 </div>
 
@@ -310,7 +313,7 @@ Darksynth 的流行，也催生了不少非常边缘、甚至有点魔幻的“�
   marginheight="0"
   width="330"
   height="450"
-  src="https://music.163.com/outchain/player?type=1&id=3263645&auto=0&height=430">
+  src="https://music.163.com/outchain/player?type=1&id=3263645&auto=1&height=430">
 </iframe>
 </div>
 
@@ -337,7 +340,7 @@ Darksynth 的流行，也催生了不少非常边缘、甚至有点魔幻的“�
   marginheight="0"
   width="330"
   height="450"
-  src="https://music.163.com/outchain/player?type=1&id=35697055&auto=0&height=430">
+  src="https://music.163.com/outchain/player?type=1&id=35697055&auto=1&height=430">
 </iframe>
 </div>
 
@@ -358,7 +361,7 @@ Darksynth 的流行，也催生了不少非常边缘、甚至有点魔幻的“�
   marginheight="0"
   width="330"
   height="450"
-  src="https://music.163.com/outchain/player?type=1&id=37728569&auto=0&height=430">
+  src="https://music.163.com/outchain/player?type=1&id=37728569&auto=1&height=430">
 </iframe>
 </div>
 
@@ -372,7 +375,7 @@ Darksynth 的流行，也催生了不少非常边缘、甚至有点魔幻的“�
   marginheight="0"
   width="330"
   height="450"
-  src="https://music.163.com/outchain/player?type=1&id=88121118&auto=0&height=430">
+  src="https://music.163.com/outchain/player?type=1&id=88121118&auto=1&height=430">
 </iframe>
 </div>
 
@@ -392,7 +395,7 @@ Darksynth 的流行，也催生了不少非常边缘、甚至有点魔幻的“�
     marginheight="0"
     width="330"
     height="86"
-    src="//music.163.com/outchain/player?type=2&id=1448408478&auto=0&height=66">
+    src="//music.163.com/outchain/player?type=2&id=1448408478&auto=1&height=66">
   </iframe>
 
 - **Fab Tool**
@@ -404,7 +407,7 @@ Darksynth 的流行，也催生了不少非常边缘、甚至有点魔幻的“�
     marginheight="0"
     width="330"
     height="86"
-    src="//music.163.com/outchain/player?type=2&id=1498571879&auto=0&height=66">
+    src="//music.163.com/outchain/player?type=2&id=1498571879&auto=1&height=66">
   </iframe>
 
 此后他一直在筹备《Leather Teeth》的续作《Leather Terror》，原定 2020 年发行，后因各种原因推迟。根据他的自述，这张专辑会比以往更黑暗，黑金属元素也会更重。
@@ -437,7 +440,7 @@ Perturbator 同样出身金属乐队。与 Carpenter Brut 不同的是，他一�
   marginheight="0"
   width="330"
   height="450"
-  src="https://music.163.com/outchain/player?type=1&id=2479708&auto=0&height=430">
+  src="https://music.163.com/outchain/player?type=1&id=2479708&auto=1&height=430">
 </iframe>
 </div>
 
@@ -449,7 +452,7 @@ Perturbator 同样出身金属乐队。与 Carpenter Brut 不同的是，他一�
   marginheight="0"
   width="330"
   height="450"
-  src="https://music.163.com/outchain/player?type=1&id=2504138&auto=0&height=430">
+  src="https://music.163.com/outchain/player?type=1&id=2504138&auto=1&height=430">
 </iframe>
 </div>
 
@@ -463,7 +466,7 @@ Perturbator 同样出身金属乐队。与 Carpenter Brut 不同的是，他一�
   marginheight="0"
   width="330"
   height="450"
-  src="https://music.163.com/outchain/player?type=1&id=2879029&auto=0&height=430">
+  src="https://music.163.com/outchain/player?type=1&id=2879029&auto=1&height=430">
 </iframe>
 </div>
 
@@ -478,7 +481,7 @@ Perturbator 同样出身金属乐队。与 Carpenter Brut 不同的是，他一�
   marginheight="0"
   width="330"
   height="86"
-  src="//music.163.com/outchain/player?type=2&id=28681530&auto=0&height=66">
+  src="//music.163.com/outchain/player?type=2&id=28681530&auto=1&height=66">
 </iframe>
 
 #### The Uncanny Valley 与 New Model：从主流暴力到实验解构
@@ -493,7 +496,7 @@ Perturbator 同样出身金属乐队。与 Carpenter Brut 不同的是，他一�
   marginheight="0"
   width="330"
   height="450"
-  src="https://music.163.com/outchain/player?type=1&id=34943328&auto=0&height=430">
+  src="https://music.163.com/outchain/player?type=1&id=34943328&auto=1&height=430">
 </iframe>
 </div>
 
@@ -509,7 +512,7 @@ Perturbator 同样出身金属乐队。与 Carpenter Brut 不同的是，他一�
   marginheight="0"
   width="330"
   height="450"
-  src="https://music.163.com/outchain/player?type=1&id=36303355&auto=0&height=430">
+  src="https://music.163.com/outchain/player?type=1&id=36303355&auto=1&height=430">
 </iframe>
 </div>
 
@@ -526,7 +529,7 @@ Perturbator 同样出身金属乐队。与 Carpenter Brut 不同的是，他一�
   marginheight="0"
   width="330"
   height="86"
-  src="//music.163.com/outchain/player?type=2&id=1487437691&auto=0&height=66">
+  src="//music.163.com/outchain/player?type=2&id=1487437691&auto=1&height=66">
 </iframe>
 
 这条路线最终在 2021 年的专辑《Lustful Sacraments》中彻底展开：赛博朋克的视觉符号演变为更加宗教化、仪式化的暗黑美学，音乐则在 Darksynth 的基础上，吸收了大量 Post-punk 与 Coldwave 的质感。
@@ -539,7 +542,7 @@ Perturbator 同样出身金属乐队。与 Carpenter Brut 不同的是，他一�
   marginheight="0"
   width="330"
   height="450"
-  src="https://music.163.com/outchain/player?type=1&id=122896255&auto=0&height=430">
+  src="https://music.163.com/outchain/player?type=1&id=122896255&auto=1&height=430">
 </iframe>
 </div>
 
@@ -573,7 +576,7 @@ Perturbator 同样出身金属乐队。与 Carpenter Brut 不同的是，他一�
   marginheight="0"
   width="330"
   height="450"
-  src="https://music.163.com/outchain/player?type=1&id=3217136&auto=0&height=430">
+  src="https://music.163.com/outchain/player?type=1&id=3217136&auto=1&height=430">
 </iframe>
 </div>
 
@@ -587,7 +590,7 @@ Perturbator 同样出身金属乐队。与 Carpenter Brut 不同的是，他一�
   marginheight="0"
   width="330"
   height="450"
-  src="https://music.163.com/outchain/player?type=1&id=34943775&auto=0&height=430">
+  src="https://music.163.com/outchain/player?type=1&id=34943775&auto=1&height=430">
 </iframe>
 </div>
 
@@ -603,7 +606,7 @@ Perturbator 同样出身金属乐队。与 Carpenter Brut 不同的是，他一�
   marginheight="0"
   width="330"
   height="450"
-  src="https://music.163.com/outchain/player?type=1&id=82039304&auto=0&height=430">
+  src="https://music.163.com/outchain/player?type=1&id=82039304&auto=1&height=430">
 </iframe>
 </div>
 
@@ -617,7 +620,7 @@ Perturbator 同样出身金属乐队。与 Carpenter Brut 不同的是，他一�
   marginheight="0"
   width="330"
   height="450"
-  src="https://music.163.com/outchain/player?type=1&id=130859294&auto=0&height=430">
+  src="https://music.163.com/outchain/player?type=1&id=130859294&auto=1&height=430">
 </iframe>
 </div>
 
@@ -681,7 +684,7 @@ GosT 近年来作品的金属浓度之高，甚至吸引了一些圈外极端金
   marginheight="0"
   width="330"
   height="450"
-  src="https://music.163.com/outchain/player?type=1&id=2887371&auto=0&height=430">
+  src="https://music.163.com/outchain/player?type=1&id=2887371&auto=1&height=430">
 </iframe>
 </div>
 
@@ -693,7 +696,7 @@ GosT 近年来作品的金属浓度之高，甚至吸引了一些圈外极端金
   marginheight="0"
   width="330"
   height="450"
-  src="https://music.163.com/outchain/player?type=1&id=81279106&auto=0&height=430">
+  src="https://music.163.com/outchain/player?type=1&id=81279106&auto=1&height=430">
 </iframe>
 </div>
 
@@ -712,7 +715,7 @@ GosT 近年来作品的金属浓度之高，甚至吸引了一些圈外极端金
   marginheight="0"
   width="330"
   height="450"
-  src="https://music.163.com/outchain/player?type=1&id=87019735&auto=0&height=430">
+  src="https://music.163.com/outchain/player?type=1&id=87019735&auto=1&height=430">
 </iframe>
 </div>
 
@@ -724,7 +727,7 @@ GosT 近年来作品的金属浓度之高，甚至吸引了一些圈外极端金
   marginheight="0"
   width="330"
   height="450"
-  src="https://music.163.com/outchain/player?type=1&id=95311309&auto=0&height=430">
+  src="https://music.163.com/outchain/player?type=1&id=95311309&auto=1&height=430">
 </iframe>
 </div>
 
@@ -736,7 +739,7 @@ GosT 近年来作品的金属浓度之高，甚至吸引了一些圈外极端金
   marginheight="0"
   width="330"
   height="450"
-  src="https://music.163.com/outchain/player?type=1&id=126995675&auto=0&height=430">
+  src="https://music.163.com/outchain/player?type=1&id=126995675&auto=1&height=430">
 </iframe>
 </div>
 
@@ -765,7 +768,7 @@ Essenger 正式切入 Darksynth 轨道的标志，是专辑 **《After Dark》**
   marginheight="0"
   width="330"
   height="450"
-  src="https://music.163.com/outchain/player?type=1&id=84657786&auto=0&height=430">
+  src="https://music.163.com/outchain/player?type=1&id=84657786&auto=1&height=430">
 </iframe>
 </div>
 
@@ -780,7 +783,7 @@ Essenger 正式切入 Darksynth 轨道的标志，是专辑 **《After Dark》**
     marginheight="0"
     width="330"
     height="86"
-    src="//music.163.com/outchain/player?type=2&id=1494449184&auto=0&height=66">
+    src="//music.163.com/outchain/player?type=2&id=1494449184&auto=1&height=66">
   </iframe>
 
 - **Get Your Wish (Porter Robinson Cover)**
@@ -792,7 +795,7 @@ Essenger 正式切入 Darksynth 轨道的标志，是专辑 **《After Dark》**
     marginheight="0"
     width="330"
     height="86"
-    src="//music.163.com/outchain/player?type=2&id=1430130464&auto=0&height=66">
+    src="//music.163.com/outchain/player?type=2&id=1430130464&auto=1&height=66">
   </iframe>
 
 2021 年下半年开始，他更换了 LOGO，并陆续放出声音更接近《赛博朋克 2077》预告片风格的新单曲，例如：
@@ -806,7 +809,7 @@ Essenger 正式切入 Darksynth 轨道的标志，是专辑 **《After Dark》**
   marginheight="0"
   width="330"
   height="86"
-  src="//music.163.com/outchain/player?type=2&id=1890369671&auto=0&height=66">
+  src="//music.163.com/outchain/player?type=2&id=1890369671&auto=1&height=66">
 </iframe>
 
 很多人推测这是新专辑的前奏。
@@ -825,7 +828,7 @@ Essenger 还有一重“隐藏身份”：**Synthwave 乐队 The Midnight《Horr
   marginheight="0"
   width="330"
   height="450"
-  src="https://music.163.com/outchain/player?type=1&id=122000677&auto=0&height=430">
+  src="https://music.163.com/outchain/player?type=1&id=122000677&auto=1&height=430">
 </iframe>
 </div>
 
@@ -862,7 +865,7 @@ Essenger 还有一重“隐藏身份”：**Synthwave 乐队 The Midnight《Horr
     marginheight="0"
     width="330"
     height="450"
-    src="https://music.163.com/outchain/player?type=1&id=74839215&auto=0&height=430">
+    src="https://music.163.com/outchain/player?type=1&id=74839215&auto=1&height=430">
   </iframe>
   </div>
 
@@ -877,7 +880,7 @@ Essenger 还有一重“隐藏身份”：**Synthwave 乐队 The Midnight《Horr
     marginheight="0"
     width="330"
     height="450"
-    src="https://music.163.com/outchain/player?type=1&id=74839217&auto=0&height=430">
+    src="https://music.163.com/outchain/player?type=1&id=74839217&auto=1&height=430">
   </iframe>
   </div>
 
@@ -892,7 +895,7 @@ Essenger 还有一重“隐藏身份”：**Synthwave 乐队 The Midnight《Horr
     marginheight="0"
     width="330"
     height="450"
-    src="https://music.163.com/outchain/player?type=1&id=84232979&auto=0&height=430">
+    src="https://music.163.com/outchain/player?type=1&id=84232979&auto=1&height=430">
   </iframe>
   </div>
 
@@ -909,7 +912,7 @@ Essenger 还有一重“隐藏身份”：**Synthwave 乐队 The Midnight《Horr
     marginheight="0"
     width="330"
     height="86"
-    src="//music.163.com/outchain/player?type=2&id=1459399734&auto=0&height=66">
+    src="//music.163.com/outchain/player?type=2&id=1459399734&auto=1&height=66">
   </iframe>
 
 - **The Watchers**
@@ -921,7 +924,7 @@ Essenger 还有一重“隐藏身份”：**Synthwave 乐队 The Midnight《Horr
     marginheight="0"
     width="330"
     height="86"
-    src="//music.163.com/outchain/player?type=2&id=1482077868&auto=0&height=66">
+    src="//music.163.com/outchain/player?type=2&id=1482077868&auto=1&height=66">
   </iframe>
 
 - **Alpha Prophecy**
@@ -933,7 +936,7 @@ Essenger 还有一重“隐藏身份”：**Synthwave 乐队 The Midnight《Horr
     marginheight="0"
     width="330"
     height="86"
-    src="//music.163.com/outchain/player?type=2&id=1826122188&auto=0&height=66">
+    src="//music.163.com/outchain/player?type=2&id=1826122188&auto=1&height=66">
   </iframe>
 
 ---
@@ -960,7 +963,7 @@ Scandroid 的作品风格跨度较广，并不局限于单一子风格，但其�
     marginheight="0"
     width="330"
     height="86"
-    src="//music.163.com/outchain/player?type=2&id=440208819&auto=0&height=66">
+    src="//music.163.com/outchain/player?type=2&id=440208819&auto=1&height=66">
   </iframe>
 
 - **Neo-Tokyo**
@@ -972,7 +975,7 @@ Scandroid 的作品风格跨度较广，并不局限于单一子风格，但其�
     marginheight="0"
     width="330"
     height="86"
-    src="//music.163.com/outchain/player?type=2&id=440208822&auto=0&height=66">
+    src="//music.163.com/outchain/player?type=2&id=440208822&auto=1&height=66">
   </iframe>
 
 - **Pro-Bots & Robophobes（feat. Circle of Dust）**
@@ -984,7 +987,7 @@ Scandroid 的作品风格跨度较广，并不局限于单一子风格，但其�
     marginheight="0"
     width="330"
     height="86"
-    src="//music.163.com/outchain/player?type=2&id=440207872&auto=0&height=66">
+    src="//music.163.com/outchain/player?type=2&id=440207872&auto=1&height=66">
   </iframe>
 
 2018 年的 EP **《The Darkness》** 如其名，是一张完整向 Darksynth 倾斜的作品。与之后的《The Light》相对照，可以很直观地感受到 Scandroid 在“暗”与“梦”两端的不同操刀方式。
@@ -997,7 +1000,7 @@ Scandroid 的作品风格跨度较广，并不局限于单一子风格，但其�
   marginheight="0"
   width="330"
   height="450"
-  src="https://music.163.com/outchain/player?type=1&id=74382091&auto=0&height=430">
+  src="https://music.163.com/outchain/player?type=1&id=74382091&auto=1&height=430">
 </iframe>
 </div>
 
@@ -1022,7 +1025,7 @@ Scandroid 的作品风格跨度较广，并不局限于单一子风格，但其�
   marginheight="0"
   width="330"
   height="450"
-  src="https://music.163.com/outchain/player?type=1&id=2761844&auto=0&height=430">
+  src="https://music.163.com/outchain/player?type=1&id=2761844&auto=1&height=430">
 </iframe>
 </div>
 
@@ -1036,7 +1039,7 @@ Scandroid 的作品风格跨度较广，并不局限于单一子风格，但其�
   marginheight="0"
   width="330"
   height="450"
-  src="https://music.163.com/outchain/player?type=1&id=124380118&auto=0&height=430">
+  src="https://music.163.com/outchain/player?type=1&id=124380118&auto=1&height=430">
 </iframe>
 </div>
 
@@ -1048,7 +1051,7 @@ Scandroid 的作品风格跨度较广，并不局限于单一子风格，但其�
   marginheight="0"
   width="330"
   height="450"
-  src="https://music.163.com/outchain/player?type=1&id=96696270&auto=0&height=430">
+  src="https://music.163.com/outchain/player?type=1&id=96696270&auto=1&height=430">
 </iframe>
 </div>
 
@@ -1073,7 +1076,7 @@ Scandroid 的作品风格跨度较广，并不局限于单一子风格，但其�
   marginheight="0"
   width="330"
   height="450"
-  src="https://music.163.com/outchain/player?type=1&id=34840243&auto=0&height=430">
+  src="https://music.163.com/outchain/player?type=1&id=34840243&auto=1&height=430">
 </iframe>
 </div>
 
@@ -1085,7 +1088,7 @@ Scandroid 的作品风格跨度较广，并不局限于单一子风格，但其�
   marginheight="0"
   width="330"
   height="450"
-  src="https://music.163.com/outchain/player?type=1&id=35835123&auto=0&height=430">
+  src="https://music.163.com/outchain/player?type=1&id=35835123&auto=1&height=430">
 </iframe>
 </div>
 
@@ -1099,7 +1102,7 @@ Scandroid 的作品风格跨度较广，并不局限于单一子风格，但其�
   marginheight="0"
   width="330"
   height="450"
-  src="https://music.163.com/outchain/player?type=1&id=87062435&auto=0&height=430">
+  src="https://music.163.com/outchain/player?type=1&id=87062435&auto=1&height=430">
 </iframe>
 </div>
 
@@ -1111,7 +1114,7 @@ Scandroid 的作品风格跨度较广，并不局限于单一子风格，但其�
   marginheight="0"
   width="330"
   height="450"
-  src="https://music.163.com/outchain/player?type=1&id=120296947&auto=0&height=430">
+  src="https://music.163.com/outchain/player?type=1&id=120296947&auto=1&height=430">
 </iframe>
 </div>
 
@@ -1136,7 +1139,7 @@ Scandroid 的作品风格跨度较广，并不局限于单一子风格，但其�
   marginheight="0"
   width="330"
   height="450"
-  src="https://music.163.com/outchain/player?type=1&id=85284090&auto=0&height=430">
+  src="https://music.163.com/outchain/player?type=1&id=85284090&auto=1&height=430">
 </iframe>
 </div>
 
@@ -1150,7 +1153,7 @@ Scandroid 的作品风格跨度较广，并不局限于单一子风格，但其�
   marginheight="0"
   width="330"
   height="450"
-  src="https://music.163.com/outchain/player?type=1&id=96622328&auto=0&height=430">
+  src="https://music.163.com/outchain/player?type=1&id=96622328&auto=1&height=430">
 </iframe>
 </div>
 
@@ -1162,7 +1165,7 @@ Scandroid 的作品风格跨度较广，并不局限于单一子风格，但其�
   marginheight="0"
   width="330"
   height="450"
-  src="https://music.163.com/outchain/player?type=1&id=132235129&auto=0&height=430">
+  src="https://music.163.com/outchain/player?type=1&id=132235129&auto=1&height=430">
 </iframe>
 </div>
 

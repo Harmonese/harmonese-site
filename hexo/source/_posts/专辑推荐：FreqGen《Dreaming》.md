@@ -7,7 +7,7 @@ tags:
 categories: 音樂短評
 cover: /img/short_cover.jpg
 date: 2023-11-15 23:48
-description:
+description: FreqGen的2021年专辑是Klayton在科幻世界中最宁静的一角所搭建的宇宙。
 copyright_author: 聲爆光年
 ---
 

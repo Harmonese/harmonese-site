@@ -8,6 +8,7 @@ tags:
 categories: 音樂專欄
 cover: /2020/10/11/Synthwave-主要流派简介与歌曲案例/cover.jpg
 copyright_author: 聲爆光年
+description: Synthwave主要流派简介与歌曲案例。
 ---
 
 本文最初登载于电子谐奏。  

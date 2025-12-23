@@ -5,7 +5,7 @@ tags:
   - 簡諧點源
   - 新闻
 categories: 樂隊公告
-cover: image.png
+cover: image.jpeg
 copyright_author: 簡諧點源
 date: 2023-7-17 00:36:25
 description: 《電子歌劇 (Probabilities)》将于 7 月 20 日发行。其他流媒体平台将于 7 月 20 日进行投送，自然延期后上线。

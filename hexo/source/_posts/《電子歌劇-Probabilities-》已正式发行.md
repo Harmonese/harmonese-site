@@ -5,7 +5,7 @@ tags:
   - 簡諧點源
   - 新闻
 categories: 樂隊公告
-cover: image.png
+cover: image.jpeg
 copyright_author: 簡諧點源
 date: 2023-07-20 00:43:13
 description: 新的混音专辑已经正式上线。

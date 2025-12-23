@@ -1,7 +1,7 @@
 ---
 title: Sovietwave 苏维埃浪潮 ☭ 红色回忆涌向未来
 categories: 音樂專欄
-date: 2025-12-23 11:41:11
+date: 2025-11-23 11:41:11
 tags: 
   - 合成器浪潮
 cover: tengyart-yRA0hRNbOOA-unsplash.jpg

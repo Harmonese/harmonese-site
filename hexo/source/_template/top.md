@@ -17,27 +17,27 @@
 
 本网站不储存、不提供歌曲文件或代码。有关乐队的绝大部分信息与资源，可在下列公开数据库 / 托管平台获取，这些网站上的信息由我们长期维护并更新。
 
--**音乐文件**
+- **音乐文件**
 
-- 以 [CC BY-SA 许可证](https://creativecommons.org/licenses/by/4.0/)发行（自由使用、可商用，二次创作或发布需使用相同许可证），托管于 [Bandcamp](https://harmonese.bandcamp.com) 。
-- 未在 [Bandcamp](https://harmonese.bandcamp.com) 上托管的音乐作品可以通过[电子邮件](mailto:home@harmonese.cn)联系我们获取。
+  - 以 [CC BY-SA 许可证](https://creativecommons.org/licenses/by/4.0/)发行（自由使用、可商用，二次创作或发布需使用相同许可证），托管于 [Bandcamp](https://harmonese.bandcamp.com) 。
+  - 未在 [Bandcamp](https://harmonese.bandcamp.com) 上托管的音乐作品可以通过[电子邮件](mailto:home@harmonese.cn)联系我们获取。
 
--**音乐元数据 / 完整发行目录 / 录音信息 / 完整 credits 等**
+- **音乐元数据 / 完整发行目录 / 录音信息 / 完整 credits 等**
 
-- 维护于 [MusicBrainz](https://musicbrainz.org/artist/ab1d470e-10fe-4d25-bde9-2ef62b7b8397) 数据库的相关页面。
+  - 维护于 [MusicBrainz](https://musicbrainz.org/artist/ab1d470e-10fe-4d25-bde9-2ef62b7b8397) 数据库的相关页面。
 
--**歌词**
+- **歌词**
 
-- 无时间轴歌词可在 [Bandcamp](https://harmonese.bandcamp.com) 上查看；
-- 带时间轴歌词维护并托管于公开数据库 [lrclib](https://lrclib.net)。
+  - 无时间轴歌词可在 [Bandcamp](https://harmonese.bandcamp.com) 上查看；
+  - 带时间轴歌词维护并托管于公开数据库 [lrclib](https://lrclib.net)。
 
--**歌曲工程文件**
+- **歌曲工程文件**
 
-- 出于安全考虑不公开发布，可通过电子邮件联系我们获取。
+  - 出于安全考虑不公开发布，可通过[电子邮件](mailto:home@harmonese.cn)联系我们获取。
 
--**音乐相关项目源代码**
+- **音乐相关项目源代码**
 
-- 以 [MIT 许可证](https://opensource.org/license/mit) 发行并托管于 [GitHub](https://github.com/harmonese)。
+  - 以 [MIT 许可证](https://opensource.org/license/mit) 发行并托管于 [GitHub](https://github.com/harmonese)。
 
 ---
 
@@ -47,9 +47,9 @@
 
 ### 核心成员
 
--**聲爆光年** – 作曲、作词、制作及人声担当，是簡諧點源音乐的核心创作者。
+- **聲爆光年** ：作曲、作词、制作及人声担当，是簡諧點源音乐的核心创作者。
 
--**概率雲實體** – 负责视觉创意与封面设计，共同构筑簡諧點源的视觉美学。
+- **概率雲實體** ：负责视觉创意与封面设计，共同构筑簡諧點源的视觉美学。
 
 我们经常与其他音乐人、混音师及艺术家进行合作。
 
@@ -65,19 +65,19 @@
 
 ### 专辑
 
--**[《電子歌劇》](https://harmonese.bandcamp.com/album/-)**（*Electropera*）– 簡諧點源的首张录音室专辑，确立了世界观基石，发行于 2022 年 2 月 18 日。
+- **[《電子歌劇》](https://harmonese.bandcamp.com/album/-)**（*Electropera*）– 簡諧點源的首张录音室专辑，确立了世界观基石，发行于 2022 年 2 月 18 日。
 
--**[《血紅都會》](https://harmonese.bandcamp.com/album/--2)**（*Crimsonopolis*）– 最新录音室专辑，将于 2025 年 12 月 25 日正式发行。
+- **[《血紅都會》](https://harmonese.bandcamp.com/album/--2)**（*Crimsonopolis*）– 最新录音室专辑，将于 2025 年 12 月 25 日正式发行。
 
 ### 合辑
 
--**[《電子歌劇 (Probabilities)》](https://harmonese.bandcamp.com/album/probabilities)** – 原专辑的延伸合集，包含重混、特殊版本和器乐混音，风格跨越 House、Dubstep、Hardcore 等，发行于 2023 年 7 月 20 日。
+- **[《電子歌劇 (Probabilities)》](https://harmonese.bandcamp.com/album/probabilities)** – 原专辑的延伸合集，包含重混、特殊版本和器乐混音，风格跨越 House、Dubstep、Hardcore 等，发行于 2023 年 7 月 20 日。
 
 ### 代表曲目
 
--**[《零點 (with luny)》](https://harmonese.bandcamp.com/track/with-luny)**
+- **[《零點 (with luny)》](https://harmonese.bandcamp.com/track/with-luny)**
 
--**[《對決》](https://harmonese.bandcamp.com/track/--8)**
+- **[《對決》](https://harmonese.bandcamp.com/track/--8)**
 
 ## 关注我们
 

@@ -142,6 +142,12 @@ feed:
   icon:  /pictures/logo_harmonese.png
   autodiscovery: true
 
+search:
+  path: search.json
+  field: post
+  content: true
+  format: striptags
+
 
 ## Themes: https://hexo.io/themes/
 theme: butterfly

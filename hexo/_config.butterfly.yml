@@ -22,7 +22,6 @@ menu:
   關於本站: /about || fas fa-circle-user
   歸檔: /archives/ || fas fa-archive
   分類: /categories/ || fas fa-inbox
-  標籤: /tags/ || fas fa-tag
   
   
   # List||fas fa-list:
@@ -52,12 +51,11 @@ code_blocks:
 # Formal:
 #   icon: link || the description || color
 social:
-  fab fa-bandcamp: https://harmonese.bandcamp.com || Bandcamp || '#969696'
+  fas fa-envelope: mailto:home@harmonese.cn || Email || '#969696'
+  fas fa-rss: http://harmonese.cn/atom.xml || RSS || '#969696'
   fas fa-music: https://music.163.com/#/artist?id=50640143 || Netease Cloud Music || '#969696'
   fab fa-spotify: https://open.spotify.com/artist/65AqYg3LYwTzCEdzJOMK9v || Spotify || '#969696'
   fab fa-github: https://github.com/Harmonese || GitHub || '#969696'
-  fas fa-rss: http://harmonese.cn/atom.xml || RSS || '#969696'
-  # fas fa-envelope: mailto:xxxxxx@gmail.com || Email || '#4a7dbe'
 
 # --------------------------------------
 # Image Settings
@@ -79,7 +77,7 @@ default_top_img: transparent
 index_img: transparent
 
 # The banner image of archive page
-archive_img:
+archive_img: transparent
 
 # Note: tag page, not tags page
 tag_img:
@@ -112,19 +110,19 @@ cover:
   archives_enable: true
   # When cover is not set, the default cover is displayed
   default_cover: 
-    - /img/default-header.png
+    - /img/default_header.png
     # - xxx.jpg
 
 # Replace Broken Images
 error_img:
   flink: /img/friend_404.gif
-  post_page: /img/404.jpg
+  post_page: /img/404.png
 
 # A simple 404 page
 error_404:
   enable: false
   subtitle: 'Page Not Found'
-  background: /img/error-page.png
+  background: /img/error_page.png
 
 post_meta:
   # Home Page
@@ -304,7 +302,7 @@ aside:
       text: 收聽歌曲！
       link: https://harmonese.bandcamp.com
   card_announcement:
-    enable: true
+    enable: false
     content: 歡迎光臨「簡諧點源」音樂空間
   card_recent_post:
     enable: true
@@ -349,7 +347,7 @@ aside:
     limit: 8
     sort_order:
   card_post_series:
-    enable: true
+    enable: false
     # The title shows the series name
     series_title: false
     # Order by title or date
@@ -413,9 +411,9 @@ rightside_scroll_percent: false
 rightside_item_order:
   enable: true
   # Default: readmode,translate,darkmode,hideAside
-  hide: readmode,darkmode,hideAside
+  hide: readmode,hideAside
   # Default: toc,chat,comment
-  show: toc,chat,comment,translate
+  show: toc,chat,comment,darkmode,translate
 
 # Animation for the bottom right config button
 rightside_config_animation: true

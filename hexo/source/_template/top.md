@@ -20,7 +20,7 @@
 -**音乐文件**
 
 - 以 [CC BY-SA 许可证](https://creativecommons.org/licenses/by/4.0/)发行（自由使用、可商用，二次创作或发布需使用相同许可证），托管于 [Bandcamp](https://harmonese.bandcamp.com) 。
-- 未在 [Bandcamp](https://harmonese.bandcamp.com) 上托管的音乐作品可以通过电子邮件联系我们获取。
+- 未在 [Bandcamp](https://harmonese.bandcamp.com) 上托管的音乐作品可以通过[电子邮件](mailto:home@harmonese.cn)联系我们获取。
 
 -**音乐元数据 / 完整发行目录 / 录音信息 / 完整 credits 等**
 
@@ -86,5 +86,3 @@
 - [Bandcamp](https://harmonese.bandcamp.com)
 - [网易云音乐](https://music.163.com/#/artist?id=50640143)
 - [Spotify](https://open.spotify.com/artist/65AqYg3LYwTzCEdzJOMK9v)
-- [YouTube](https://www.youtube.com/channel/UC5NOeXd2TGt5CHsOtAeb59Q)
-- [哔哩哔哩](https://space.bilibili.com/281995427)

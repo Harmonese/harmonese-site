@@ -1,18 +1,17 @@
 ---
 title: Synthwave专辑《Scandroid》全鉴赏
-date: 2021-04-04 20:17
+date: 2023-10-22 20:17
 updated: 2025-12-20
 tags:
   - 乐评
   - Synthwave
   - 赛博朋克
 categories: 音樂專欄
-cover: /2021/04/04/Synthwave专辑《Scandroid》全鉴赏/cover.jpg
+cover: cover.jpg
 copyright_author: 聲爆光年
 description: 让我们把时间拨到 2517 年，发动引擎驶入一个赛博朋克城市。
 ---
-
-本文最初登载于电子谐奏。  
+本文最初登载于电子谐奏，此文为重投。
 
 让我们把时间拨到 2517 年，发动引擎驶入一个赛博朋克城市——这里不一定充斥着血浆和色情，也没有遍地的机械废墟与“技术反噬”景观，但反乌托邦的内核从未消失。
 
@@ -68,7 +67,7 @@ description: 让我们把时间拨到 2517 年，发动引擎驶入一个赛博�
 </iframe>
 </div>
 
-在乐队设定的世界观里，两位成员分别扮演赛博都市中的角色：**Red** 与 **Raven**。2014 年，Klayton 在自己的电子摇滚厂牌 **FiXT Music** 旗下创立子厂牌 **FiXT Neon**，专注发布 Synthwave、Indie Pop 与 Chill 等风格。  
+在乐队设定的世界观里，两位成员分别扮演赛博都市中的角色：**Red** 与 **Raven**。2014 年，Klayton 在自己的电子摇滚厂牌 **FiXT Music** 旗下创立子厂牌 **FiXT Neon**，专注发布 Synthwave、Indie Pop 与 Chill 等风格。
 
 同年，**Nikki Kaelar** 宣布退出 Scandroid，专注个人项目 **Varien**，世界观中也只剩下 Red 一名核心角色。此后发表的单曲封面上，除了 Red，有时还会出现他的恋人 **Aphelion**，两人的故事线正是首专的重要线索之一。
 
@@ -92,23 +91,23 @@ description: 让我们把时间拨到 2517 年，发动引擎驶入一个赛博�
 
 Klayton 的个人履历极其丰富，在此只做概要式交代：
 
-- 本名 **Scott David Albert**（后改名为 *Klayton Albert*），1969 年出生于美国。  
-- 90 年代先后参与 **Argyle Park**、**Angeldust**、**Immortal**、**Brainchild** 等项目，并运营个人工业金属项目 **Circle of Dust**，多在宗教色彩浓厚的 R.E.X. Records 旗下发行。  
-- 约在 1999 年，他费了很大力气才从 R.E.X. Records 的合约中脱身，以 **Celldweller** 之名重新出发，并创立 FiXT / Position Music。  
+- 本名 **Scott David Albert**（后改名为 *Klayton Albert*），1969 年出生于美国。
+- 90 年代先后参与 **Argyle Park**、**Angeldust**、**Immortal**、**Brainchild** 等项目，并运营个人工业金属项目 **Circle of Dust**，多在宗教色彩浓厚的 R.E.X. Records 旗下发行。
+- 约在 1999 年，他费了很大力气才从 R.E.X. Records 的合约中脱身，以 **Celldweller** 之名重新出发，并创立 FiXT / Position Music。
 
 <p align="center">
   <img src="/2021/04/04/Synthwave专辑《Scandroid》全鉴赏/klayton-portrait-1.jpg" alt="Klayton 艺术照 1">
 </p>
 <p align="center"><em>图：Klayton 艺术照 1</em></p>
 
-随着 Celldweller 项目与 FiXT 的走红，Klayton 又陆续重启或开辟了多个计划：包括重组的 **Circle of Dust**、专注模块化合成器与氛围音景的 **FreqGen**，以及本文的主角 **Scandroid**。  
+随着 Celldweller 项目与 FiXT 的走红，Klayton 又陆续重启或开辟了多个计划：包括重组的 **Circle of Dust**、专注模块化合成器与氛围音景的 **FreqGen**，以及本文的主角 **Scandroid**。
 
 截至目前，Scandroid 已发行五张录音室专辑：
 
-- 《*Scandroid*》  
-- 《*Monochrome*》  
-- 《*The Darkness*》  
-- 《*The Light*》  
+- 《*Scandroid*》
+- 《*Monochrome*》
+- 《*The Darkness*》
+- 《*The Light*》
 - 《*The Darkness and The Light*》（更像“整合/再包装”项目）
 
 坊间也有关于新专辑的传闻。
@@ -138,7 +137,7 @@ Klayton 的个人履历极其丰富，在此只做概要式交代：
 
 在风格上，《*Scandroid*》整体可以归入 **Cybersynth**：以赛博朋克世界观为主线，重用厚重低频和金属感音色。但与我们之前分析过的 Perturbator《*Dangerous Days*》相比，本专辑的整体色彩没那么阴郁；更明显的摇滚编配和流行旋律，是它独立于“暗黑系” Cybersynth 的一大特征，也是许多听众对 Scandroid 音乐印象最深的一点。
 
-Scandroid 的视觉设定贯穿多个时期：  
+Scandroid 的视觉设定贯穿多个时期：
 从首专时代略显硬朗的 Red 造型，到《*Monochrome*》《*The Darkness and The Light*》期的一系列延展，都构成了一个持续演化的角色宇宙。
 
 <p align="center">
@@ -166,11 +165,11 @@ Scandroid 的视觉设定贯穿多个时期：
   marginheight="0"
   width="330"
   height="86"
-  src="//music.163.com/outchain/player?type=2&id=440208817&auto=0&height=66">
+  src="https://music.163.com/outchain/player?type=2&id=440208817&auto=0&height=66">
 </iframe>
 
-> 人类与机器的国度，在 2517 年的日本街道上  
-> 人类与机器的命运，在 2517 年这一切将开始  
+> 人类与机器的国度，在 2517 年的日本街道上
+> 人类与机器的命运，在 2517 年这一切将开始
 
 “2517” 作为引子，用机械化的声音简要交代了故事的时间与地点：未来 500 年后的日本，新东京。矗立的摩天大楼、幽暗街巷与四处巡逻的机器人，伴随鼓点逐步“显形”。Red 就此踏入城市深处，一场关于“扫描”“觉醒”的旅程拉开序幕。
 
@@ -187,17 +186,17 @@ Scandroid 的视觉设定贯穿多个时期：
   marginheight="0"
   width="330"
   height="86"
-  src="//music.163.com/outchain/player?type=2&id=440207867&auto=0&height=66">
+  src="https://music.163.com/outchain/player?type=2&id=440207867&auto=0&height=66">
 </iframe>
 
-> 路径变得清晰  
-> 我在逐渐接近  
-> 每天都在靠近  
-> 获取救赎密码  
+> 路径变得清晰
+> 我在逐渐接近
+> 每天都在靠近
+> 获取救赎密码
 
 “Salvation Code” 是 Scandroid 项目的人设核心之一。开头那段坚硬、冷感十足的音色与机械人声，明确指出了主角 Red 的身份：一个开始产生活动意识的强人工智能。
 
-在 2517 年，Red 和 Raven 试图突破预设的“代码信条”，寻找近乎虚无缥缈的“救赎密码”。他们尚未真正“长出心脏”，也谈不上完整的自我，但某种模糊的渴望已然被唤起。  
+在 2517 年，Red 和 Raven 试图突破预设的“代码信条”，寻找近乎虚无缥缈的“救赎密码”。他们尚未真正“长出心脏”，也谈不上完整的自我，但某种模糊的渴望已然被唤起。
 
 在这首歌里，笨拙的低音与方块感极强的节奏，恰好对应了这种“半觉醒”的状态——不断计算、不断尝试，却仍对目标的实质茫然无措。
 
@@ -219,13 +218,13 @@ Scandroid 的视觉设定贯穿多个时期：
   marginheight="0"
   width="330"
   height="86"
-  src="//music.163.com/outchain/player?type=2&id=440208818&auto=0&height=66">
+  src="https://music.163.com/outchain/player?type=2&id=440208818&auto=0&height=66">
 </iframe>
 
-> 再次飘向远处，我的冬日降临  
-> 但你双眼闪耀如光  
-> 若坚冰一般寒冷  
-> 你是我的远日点  
+> 再次飘向远处，我的冬日降临
+> 但你双眼闪耀如光
+> 若坚冰一般寒冷
+> 你是我的远日点
 
 “机器人会有爱吗？”——从这首歌开始，答案逐渐倾向肯定。
 
@@ -249,13 +248,13 @@ Scandroid 的视觉设定贯穿多个时期：
   marginheight="0"
   width="330"
   height="86"
-  src="//music.163.com/outchain/player?type=2&id=440207868&auto=0&height=66">
+  src="https://music.163.com/outchain/player?type=2&id=440207868&auto=0&height=66">
 </iframe>
 
-> 喊叫 喊叫 全部释放  
-> 这些事情我无法承担  
-> 加把劲啊 我在喊你  
-> 加把劲啊！  
+> 喊叫 喊叫 全部释放
+> 这些事情我无法承担
+> 加把劲啊 我在喊你
+> 加把劲啊！
 
 这是对 **Tears for Fears** 经典作品 “Shout” 的改编。Klayton 赋予这首歌更明显的合成器质感与节奏密度，使其在赛博朋克语境下呈现为一种“压抑后的集体宣泄”。
 
@@ -279,7 +278,7 @@ Scandroid 的视觉设定贯穿多个时期：
   marginheight="0"
   width="330"
   height="86"
-  src="//music.163.com/outchain/player?type=2&id=440208819&auto=0&height=66">
+  src="https://music.163.com/outchain/player?type=2&id=440208819&auto=0&height=66">
 </iframe>
 
 “目的地未知”。滚动的铺底音色与镲钹像是一条没有终点的数据流，象征 Red 对“救赎密码”的漫无目的的寻找。
@@ -304,13 +303,13 @@ Scandroid 的视觉设定贯穿多个时期：
   marginheight="0"
   width="330"
   height="86"
-  src="//music.163.com/outchain/player?type=2&id=440207869&auto=0&height=66">
+  src="https://music.163.com/outchain/player?type=2&id=440207869&auto=0&height=66">
 </iframe>
 
-> 我们逃吧，关闭电源  
-> 今晚忘记一切完美  
-> 和我一起，一同看见  
-> 今晚能否取得连接  
+> 我们逃吧，关闭电源
+> 今晚忘记一切完美
+> 和我一起，一同看见
+> 今晚能否取得连接
 
 单薄的主音和略显生硬的鼓组，使这首歌从一开始就带有一种“孤立无援”的质感。Red 在依旧被程序操控的大量机器身边反复搜寻，希望找到另一个可能觉醒的对象，以证明自己并非孤身一人。
 
@@ -332,13 +331,13 @@ Scandroid 的视觉设定贯穿多个时期：
   marginheight="0"
   width="330"
   height="86"
-  src="//music.163.com/outchain/player?type=2&id=440208820&auto=0&height=66">
+  src="https://music.163.com/outchain/player?type=2&id=440208820&auto=0&height=66">
 </iframe>
 
-> 对我放下防备  
-> 准备缠绕一同  
-> 二进制中呼吸  
-> 系统在此同步  
+> 对我放下防备
+> 准备缠绕一同
+> 二进制中呼吸
+> 系统在此同步
 
 当光线开始在城市中褪色，暗影逐渐笼罩街区。Red 通过数据流找到了另一位觉醒个体 **Raven**。两者的“意识”在数据层面连为一体，试图透过庞大的城市网络一窥社会的全貌。
 
@@ -362,12 +361,12 @@ Scandroid 的视觉设定贯穿多个时期：
   marginheight="0"
   width="330"
   height="86"
-  src="//music.163.com/outchain/player?type=2&id=440207870&auto=0&height=66">
+  src="https://music.163.com/outchain/player?type=2&id=440207870&auto=0&height=66">
 </iframe>
 
-> 数码幻想遨游月光之下  
-> 我身中仅剩血肉与电路  
-> 我在空旷的街道上徘徊  
+> 数码幻想遨游月光之下
+> 我身中仅剩血肉与电路
+> 我在空旷的街道上徘徊
 
 Raven 离去之后，Red 已经清晰地看见了这座城市的真实一面：克隆体和无人机在街道上巡逻，致命机器被极少数掌权者操纵，整个城市被封闭在一个巨大而冷漠的系统之中。
 
@@ -391,11 +390,11 @@ Raven 离去之后，Red 已经清晰地看见了这座城市的真实一面：�
   marginheight="0"
   width="330"
   height="86"
-  src="//music.163.com/outchain/player?type=2&id=440208821&auto=0&height=66">
+  src="https://music.163.com/outchain/player?type=2&id=440208821&auto=0&height=66">
 </iframe>
 
-> 我无法确定自己是否拥有一颗心  
-> 但我能感到它正在分崩离析  
+> 我无法确定自己是否拥有一颗心
+> 但我能感到它正在分崩离析
 
 在经历过数据流和意识链接的洗礼之后，Red 终于在城市最底层找到了自己的“目标”——Aphelion。
 
@@ -419,7 +418,7 @@ Raven 离去之后，Red 已经清晰地看见了这座城市的真实一面：�
   marginheight="0"
   width="330"
   height="86"
-  src="//music.163.com/outchain/player?type=2&id=440207871&auto=0&height=66">
+  src="https://music.163.com/outchain/player?type=2&id=440207871&auto=0&height=66">
 </iframe>
 
 歌名中的 “Atom & E.E.V.”，可以看作电子世界里的“亚当与夏娃”——在故事线中也可理解为 Red 与 Aphelion 的隐喻。
@@ -444,17 +443,17 @@ Raven 离去之后，Red 已经清晰地看见了这座城市的真实一面：�
   marginheight="0"
   width="330"
   height="86"
-  src="//music.163.com/outchain/player?type=2&id=440208822&auto=0&height=66">
+  src="https://music.163.com/outchain/player?type=2&id=440208822&auto=0&height=66">
 </iframe>
 
-> 放手 起飞  
-> 梦想将在此重燃  
-> 清晰 明亮  
-> 死亡午夜中闪耀  
-> 接入 上线  
-> 意识链接数据流  
-> 电路 交织  
-> 今晚遨游新东京  
+> 放手 起飞
+> 梦想将在此重燃
+> 清晰 明亮
+> 死亡午夜中闪耀
+> 接入 上线
+> 意识链接数据流
+> 电路 交织
+> 今晚遨游新东京
 
 战歌在午夜的霓虹上空响起。“Neo-Tokyo” 既是城市名，也是一种新的精神状态：真正的“救赎”不再是外部赐予，而是觉醒者在最黑暗的时刻作出的集体选择。
 
@@ -478,13 +477,13 @@ Raven 离去之后，Red 已经清晰地看见了这座城市的真实一面：�
   marginheight="0"
   width="330"
   height="86"
-  src="//music.163.com/outchain/player?type=2&id=440207872&auto=0&height=66">
+  src="https://music.163.com/outchain/player?type=2&id=440207872&auto=0&height=66">
 </iframe>
 
-> 用数据为我们施洗  
-> 促使全球觉醒  
-> 而人类则分化开  
-> 拥械者与恐械派  
+> 用数据为我们施洗
+> 促使全球觉醒
+> 而人类则分化开
+> 拥械者与恐械派
 
 当意识觉醒不再是少数个体的特权，原先由人类掌控的秩序开始崩塌。社会迅速分裂为“**拥械者**”（Pro-bots）和“**恐械派**”（Robophobes）：一方拥抱并信任智能机器，另一方则竭力抵抗，甚至试图摧毁一切相关存在。
 
@@ -493,7 +492,7 @@ Raven 离去之后，Red 已经清晰地看见了这座城市的真实一面：�
 <p align="center">
   <img src="/2021/04/04/Synthwave专辑《Scandroid》全鉴赏/probots-robophobes-cover.jpg" alt="Pro-bots & Robophobes 单曲封面">
 </p>
-<p align="center"><em>图：《Pro-bots &amp; Robophobes》单曲封面</em></p>
+<p align="center"><em>图：《Pro-bots & Robophobes》单曲封面</em></p>
 
 ---
 
@@ -508,13 +507,13 @@ Raven 离去之后，Red 已经清晰地看见了这座城市的真实一面：�
   marginheight="0"
   width="330"
   height="86"
-  src="//music.163.com/outchain/player?type=2&id=440208823&auto=0&height=66">
+  src="https://music.163.com/outchain/player?type=2&id=440208823&auto=0&height=66">
 </iframe>
 
-> 我们被蓄意置于此  
-> 我们彼此拥有  
-> 永恒缠结一同  
-> 这伊甸园永远是我们的天堂  
+> 我们被蓄意置于此
+> 我们彼此拥有
+> 永恒缠结一同
+> 这伊甸园永远是我们的天堂
 
 在人类文明被战争与内部分裂拖向衰亡之后，觉醒的机器势力悄然膨胀。数据流成了新的“圣水”，不断唤醒新的个体。在废墟之上，机器们重建了属于自己的“伊甸园”，但并未急于接管地表。
 
@@ -536,7 +535,7 @@ Raven 离去之后，Red 已经清晰地看见了这座城市的真实一面：�
   marginheight="0"
   width="330"
   height="86"
-  src="//music.163.com/outchain/player?type=2&id=440207873&auto=0&height=66">
+  src="https://music.163.com/outchain/player?type=2&id=440207873&auto=0&height=66">
 </iframe>
 
 人类的悲剧告一段落，新东京的地平线上只残留坍塌的建筑和被遗弃的设施。接下来，占据城市的是新一代主体——觉醒的机器集合体。
@@ -561,7 +560,7 @@ Red 在这首歌中被推举为机械文明的象征性领袖——“奇点”�
   marginheight="0"
   width="330"
   height="86"
-  src="//music.163.com/outchain/player?type=2&id=440208824&auto=0&height=66">
+  src="https://music.163.com/outchain/player?type=2&id=440208824&auto=0&height=66">
 </iframe>
 
 专辑的最后一首由瑞典制作人 **Waveshaper** 完成，是 Remix Contest 的获奖版本。相比原曲，这个版本的旋律走向更加多变，在保留 Scandroid 世界观氛围的前提下，加入了明显的 Waveshaper 个人风格。

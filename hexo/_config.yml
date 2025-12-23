@@ -4,7 +4,7 @@
 
 # Site
 title: 簡諧點源
-subtitle: '秩序基於裂痕，毀於裂痕 <br/> 簡諧波串連裂痕，舞動於秩序之中'
+subtitle: ''
 description: '樂隊門戶網站'
 keywords:
 author: 簡諧點源
@@ -90,7 +90,7 @@ pagination_dir: page
 
 # Include / Exclude file(s)
 ## include:/exclude: options only apply to the 'source/' folder
-include:
+include: 
 exclude:
 ignore:
 
@@ -136,7 +136,7 @@ feed:
   limit: 20
   hub:
   content:
-  content_limit: 140
+  content_limit: 0
   content_limit_delim: ' '
   order_by: -date
   icon: /img/logo_harmonese.png

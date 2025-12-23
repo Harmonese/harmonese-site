@@ -24,7 +24,7 @@
 
 -**音乐元数据 / 完整发行目录 / 录音信息 / 完整 credits 等**
 
-- 维护于 [MusicBrainz](https://musicbrainz.org/search?query=harmonese&type=artist&method=indexed) 数据库的相关页面。
+- 维护于 [MusicBrainz](https://musicbrainz.org/artist/ab1d470e-10fe-4d25-bde9-2ef62b7b8397) 数据库的相关页面。
 
 -**歌词**
 
@@ -43,7 +43,7 @@
 
 ## 乐队简介
 
-簡諧點源（Harmonese）是一支中国的电子音乐组合，由 **聲爆光年** 及 **概率雲實體** 联手创立，于2021 年正式成立。
+簡諧點源（Harmonese）是一支中国的电子音乐组合，由 **聲爆光年** 及 **概率雲實體** 联手创立，于 2021 年正式成立。
 
 ### 核心成员
 

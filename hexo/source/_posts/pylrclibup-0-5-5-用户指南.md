@@ -9,10 +9,9 @@ tags:
   - Python
 categories: 軟件項目
 description: 基于 Python 为 lrclib.net 开发的本地歌词上传工具，支持自动匹配、标准化和智能管理。
-cover: /2025/12/14/pylrclibup-0-5-5-用户指南/Screenshot.png
+cover: Screenshot.png
 copyright_author: 簡諧點源
 ---
-
 此项目发布于 [GitHub](https://github.com/Harmonese/pylrclibup) 和 [PyPI](https://pypi.org/project/pylrclibup/)
 
 # pylrclibup

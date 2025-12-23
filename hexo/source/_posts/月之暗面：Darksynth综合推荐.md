@@ -1,19 +1,17 @@
 ---
 title: 月之暗面：Darksynth综合推荐
-date: 2022-01-21 22:30
+date: 2023-10-23 22:30
 updated: 2022-01-21 22:30
 tags:
   - 电子音乐
   - 合成器浪潮
   - 赛博朋克
-  - 恐怖
 categories: 音樂專欄
-cover: /2022/01/21/月之暗面：Darksynth综合推荐/cover.jpg
+cover: cover.jpg
 copyright_author: 聲爆光年
 description: 本期不再做一整张专辑的“全鉴赏”，而是围绕一个分支风格来横向展开：Darksynth。
 ---
-
-本文最初刊载于电子谐奏。
+本文最初登载于电子谐奏，此文为重投。
 
 本期不再做一整张专辑的“全鉴赏”，而是围绕一个分支风格来横向展开：**Darksynth**。
 
@@ -49,7 +47,7 @@ description: 本期不再做一整张专辑的“全鉴赏”，而是围绕一�
   marginheight="0"
   width="330"
   height="86"
-  src="//music.163.com/outchain/player?type=2&id=26760429&auto=1&height=66">
+  src="https://music.163.com/outchain/player?type=2&id=26760429&auto=1&height=66">
 </iframe>
 
 而在后来的 Synthwave 发展史中，里程碑式专辑 **Kavinsky –《OutRun》** 里，也有不少作品在气质上完全可以算作 Darksynth，尽管当时这个概念还没被明确提出：凶狠的锯齿主音、生硬粗暴的低音层，以及若隐若现的惊悚氛围，都已经具备了 Darksynth 的雏形。
@@ -69,6 +67,7 @@ description: 本期不再做一整张专辑的“全鉴赏”，而是围绕一�
 差不多是在这个时间段，**Perturbator**、**Mega Drive**、**Dance With The Dead** 等项目相继成立，并迅速在圈内崭露头角，为 Darksynth 的成形做出了关键贡献。
 
 - **Perturbator**
+
   <div align="center">
   <iframe
     frameborder="no"
@@ -80,8 +79,8 @@ description: 本期不再做一整张专辑的“全鉴赏”，而是围绕一�
     src="https://music.163.com/outchain/player?type=1&id=34943328&auto=1&height=430">
   </iframe>
   </div>
-
 - **Mega Drive – 早期代表《198XAD》**
+
   <div align="center">
   <iframe
     frameborder="no"
@@ -93,8 +92,8 @@ description: 本期不再做一整张专辑的“全鉴赏”，而是围绕一�
     src="https://music.163.com/outchain/player?type=1&id=2887371&auto=1&height=430">
   </iframe>
   </div>
-
 - **Dance With The Dead – 早期代表《Out of Body》**
+
   <div align="center">
   <iframe
     frameborder="no"
@@ -138,9 +137,8 @@ Darksynth 本身并不像 House 那样有固定的 BPM 区间，也不像 Hardco
     marginheight="0"
     width="330"
     height="86"
-    src="//music.163.com/outchain/player?type=2&id=28681523&auto=1&height=66">
+    src="https://music.163.com/outchain/player?type=2&id=28681523&auto=1&height=66">
   </iframe>
-
 - **Diabolus Ex Machina**
 
   <iframe
@@ -150,9 +148,8 @@ Darksynth 本身并不像 House 那样有固定的 BPM 区间，也不像 Hardco
     marginheight="0"
     width="330"
     height="86"
-    src="//music.163.com/outchain/player?type=2&id=437291000&auto=1&height=66">
+    src="https://music.163.com/outchain/player?type=2&id=437291000&auto=1&height=66">
   </iframe>
-
 - **Excess**
 
   <iframe
@@ -162,7 +159,7 @@ Darksynth 本身并不像 House 那样有固定的 BPM 区间，也不像 Hardco
     marginheight="0"
     width="330"
     height="86"
-    src="//music.163.com/outchain/player?type=2&id=1819511483&auto=1&height=66">
+    src="https://music.163.com/outchain/player?type=2&id=1819511483&auto=1&height=66">
   </iframe>
 
 也正因为此，**Darksynth 与其他风格的混搭极其常见**。常见的组合包括：
@@ -196,7 +193,6 @@ Darksynth 的流行，也催生了不少非常边缘、甚至有点魔幻的“�
     <img src="/2022/01/21/月之暗面：Darksynth综合推荐/fashwave-poster.jpg" alt="Fashwave 视频配图示例">
   </p>
   <p align="center"><em>图：某 Fashwave 视频所配的极右宣传图</em></p>
-
 - **Sovietwave + Post-punk**
   部分以苏维埃美学为壳、以冷峻后朋为核的作品，有时也被少数听众称作 Darksynth。例如下面这首：
 
@@ -209,7 +205,7 @@ Darksynth 的流行，也催生了不少非常边缘、甚至有点魔幻的“�
     marginheight="0"
     width="330"
     height="86"
-    src="//music.163.com/outchain/player?type=2&id=1413481294&auto=1&height=66">
+    src="https://music.163.com/outchain/player?type=2&id=1413481294&auto=1&height=66">
   </iframe>
 
   但从音乐技术层面看，这类作品与典型 Darksynth 相距甚远，因此这种归类并不常见。
@@ -229,9 +225,8 @@ Darksynth 的流行，也催生了不少非常边缘、甚至有点魔幻的“�
     marginheight="0"
     width="330"
     height="86"
-    src="//music.163.com/outchain/player?type=2&id=1414002209&auto=1&height=66">
+    src="https://music.163.com/outchain/player?type=2&id=1414002209&auto=1&height=66">
   </iframe>
-
 - **No Birthday – 【FREE】精神入侵 - Dark Synthwave type beat**
 
   <iframe
@@ -241,7 +236,7 @@ Darksynth 的流行，也催生了不少非常边缘、甚至有点魔幻的“�
     marginheight="0"
     width="330"
     height="86"
-    src="//music.163.com/outchain/player?type=2&id=1810150717&auto=1&height=66">
+    src="https://music.163.com/outchain/player?type=2&id=1810150717&auto=1&height=66">
   </iframe>
 
 （厚颜无耻自荐一首。）
@@ -395,9 +390,8 @@ Darksynth 的流行，也催生了不少非常边缘、甚至有点魔幻的“�
     marginheight="0"
     width="330"
     height="86"
-    src="//music.163.com/outchain/player?type=2&id=1448408478&auto=1&height=66">
+    src="https://music.163.com/outchain/player?type=2&id=1448408478&auto=1&height=66">
   </iframe>
-
 - **Fab Tool**
 
   <iframe
@@ -407,7 +401,7 @@ Darksynth 的流行，也催生了不少非常边缘、甚至有点魔幻的“�
     marginheight="0"
     width="330"
     height="86"
-    src="//music.163.com/outchain/player?type=2&id=1498571879&auto=1&height=66">
+    src="https://music.163.com/outchain/player?type=2&id=1498571879&auto=1&height=66">
   </iframe>
 
 此后他一直在筹备《Leather Teeth》的续作《Leather Terror》，原定 2020 年发行，后因各种原因推迟。根据他的自述，这张专辑会比以往更黑暗，黑金属元素也会更重。
@@ -481,7 +475,7 @@ Perturbator 同样出身金属乐队。与 Carpenter Brut 不同的是，他一�
   marginheight="0"
   width="330"
   height="86"
-  src="//music.163.com/outchain/player?type=2&id=28681530&auto=1&height=66">
+  src="https://music.163.com/outchain/player?type=2&id=28681530&auto=1&height=66">
 </iframe>
 
 #### The Uncanny Valley 与 New Model：从主流暴力到实验解构
@@ -529,7 +523,7 @@ Perturbator 同样出身金属乐队。与 Carpenter Brut 不同的是，他一�
   marginheight="0"
   width="330"
   height="86"
-  src="//music.163.com/outchain/player?type=2&id=1487437691&auto=1&height=66">
+  src="https://music.163.com/outchain/player?type=2&id=1487437691&auto=1&height=66">
 </iframe>
 
 这条路线最终在 2021 年的专辑《Lustful Sacraments》中彻底展开：赛博朋克的视觉符号演变为更加宗教化、仪式化的暗黑美学，音乐则在 Darksynth 的基础上，吸收了大量 Post-punk 与 Coldwave 的质感。
@@ -783,9 +777,8 @@ Essenger 正式切入 Darksynth 轨道的标志，是专辑 **《After Dark》**
     marginheight="0"
     width="330"
     height="86"
-    src="//music.163.com/outchain/player?type=2&id=1494449184&auto=1&height=66">
+    src="https://music.163.com/outchain/player?type=2&id=1494449184&auto=1&height=66">
   </iframe>
-
 - **Get Your Wish (Porter Robinson Cover)**
 
   <iframe
@@ -795,7 +788,7 @@ Essenger 正式切入 Darksynth 轨道的标志，是专辑 **《After Dark》**
     marginheight="0"
     width="330"
     height="86"
-    src="//music.163.com/outchain/player?type=2&id=1430130464&auto=1&height=66">
+    src="https://music.163.com/outchain/player?type=2&id=1430130464&auto=1&height=66">
   </iframe>
 
 2021 年下半年开始，他更换了 LOGO，并陆续放出声音更接近《赛博朋克 2077》预告片风格的新单曲，例如：
@@ -809,7 +802,7 @@ Essenger 正式切入 Darksynth 轨道的标志，是专辑 **《After Dark》**
   marginheight="0"
   width="330"
   height="86"
-  src="//music.163.com/outchain/player?type=2&id=1890369671&auto=1&height=66">
+  src="https://music.163.com/outchain/player?type=2&id=1890369671&auto=1&height=66">
 </iframe>
 
 很多人推测这是新专辑的前奏。
@@ -868,7 +861,6 @@ Essenger 还有一重“隐藏身份”：**Synthwave 乐队 The Midnight《Horr
     src="https://music.163.com/outchain/player?type=1&id=74839215&auto=1&height=430">
   </iframe>
   </div>
-
 - **Resistance**
   主题转向起义战争，但在音色与结构上延续了首专的许多思路，并有明显拓展。
 
@@ -883,7 +875,6 @@ Essenger 还有一重“隐藏身份”：**Synthwave 乐队 The Midnight《Horr
     src="https://music.163.com/outchain/player?type=1&id=74839217&auto=1&height=430">
   </iframe>
   </div>
-
 - **Divide & Collide**
   一张名副其实的“神专”。在不过分渲染恐怖与死亡、也几乎不调动金属武器的情况下，它把 Darksynth 与 Spacewave 融合成一种近乎理想的形态。
 
@@ -912,9 +903,8 @@ Essenger 还有一重“隐藏身份”：**Synthwave 乐队 The Midnight《Horr
     marginheight="0"
     width="330"
     height="86"
-    src="//music.163.com/outchain/player?type=2&id=1459399734&auto=1&height=66">
+    src="https://music.163.com/outchain/player?type=2&id=1459399734&auto=1&height=66">
   </iframe>
-
 - **The Watchers**
 
   <iframe
@@ -924,9 +914,8 @@ Essenger 还有一重“隐藏身份”：**Synthwave 乐队 The Midnight《Horr
     marginheight="0"
     width="330"
     height="86"
-    src="//music.163.com/outchain/player?type=2&id=1482077868&auto=1&height=66">
+    src="https://music.163.com/outchain/player?type=2&id=1482077868&auto=1&height=66">
   </iframe>
-
 - **Alpha Prophecy**
 
   <iframe
@@ -936,7 +925,7 @@ Essenger 还有一重“隐藏身份”：**Synthwave 乐队 The Midnight《Horr
     marginheight="0"
     width="330"
     height="86"
-    src="//music.163.com/outchain/player?type=2&id=1826122188&auto=1&height=66">
+    src="https://music.163.com/outchain/player?type=2&id=1826122188&auto=1&height=66">
   </iframe>
 
 ---
@@ -963,9 +952,8 @@ Scandroid 的作品风格跨度较广，并不局限于单一子风格，但其�
     marginheight="0"
     width="330"
     height="86"
-    src="//music.163.com/outchain/player?type=2&id=440208819&auto=1&height=66">
+    src="https://music.163.com/outchain/player?type=2&id=440208819&auto=1&height=66">
   </iframe>
-
 - **Neo-Tokyo**
 
   <iframe
@@ -975,9 +963,8 @@ Scandroid 的作品风格跨度较广，并不局限于单一子风格，但其�
     marginheight="0"
     width="330"
     height="86"
-    src="//music.163.com/outchain/player?type=2&id=440208822&auto=1&height=66">
+    src="https://music.163.com/outchain/player?type=2&id=440208822&auto=1&height=66">
   </iframe>
-
 - **Pro-Bots & Robophobes（feat. Circle of Dust）**
 
   <iframe
@@ -987,7 +974,7 @@ Scandroid 的作品风格跨度较广，并不局限于单一子风格，但其�
     marginheight="0"
     width="330"
     height="86"
-    src="//music.163.com/outchain/player?type=2&id=440207872&auto=1&height=66">
+    src="https://music.163.com/outchain/player?type=2&id=440207872&auto=1&height=66">
   </iframe>
 
 2018 年的 EP **《The Darkness》** 如其名，是一张完整向 Darksynth 倾斜的作品。与之后的《The Light》相对照，可以很直观地感受到 Scandroid 在“暗”与“梦”两端的不同操刀方式。

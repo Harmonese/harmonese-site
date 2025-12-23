@@ -1,18 +1,17 @@
 ---
 title: Synthwave专辑《Dangerous Days》全鉴赏
-date: 2020-08-04 20:44  
+date: 2023-10-19 20:44  
 updated: 2025-12-20
 tags:
   - 乐评
   - Synthwave
   - 赛博朋克
 categories: 音樂專欄
-cover: /2020/08/04/Synthwave专辑《Dangerous-Days》全鉴赏/cover.jpg
+cover: cover.jpg
 copyright_author: 聲爆光年
 description: 2014 年，Perturbator 加入 Blood Music，并在该厂牌旗下发行了这张在之后影响深远的 Cybersynth 专辑《Dangerous Days》。
 ---
-
-本文最初登载于电子谐奏。  
+本文最初登载于电子谐奏，此文为重投。
 
 赛博朋克文化大致兴起于 1982 年的电影《*银翼杀手*》。与之伴生的，是 20 世纪 80 年代在电影配乐中大量出现的 Synthwave 声音美学。三十多年之后，当现实世界逐步逼近当年人们想象中的“技术深渊”时，现代 Synthwave 也重新进入了大众视野。
 
@@ -65,7 +64,7 @@ Cybersynth 则可以看作赛博朋克世界观在 Synthwave 语境中的投射�
   marginheight="0"
   width="330"
   height="86"
-  src="//music.163.com/outchain/player?type=2&id=28681520&auto=0&height=66">
+  src="https://music.163.com/outchain/player?type=2&id=28681520&auto=0&height=66">
 </iframe>
 
 <iframe
@@ -75,7 +74,7 @@ Cybersynth 则可以看作赛博朋克世界观在 Synthwave 语境中的投射�
   marginheight="0"
   width="330"
   height="86"
-  src="//music.163.com/outchain/player?type=2&id=28681521&auto=0&height=66">
+  src="https://music.163.com/outchain/player?type=2&id=28681521&auto=0&height=66">
 </iframe>
 
 专辑以无缝衔接的两首曲目拉开序幕：“Welcome Back” 作为 Intro，用两分多钟营造出幽暗而压抑的氛围；紧接其后的 “Perturbator's Theme” 则在铺垫完成后直接切入主题。
@@ -98,7 +97,7 @@ Cybersynth 则可以看作赛博朋克世界观在 Synthwave 语境中的投射�
   marginheight="0"
   width="330"
   height="86"
-  src="//music.163.com/outchain/player?type=2&id=28681522&auto=0&height=66">
+  src="https://music.163.com/outchain/player?type=2&id=28681522&auto=0&height=66">
 </iframe>
 
 “Raw Power” 可以直译为“原始之力”。延续 “Perturbator's Theme” 提升后的整体情绪，这首曲目在力度和密度上同样毫不松懈。
@@ -121,7 +120,7 @@ Cybersynth 则可以看作赛博朋克世界观在 Synthwave 语境中的投射�
   marginheight="0"
   width="330"
   height="86"
-  src="//music.163.com/outchain/player?type=2&id=28681523&auto=0&height=66">
+  src="https://music.163.com/outchain/player?type=2&id=28681523&auto=0&height=66">
 </iframe>
 
 “Future Club” 是整张专辑中最具代表性、也最容易打动听众的一首。短暂的 30 秒铺垫之后，厚重的低频与合成器鼓点迅速把律动感推向前台，1:10 左右主旋律切入，并通过多轮推进不断强化。
@@ -144,7 +143,7 @@ Cybersynth 则可以看作赛博朋克世界观在 Synthwave 语境中的投射�
   marginheight="0"
   width="330"
   height="86"
-  src="//music.163.com/outchain/player?type=2&id=28681524&auto=0&height=66">
+  src="https://music.163.com/outchain/player?type=2&id=28681524&auto=0&height=66">
 </iframe>
 
 “War Against Machines”（与机器开战）对应的是赛博朋克叙事里非常典型的母题：强人工智能与人类之间的冲突。
@@ -167,7 +166,7 @@ Cybersynth 则可以看作赛博朋克世界观在 Synthwave 语境中的投射�
   marginheight="0"
   width="330"
   height="86"
-  src="//music.163.com/outchain/player?type=2&id=28681525&auto=0&height=66">
+  src="https://music.163.com/outchain/player?type=2&id=28681525&auto=0&height=66">
 </iframe>
 
 “Hard Wired” 中，空灵却略带疏离感的人声，与生硬的合成器音色发生对撞，勾勒出“新 80 年代”里被荷尔蒙、药物与消费刺激反复浸泡的城市生活。
@@ -190,7 +189,7 @@ Cybersynth 则可以看作赛博朋克世界观在 Synthwave 语境中的投射�
   marginheight="0"
   width="330"
   height="86"
-  src="//music.163.com/outchain/player?type=2&id=28681526&auto=0&height=66">
+  src="https://music.163.com/outchain/player?type=2&id=28681526&auto=0&height=66">
 </iframe>
 
 在略长的引子之后，翻滚的合成低频宣告又一轮“黑暗轰炸”到来。跳跃感很强的合成贝斯和迷幻的电子音层推动整首曲目的律动，营造出一种既亢奋又不安的氛围。曲名中 “She is Next” 这一句，本身就带有一种冷酷的宿命感——在暴力循环的世界里，“下一位”随时可能出现。
@@ -211,7 +210,7 @@ Cybersynth 则可以看作赛博朋克世界观在 Synthwave 语境中的投射�
   marginheight="0"
   width="330"
   height="86"
-  src="//music.163.com/outchain/player?type=2&id=28681527&auto=0&height=66">
+  src="https://music.163.com/outchain/player?type=2&id=28681527&auto=0&height=66">
 </iframe>
 
 这是专辑中第二首以强人工智能为主题的作品。开头引用了《*终结者*》的台词，直接将听众带入“机器视角”的世界。
@@ -234,7 +233,7 @@ Cybersynth 则可以看作赛博朋克世界观在 Synthwave 语境中的投射�
   marginheight="0"
   width="330"
   height="86"
-  src="//music.163.com/outchain/player?type=2&id=28681528&auto=0&height=66">
+  src="https://music.163.com/outchain/player?type=2&id=28681528&auto=0&height=66">
 </iframe>
 
 不要被 “Minuit” 开头柔和的音色误导。Perturbator 与 **Dead Astronauts** 合作的这首歌，虽然在失真程度上不如前几首那般“暴烈”，但低沉的人声与厚重的音墙依然牢牢压住了整体情绪。
@@ -257,7 +256,7 @@ Cybersynth 则可以看作赛博朋克世界观在 Synthwave 语境中的投射�
   marginheight="0"
   width="330"
   height="86"
-  src="//music.163.com/outchain/player?type=2&id=28681529&auto=0&height=66">
+  src="https://music.163.com/outchain/player?type=2&id=28681529&auto=0&height=66">
 </iframe>
 
 “恶魔”意象是 Perturbator 作品里经常出现的元素之一。“Satanic Rites” 以粗粝的合成音层开场，大量失谐的波形充斥全曲。中段出现的尖叫声进一步强化了恐惧与混乱的氛围。
@@ -280,7 +279,7 @@ Cybersynth 则可以看作赛博朋克世界观在 Synthwave 语境中的投射�
   marginheight="0"
   width="330"
   height="86"
-  src="//music.163.com/outchain/player?type=2&id=28681530&auto=0&height=66">
+  src="https://music.163.com/outchain/player?type=2&id=28681530&auto=0&height=66">
 </iframe>
 
 “Complete Domination” 是一首节奏极其紧凑的作品。翻滚的弹拨合成器不断冲击听觉，在高密度的十六分音符镲和低频推进之下，很容易让人联想到赛博未来中的霓虹赛车场：机器、车辆与人类在光与影交错的赛道上全速冲撞。
@@ -303,7 +302,7 @@ Cybersynth 则可以看作赛博朋克世界观在 Synthwave 语境中的投射�
   marginheight="0"
   width="330"
   height="86"
-  src="//music.163.com/outchain/player?type=2&id=28681531&auto=0&height=66">
+  src="https://music.163.com/outchain/player?type=2&id=28681531&auto=0&height=66">
 </iframe>
 
 与专辑中多首高压、失真的作品相比，“Last Kiss” 显得格外特别。它更接近一首带有微光色彩的 Ambient：柔和的弹拨主旋律在平静的底色下徐徐展开，像是在黑暗世界中短暂露出的黄昏天空。
@@ -328,15 +327,15 @@ Cybersynth 则可以看作赛博朋克世界观在 Synthwave 语境中的投射�
   marginheight="0"
   width="330"
   height="86"
-  src="//music.163.com/outchain/player?type=2&id=28681532&auto=0&height=66">
+  src="https://music.163.com/outchain/player?type=2&id=28681532&auto=0&height=66">
 </iframe>
 
 作为收官的同名组曲 “Dangerous Days” 长达约 12 分钟，是整张专辑叙事与情绪的集中总结。
 
-- 在前段铺垫之后，第一主题开始展开：尖锐的警报音色与高强度节奏不断提醒着“危险时日”的核心意象。  
-- 约 4:40 左右，第一主题暂告一段落，音乐转入蓄势感极强的第二部分。底鼓维持着紧绷的节奏，为主旋律的再度出现积蓄能量。  
-- 约 6:00 时，第一主题以新的编排方式回归。  
-- 8 分钟附近，短暂的第三主题过渡显现出来，随即逐渐淡出。  
+- 在前段铺垫之后，第一主题开始展开：尖锐的警报音色与高强度节奏不断提醒着“危险时日”的核心意象。
+- 约 4:40 左右，第一主题暂告一段落，音乐转入蓄势感极强的第二部分。底鼓维持着紧绷的节奏，为主旋律的再度出现积蓄能量。
+- 约 6:00 时，第一主题以新的编排方式回归。
+- 8 分钟附近，短暂的第三主题过渡显现出来，随即逐渐淡出。
 - 9 分半之后，音乐进入最终的氛围尾声：细碎的铃声与柔和的波形缓缓远去，《*Dangerous Days*》整张专辑在一种近乎寂静的状态中结束。
 
 <p align="center">

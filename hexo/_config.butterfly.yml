@@ -272,11 +272,11 @@ footer:
   nav:
   owner:
     enable: true
-    since: 2025
+    since: 2021
   # Copyright of theme and framework
   copyright:
-    enable: true
-    version: true
+    enable: false
+    version: false
   custom_text: 諧波潮 出品
 
 # --------------------------------------

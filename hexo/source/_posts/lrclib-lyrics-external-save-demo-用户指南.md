@@ -9,10 +9,9 @@ tags:
   - Python
 categories: 軟件項目
 description: 基于 Python 为 MusicBrainz Picard 开发的歌词插件，在刮削元数据时自动从 lrclib.net 抓取歌词并保存在本地文件夹。
-cover: /2025/11/14/lrclib-lyrics-external-save-demo-用户指南/Screenshot.png
+cover: Screenshot.png
 copyright_author: 簡諧點源
 ---
-
 此插件源码发布于 [GitHub](https://github.com/Harmonese/lrclib_lyrics_external_save)，已经提交给 MusicBrainz 官方插件仓库的 PR，目前仍在审核中。
 
 # LRCLIB 歌词外部保存（Picard 插件）

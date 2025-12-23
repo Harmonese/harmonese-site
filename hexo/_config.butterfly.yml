@@ -485,7 +485,7 @@ search:
   # Choose: algolia_search / local_search / docsearch
   # leave it empty if you don't need search
   use: local_search
-  placeholder: 搜索
+  placeholder: 
 
   # Algolia Search
   algolia_search:

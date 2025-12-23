@@ -5,7 +5,7 @@ tags:
   - 推歌
   - 短评
 categories: 音樂短評
-cover: /img/short_cover.jpg
+cover:  /pictures/short_cover.jpg
 date: 2023-11-05 23:39
 description: 外太空赛博抽象哥Auralnauts的力作《Beyond Copper》为您带来喜剧化的电子乐节拍
 copyright_author: 聲爆光年

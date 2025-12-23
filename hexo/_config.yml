@@ -139,7 +139,7 @@ feed:
   content_limit: 0
   content_limit_delim: ' '
   order_by: -date
-  icon: /img/logo_harmonese.png
+  icon:  /pictures/logo_harmonese.png
   autodiscovery: true
 
 

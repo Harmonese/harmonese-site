@@ -8,7 +8,7 @@ tags:
 categories: 音樂短評
 date: 2023-10-16 08:20
 description: 英国二人电子乐队LeBrock首专。
-cover: /img/short_cover.jpg
+cover:  /pictures/short_cover.jpg
 copyright_author: 聲爆光年
 ---
 

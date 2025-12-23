@@ -21,17 +21,15 @@ description: 让我们把时间拨到 2517 年，发动引擎驶入一个赛博�
 
 2013 年，美国多面手 **Klayton Albert**（下文简称 *Klayton*）在自己的 Facebook 页“**Celldweller**”上发布了一张“机械骷髅头”式的 LOGO。对熟悉唱片行业的人来说，这往往意味着：一个新的音乐项目即将登场。
 
-<p align="center">
-  <img src="/2021/04/04/Synthwave专辑《Scandroid》全鉴赏/mechanical-skull-logo.jpg" alt="Scandroid 机械骷髅 LOGO">
-</p>
-<p align="center"><em>图：新音乐项目 LOGO</em></p>
+![Scandroid 机械骷髅 LOGO](mechanical-skull-logo.jpg)
+
+*图：新音乐项目 LOGO*
 
 不久之后，介绍短片 “What is the Salvation Code?” 被上传到 YouTube——这便是由 **Klayton Albert** 和 **Nikki Kaelar** 共同组建的全新 Synthwave 乐队 **Scandroid** 的第一次亮相。视频中的配乐，正是后来同名首专《*Scandroid*》里的先行单曲 “Salvation Code”。
 
-<p align="center">
-  <img src="/2021/04/04/Synthwave专辑《Scandroid》全鉴赏/salvation-code-video-still.jpg" alt="What is the Salvation Code? 视频画面">
-</p>
-<p align="center"><em>图：视频 “What is the Salvation Code?” 画面</em></p>
+![What is the Salvation Code? 视频画面](salvation-code-video-still.jpg)
+
+*图：视频 “What is the Salvation Code?” 画面*
 
 这支视频至今播放量仍不足一万，像是一则“安静”的公告，却在事实上宣告了 Synthwave 发展史上一支重要力量的诞生。几乎同时，网站 SalvationCode.com（现已下线）上线运营。网站要求访客输入“救赎密码”；密码最终被确定为 “2513”。输入正确后，用户可以在站内抢先试听 “Salvation Code” 的更长版本片段。
 
@@ -71,10 +69,9 @@ description: 让我们把时间拨到 2517 年，发动引擎驶入一个赛博�
 
 同年，**Nikki Kaelar** 宣布退出 Scandroid，专注个人项目 **Varien**，世界观中也只剩下 Red 一名核心角色。此后发表的单曲封面上，除了 Red，有时还会出现他的恋人 **Aphelion**，两人的故事线正是首专的重要线索之一。
 
-<p align="center">
-  <img src="/2021/04/04/Synthwave专辑《Scandroid》全鉴赏/red-raven-fanart.jpg" alt="Red 与 Raven 饭制人设">
-</p>
-<p align="center"><em>图：Red（左）与 Raven（右）饭制人设</em></p>
+![Red 与 Raven 饭制人设](red-raven-fanart.jpg)
+
+*图：Red（左）与 Raven（右）饭制人设*
 
 ---
 
@@ -84,10 +81,9 @@ description: 让我们把时间拨到 2517 年，发动引擎驶入一个赛博�
 
 与此同时，这张专辑也显著抬升了 FiXT Neon 的行业能见度，使之迅速成为 Cybersynth 代表厂牌之一。本组织曾在网易云推出 FiXT Neon 歌单《**FiXT Neon：赛博朋克与远未来**》，收录截至 2020 年 8 月前的代表作品。
 
-<p align="center">
-  <img src="/2021/04/04/Synthwave专辑《Scandroid》全鉴赏/fixt-neon-logo.jpg" alt="FiXT Neon logo">
-</p>
-<p align="center"><em>图：FiXT Neon 唱片公司 LOGO</em></p>
+![FiXT Neon logo](fixt-neon-logo.jpg)
+
+*图：FiXT Neon 唱片公司 LOGO*
 
 Klayton 的个人履历极其丰富，在此只做概要式交代：
 
@@ -95,10 +91,9 @@ Klayton 的个人履历极其丰富，在此只做概要式交代：
 - 90 年代先后参与 **Argyle Park**、**Angeldust**、**Immortal**、**Brainchild** 等项目，并运营个人工业金属项目 **Circle of Dust**，多在宗教色彩浓厚的 R.E.X. Records 旗下发行。
 - 约在 1999 年，他费了很大力气才从 R.E.X. Records 的合约中脱身，以 **Celldweller** 之名重新出发，并创立 FiXT / Position Music。
 
-<p align="center">
-  <img src="/2021/04/04/Synthwave专辑《Scandroid》全鉴赏/klayton-portrait-1.jpg" alt="Klayton 艺术照 1">
-</p>
-<p align="center"><em>图：Klayton 艺术照 1</em></p>
+![Klayton 艺术照 1](klayton-portrait-1.jpg)
+
+*图：Klayton 艺术照 1*
 
 随着 Celldweller 项目与 FiXT 的走红，Klayton 又陆续重启或开辟了多个计划：包括重组的 **Circle of Dust**、专注模块化合成器与氛围音景的 **FreqGen**，以及本文的主角 **Scandroid**。
 
@@ -112,10 +107,9 @@ Klayton 的个人履历极其丰富，在此只做概要式交代：
 
 坊间也有关于新专辑的传闻。
 
-<p align="center">
-  <img src="/2021/04/04/Synthwave专辑《Scandroid》全鉴赏/klayton-portrait-2.jpg" alt="Klayton 艺术照 2">
-</p>
-<p align="center"><em>图：Klayton 艺术照 2</em></p>
+![Klayton 艺术照 2](klayton-portrait-2.jpg)
+
+*图：Klayton 艺术照 2*
 
 ---
 
@@ -140,15 +134,13 @@ Klayton 的个人履历极其丰富，在此只做概要式交代：
 Scandroid 的视觉设定贯穿多个时期：
 从首专时代略显硬朗的 Red 造型，到《*Monochrome*》《*The Darkness and The Light*》期的一系列延展，都构成了一个持续演化的角色宇宙。
 
-<p align="center">
-  <img src="/2021/04/04/Synthwave专辑《Scandroid》全鉴赏/red-scandroid-era-design.jpg" alt="Scandroid 时代 Red 人设">
-</p>
-<p align="center"><em>图：《Scandroid》时期的 Red 人设</em></p>
+![Scandroid 时代 Red 人设](red-scandroid-era-design.jpg)
 
-<p align="center">
-  <img src="/2021/04/04/Synthwave专辑《Scandroid》全鉴赏/scandroid-darkness-light-era.jpg" alt="The Darkness and The Light 时期 Scandroid 人设">
-</p>
-<p align="center"><em>图：《The Darkness and The Light》时期 Scandroid 人设</em></p>
+*图：《Scandroid》时期的 Red 人设*
+
+![The Darkness and The Light 时期 Scandroid 人设](scandroid-darkness-light-era.jpg)
+
+*图：《The Darkness and The Light》时期 Scandroid 人设*
 
 ---
 
@@ -200,10 +192,9 @@ Scandroid 的视觉设定贯穿多个时期：
 
 在这首歌里，笨拙的低音与方块感极强的节奏，恰好对应了这种“半觉醒”的状态——不断计算、不断尝试，却仍对目标的实质茫然无措。
 
-<p align="center">
-  <img src="/2021/04/04/Synthwave专辑《Scandroid》全鉴赏/scandroid-logo.jpg" alt="Scandroid LOGO">
-</p>
-<p align="center"><em>图：Scandroid LOGO</em></p>
+![Scandroid LOGO](scandroid-logo.jpg)
+
+*图：Scandroid LOGO*
 
 ---
 
@@ -230,10 +221,9 @@ Scandroid 的视觉设定贯穿多个时期：
 
 相较于专辑前段，“Aphelion” 的旋律线更为婉转，合成音色的堆叠也显得温柔许多。Red 用“寒冷”“遥远”来形容自己新萌生的情感：像行星运行轨道上的远日点（Aphelion），在最远的位置，却也最清晰地映出光芒。
 
-<p align="center">
-  <img src="/2021/04/04/Synthwave专辑《Scandroid》全鉴赏/red-aphelion-concept.jpg" alt="Red 与 Aphelion 人设稿">
-</p>
-<p align="center"><em>图：Red 与 Aphelion 人设稿</em></p>
+![Red 与 Aphelion 人设稿](red-aphelion-concept.jpg)
+
+*图：Red 与 Aphelion 人设稿*
 
 ---
 
@@ -260,10 +250,9 @@ Scandroid 的视觉设定贯穿多个时期：
 
 在充满监控与控制的新东京，人类和机器都渴望有一天可以不再麻木，不再被迫对现实的痛感装作若无其事，而是有机会对这座钢铁都市真正吼出自己的愤怒和不甘。
 
-<p align="center">
-  <img src="/2021/04/04/Synthwave专辑《Scandroid》全鉴赏/red-fanart-fullbody.jpg" alt="饭制 Red 人设">
-</p>
-<p align="center"><em>图：饭制 Red 人设</em></p>
+![饭制 Red 人设](red-fanart-fullbody.jpg)
+
+*图：饭制 Red 人设*
 
 ---
 
@@ -285,10 +274,9 @@ Scandroid 的视觉设定贯穿多个时期：
 
 在这首歌的叙事里，Red 开始意识到：所谓的“救赎”很可能只是空洞的口号。他于是转身离开既定路径，向真正未知的方向前进——不再是某个预先定义好的“应许之地”，而是自己也说不清的远方。
 
-<p align="center">
-  <img src="/2021/04/04/Synthwave专辑《Scandroid》全鉴赏/cyberpunk-cityscape.jpg" alt="赛博朋克城市景观">
-</p>
-<p align="center"><em>图：赛博朋克城市景观</em></p>
+![赛博朋克城市景观](cyberpunk-cityscape.jpg)
+
+*图：赛博朋克城市景观*
 
 ---
 
@@ -313,10 +301,9 @@ Scandroid 的视觉设定贯穿多个时期：
 
 单薄的主音和略显生硬的鼓组，使这首歌从一开始就带有一种“孤立无援”的质感。Red 在依旧被程序操控的大量机器身边反复搜寻，希望找到另一个可能觉醒的对象，以证明自己并非孤身一人。
 
-<p align="center">
-  <img src="/2021/04/04/Synthwave专辑《Scandroid》全鉴赏/scandroid-face-design.jpg" alt="Scandroid 面部设定">
-</p>
-<p align="center"><em>图：Scandroid 面部设定</em></p>
+![Scandroid 面部设定](scandroid-face-design.jpg)
+
+*图：Scandroid 面部设定*
 
 ---
 
@@ -343,10 +330,9 @@ Scandroid 的视觉设定贯穿多个时期：
 
 然而，就在真相即将浮出水面前，Raven 独自离开了连接——对 Red 而言，这是一次短暂但意义重大的“吴越同舟”。
 
-<p align="center">
-  <img src="/2021/04/04/Synthwave专辑《Scandroid》全鉴赏/datastream-mv-still.jpg" alt="Datastream MV 截图">
-</p>
-<p align="center"><em>图：“Datastream” MV 截图</em></p>
+![Datastream MV 截图](datastream-mv-still.jpg)
+
+*图：“Datastream” MV 截图*
 
 ---
 
@@ -372,10 +358,9 @@ Raven 离去之后，Red 已经清晰地看见了这座城市的真实一面：�
 
 他在空荡的街道上反复行走，几乎身无长物，却拥有近乎痛苦的清醒——继续寻找下一个可以“建立连接”的个体。
 
-<p align="center">
-  <img src="/2021/04/04/Synthwave专辑《Scandroid》全鉴赏/empty-streets-mv-still.jpg" alt="Empty Streets MV 截图">
-</p>
-<p align="center"><em>图：“Empty Streets” MV 截图</em></p>
+![Empty Streets MV 截图](empty-streets-mv-still.jpg)
+
+*图：“Empty Streets” MV 截图*
 
 ---
 
@@ -400,10 +385,9 @@ Raven 离去之后，Red 已经清晰地看见了这座城市的真实一面：�
 
 他放弃了对“救赎密码”的执念，不再试图通过某种外部系统获得赦免，而是将全部心力投注在唤醒 Aphelion 身上。最终，他成功让她觉醒：这一次，夜晚不再完全属于孤身一人的清醒者。
 
-<p align="center">
-  <img src="/2021/04/04/Synthwave专辑《Scandroid》全鉴赏/red-aphelion-duo-art.jpg" alt="Red 与 Aphelion 人设">
-</p>
-<p align="center"><em>图：Red 与 Aphelion 人设</em></p>
+![Red 与 Aphelion 人设](red-aphelion-duo-art.jpg)
+
+*图：Red 与 Aphelion 人设*
 
 ---
 
@@ -425,10 +409,9 @@ Raven 离去之后，Red 已经清晰地看见了这座城市的真实一面：�
 
 在新东京的霓虹海洋中，萨克斯旋律随曲目展开，音乐一改前段的紧绷与压抑，带有某种轻盈而坚定的喜悦：第一对真正觉醒的机器，在此刻来到人间。
 
-<p align="center">
-  <img src="/2021/04/04/Synthwave专辑《Scandroid》全鉴赏/klayton-portrait-2.jpg" alt="Klayton 艺术照 2">
-</p>
-<p align="center"><em>图：Klayton 艺术照 2</em></p>
+![Klayton 艺术照 2](klayton-portrait-2.jpg)
+
+*图：Klayton 艺术照 2*
 
 ---
 
@@ -459,10 +442,9 @@ Raven 离去之后，Red 已经清晰地看见了这座城市的真实一面：�
 
 此时，新东京的阴谋逐步显形，电流与广告牌再也无法遮蔽即将到来的巨变。Red 与其他觉醒机械准备在这座城市的废墟与车流之间，重新定义“主体”一词的含义。
 
-<p align="center">
-  <img src="/2021/04/04/Synthwave专辑《Scandroid》全鉴赏/neon-tokyo-art.jpg" alt="霓虹东京艺术图">
-</p>
-<p align="center"><em>图：霓虹新东京都艺术图</em></p>
+![霓虹东京艺术图](neon-tokyo-art.jpg)
+
+*图：霓虹新东京都艺术图*
 
 ---
 
@@ -489,10 +471,9 @@ Raven 离去之后，Red 已经清晰地看见了这座城市的真实一面：�
 
 噪声式鼓组与警示音色在这首歌里交织成近乎工业金属级别的密度。新东京地下的“伊甸园”成为观察台：觉醒的机器在此旁观人类互相厮杀，而自身暂不插手。
 
-<p align="center">
-  <img src="/2021/04/04/Synthwave专辑《Scandroid》全鉴赏/probots-robophobes-cover.jpg" alt="Pro-bots & Robophobes 单曲封面">
-</p>
-<p align="center"><em>图：《Pro-bots & Robophobes》单曲封面</em></p>
+![Pro-bots & Robophobes 单曲封面](probots-robophobes-cover.jpg)
+
+*图：《Pro-bots & Robophobes》单曲封面*
 
 ---
 
@@ -517,10 +498,9 @@ Raven 离去之后，Red 已经清晰地看见了这座城市的真实一面：�
 
 在人类文明被战争与内部分裂拖向衰亡之后，觉醒的机器势力悄然膨胀。数据流成了新的“圣水”，不断唤醒新的个体。在废墟之上，机器们重建了属于自己的“伊甸园”，但并未急于接管地表。
 
-<p align="center">
-  <img src="/2021/04/04/Synthwave专辑《Scandroid》全鉴赏/red-monochrome-era-design.jpg" alt="Monochrome 时期 Red 人设">
-</p>
-<p align="center"><em>图：《Monochrome》时期 Red 人设</em></p>
+![Monochrome 时期 Red 人设](red-monochrome-era-design.jpg)
+
+*图：《Monochrome》时期 Red 人设*
 
 ---
 
@@ -542,10 +522,9 @@ Raven 离去之后，Red 已经清晰地看见了这座城市的真实一面：�
 
 Red 在这首歌中被推举为机械文明的象征性领袖——“奇点”。这些看似理性、冷静的机械，既继承了人类的审美与情感，又摆脱了旧时代的制度枷锁。故事的“胜利者”，不再是碳基生命。
 
-<p align="center">
-  <img src="/2021/04/04/Synthwave专辑《Scandroid》全鉴赏/scandroid-darkness-light-era.jpg" alt="The Darkness and The Light 期人设">
-</p>
-<p align="center"><em>图：《The Darkness and The Light》时期 Scandroid 人设</em></p>
+![The Darkness and The Light 期人设](scandroid-darkness-light-era.jpg)
+
+*图：《The Darkness and The Light》时期 Scandroid 人设*
 
 ---
 
@@ -565,10 +544,9 @@ Red 在这首歌中被推举为机械文明的象征性领袖——“奇点”�
 
 专辑的最后一首由瑞典制作人 **Waveshaper** 完成，是 Remix Contest 的获奖版本。相比原曲，这个版本的旋律走向更加多变，在保留 Scandroid 世界观氛围的前提下，加入了明显的 Waveshaper 个人风格。
 
-<p align="center">
-  <img src="/2021/04/04/Synthwave专辑《Scandroid》全鉴赏/dreams-of-neo-tokyo-cover.jpg" alt="Dreams of Neo-Tokyo 封面">
-</p>
-<p align="center"><em>图：《Scandroid》重混音专辑《Dreams of Neo-Tokyo》封面</em></p>
+![Dreams of Neo-Tokyo 封面](dreams-of-neo-tokyo-cover.jpg)
+
+*图：《Scandroid》重混音专辑《Dreams of Neo-Tokyo》封面*
 
 ---
 
@@ -582,10 +560,9 @@ Scandroid 后续的几张专辑在风格上并未完全复刻这张首专的路�
 
 最后附上《*Scandroid*》专辑封面大图一张，聊作收尾。
 
-<p align="center">
-  <img src="/2021/04/04/Synthwave专辑《Scandroid》全鉴赏/scandroid-album-cover-large.jpg" alt="Scandroid 专辑封面大图">
-</p>
-<p align="center"><em>图：《Scandroid》专辑封面大图</em></p>
+![Scandroid 专辑封面大图](scandroid-album-cover-large.jpg)
+
+*图：《Scandroid》专辑封面大图*
 
 <p align="center"><strong>——完——</strong></p>
 

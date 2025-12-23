@@ -6,7 +6,7 @@ tags:
   - 短评
   - Synthwave
 categories: 音樂短評
-cover: /img/short_cover.jpg
+cover:  /pictures/short_cover.jpg
 date: 2023-11-01
 description: 这里是Retrowave明星Robert Parker的707俱乐部，欢迎光临。
 copyright_author: 聲爆光年

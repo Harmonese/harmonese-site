@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="./source/img/butterfly-icon.png" width="150" height="150" alt="Butterfly Logo" />
+<img src="./source /pictures/butterfly-icon.png" width="150" height="150" alt="Butterfly Logo" />
 
 # hexo-theme-butterfly
 
@@ -21,7 +21,7 @@ A modern, elegant and feature-rich theme for Hexo
 
 📖 **Documentation**: [English Docs](https://butterfly.js.org/en/posts/butterfly-docs-en-get-started/) | [中文文档](https://butterfly.js.org/posts/21cfbf15/)
 
-![Butterfly Theme Preview](https://cdn.jsdelivr.net/gh/jerryc127/CDN@m2/img/theme-butterfly-readme.png)
+![Butterfly Theme Preview](https://cdn.jsdelivr.net/gh/jerryc127/CDN@m2 /pictures/theme-butterfly-readme.png)
 
 </div>
 
@@ -139,13 +139,13 @@ Thanks to all the developers who have contributed to the Butterfly theme!
 
 <div align="center">
 
-![Theme Demo](https://cdn.jsdelivr.net/gh/jerryc127/CDN@m2/img/butterfly-readme-screenshots-1.jpg)
+![Theme Demo](https://cdn.jsdelivr.net/gh/jerryc127/CDN@m2 /pictures/butterfly-readme-screenshots-1.jpg)
 
-![Theme Demo](https://cdn.jsdelivr.net/gh/jerryc127/CDN@m2/img/butterfly-readme-screenshots-2.jpg)
+![Theme Demo](https://cdn.jsdelivr.net/gh/jerryc127/CDN@m2 /pictures/butterfly-readme-screenshots-2.jpg)
 
-![Theme Demo](https://cdn.jsdelivr.net/gh/jerryc127/CDN@m2/img/butterfly-readme-screenshots-3.jpg)
+![Theme Demo](https://cdn.jsdelivr.net/gh/jerryc127/CDN@m2 /pictures/butterfly-readme-screenshots-3.jpg)
 
-![Theme Demo](https://cdn.jsdelivr.net/gh/jerryc127/CDN@m2/img/butterfly-readme-screenshots-4.jpg)
+![Theme Demo](https://cdn.jsdelivr.net/gh/jerryc127/CDN@m2 /pictures/butterfly-readme-screenshots-4.jpg)
 
 </div>
 

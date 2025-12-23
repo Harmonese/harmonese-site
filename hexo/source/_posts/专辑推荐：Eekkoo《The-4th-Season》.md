@@ -5,7 +5,7 @@ tags:
   - 推歌
   - 短评
 categories: 音樂短評
-cover: /img/short_cover.jpg
+cover:  /pictures/short_cover.jpg
 date: 2023-11-01
 description: Eekkoo的2020年专辑。冬季的山坡上，风吹草扑，节奏随风在草丛中涌动，卷起窸窣之声。
 copyright_author: 聲爆光年

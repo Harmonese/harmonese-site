@@ -6,7 +6,7 @@ tags:
   - 短评
   - Synthwave
 categories: 音樂短評
-cover: /img/short_cover.jpg
+cover:  /pictures/short_cover.jpg
 date: 2023-11-08 14:15
 description: 法国黑暗合成器大佬Perturbator的各时期的罕见歌曲集合。
 copyright_author: 聲爆光年

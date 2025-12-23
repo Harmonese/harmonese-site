@@ -8,7 +8,7 @@ tags:
   - Synthwave
 categories: 音樂短評
 description: Drum 'n' Bass前身组合Gancher & Ruin中的二人与一位技术高超的氛围制作者所结合成的组合3FORCE最受好评的一张专辑。
-cover: /img/short_cover.jpg
+cover:  /pictures/short_cover.jpg
 copyright_author: 聲爆光年
 ---
 分裂与碰撞！

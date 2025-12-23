@@ -6,7 +6,7 @@ tags:
   - 短评
   - Synthwave
 categories: 音樂短評
-cover: /img/short_cover.jpg
+cover:  /pictures/short_cover.jpg
 date: 2023-11-02 23:12
 description: Darksynth大师Carpenter Brut为女权主义概念电影《血液机器》制作的原声大碟。
 copyright_author: 聲爆光年

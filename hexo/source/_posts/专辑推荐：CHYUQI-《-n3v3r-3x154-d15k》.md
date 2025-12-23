@@ -5,7 +5,7 @@ tags:
   - 推歌
   - 短评
 categories: 音樂短評
-cover: /img/short_cover.jpg
+cover:  /pictures/short_cover.jpg
 date: 2023-10-28 23:15
 description: 实验与氛围，环绕声与精心设计的音色所带来的听觉按摩。
 copyright_author: 聲爆光年

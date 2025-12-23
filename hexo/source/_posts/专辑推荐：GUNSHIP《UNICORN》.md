@@ -8,7 +8,7 @@ tags:
   - Synthwave
 categories: 音樂短評
 description: 英国Synthwave三人组GUNSHIP近日发行专辑。
-cover: /img/short_cover.jpg
+cover:  /pictures/short_cover.jpg
 copyright_author: 聲爆光年
 ---
 英国Synthwave三人组GUNSHIP近日发行专辑，与先前他们偏向慢速与抒情的Dreamwave风格不同，新专辑转向高速、明快而律动感强的Outrun风格——滚动的金属感Midbass甚至使其这些歌曲的听感与Trance走得越来越近。金属吉他和萨克斯在曲目中的穿插也为专辑增添了不少风味。

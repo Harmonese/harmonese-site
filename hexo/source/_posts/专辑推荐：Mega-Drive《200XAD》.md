@@ -6,7 +6,7 @@ tags:
   - 短评
   - Synthwave
 categories: 音樂短評
-cover: /img/short_cover.jpg
+cover:  /pictures/short_cover.jpg
 date: 2023-11-17 23:49
 description: 接续着传奇般的《198XAD》以及它的2019年续集《199XAD》，Mega Drive的这张最新专辑级展示了他多年来风格的转变。
 copyright_author: 聲爆光年

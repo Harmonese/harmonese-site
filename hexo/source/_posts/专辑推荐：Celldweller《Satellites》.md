@@ -7,7 +7,7 @@ tags:
 categories: 音樂短評
 date: 2023-10-20 23:54
 description: 合成器-金属-迷幻-电子-摇滚！
-cover: /img/short_cover.jpg
+cover:  /pictures/short_cover.jpg
 copyright_author: 聲爆光年
 ---
 

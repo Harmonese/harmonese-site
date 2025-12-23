@@ -5,7 +5,7 @@ tags:
   - 推歌
   - 短评
 categories: 音樂短評
-cover: /img/short_cover.jpg
+cover:  /pictures/short_cover.jpg
 date: 2023-11-06 23:26
 description: 相当艺术的一张轻量专辑，不走寻常路的音色设计和活泼轻快的House曲风，没有油腻沉重之感，而是充满光明色调。
 copyright_author: 聲爆光年

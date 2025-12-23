@@ -13,7 +13,7 @@ description: Synthwave主要流派简介与歌曲案例。
 本文最初登载于电子谐奏，此文为重投。
 
 <p align="center">
-  <img src="/2020/10/11/Synthwave-主要流派简介与歌曲案例/cover.jpg" alt="Synthwave主要流派简介与歌曲案例 封面">
+  ![Synthwave主要流派简介与歌曲案例 封面](cover.jpg)
 </p>
 
 ---
@@ -1043,7 +1043,7 @@ Essenger 与 Scandroid 联手打造的“钢铁帝国”，赛博朋克世界观
 - 文中所有流派示例曲目已整理入同一歌单，配合歌单边听边读体验更佳。
 
 <p align="center">
-  <img src="/2020/10/11/Synthwave-主要流派简介与歌曲案例/playlist-cover.jpg" alt="歌单《合成时光机 | Synthwave主要流派歌曲选编》封面">
+  ![歌单《合成时光机 | Synthwave主要流派歌曲选编》封面](playlist-cover.jpg)
 </p>
 
 **歌单：合成时光机 | Synthwave 主要流派歌曲选编**

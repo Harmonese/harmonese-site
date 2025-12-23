@@ -53,10 +53,10 @@ social:
 # Image Settings
 # --------------------------------------
 
-favicon: /img/favicon.png
+favicon:  /pictures/favicon.png
 
 avatar:
-  img: /img/butterfly-icon.png
+  img:  /pictures/butterfly-icon.png
   effect: false
 
 # Disable all banner images
@@ -106,14 +106,14 @@ cover:
 
 # Replace Broken Images
 error_img:
-  flink: /img/friend_404.gif
-  post_page: /img/404.jpg
+  flink:  /pictures/friend_404.gif
+  post_page:  /pictures/404.jpg
 
 # A simple 404 page
 error_404:
   enable: false
   subtitle: 'Page Not Found'
-  background: /img/error-page.png
+  background:  /pictures/error-page.png
 
 post_meta:
   # Home Page
@@ -211,10 +211,10 @@ reward:
   enable: false
   text:
   QR_code:
-    # - img: /img/wechat.jpg
+    # - img:  /pictures/wechat.jpg
     #   link:
     #   text: wechat
-    # - img: /img/alipay.jpg
+    # - img:  /pictures/alipay.jpg
     #   link:
     #   text: alipay
 

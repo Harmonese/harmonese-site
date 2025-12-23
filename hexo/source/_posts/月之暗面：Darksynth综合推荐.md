@@ -108,10 +108,9 @@ description: 本期不再做一整张专辑的“全鉴赏”，而是围绕一�
 
 这批艺人里不少人本身有金属乐背景（例如 **Dance With The Dead** 的两位成员，原本就分别在不同的金属乐队效力），这也让 Darksynth 从一开始就带着明显的金属气质——不仅在编曲手法上，甚至也常常体现在封面视觉上。
 
-<p align="center">
-  <img src="/2022/01/21/月之暗面：Darksynth综合推荐/perturbator-uncanny-valley-cross.jpg" alt="Perturbator《The Uncanny Valley》封面局部">
-</p>
-<p align="center"><em>图：Perturbator《The Uncanny Valley》封面上的倒十字</em></p>
+![Perturbator《The Uncanny Valley》封面局部](perturbator-uncanny-valley-cross.jpg)
+
+*图：Perturbator《The Uncanny Valley》封面上的倒十字*
 
 ### 从恐怖片到赛博朋克
 
@@ -119,10 +118,9 @@ description: 本期不再做一整张专辑的“全鉴赏”，而是围绕一�
 
 在这一阶段，也有新的 Darksynth 制作人加入战局，比如曾在现代 Bass 圈闯荡过的 **Extra Terra**。
 
-<p align="center">
-  <img src="/2022/01/21/月之暗面：Darksynth综合推荐/extra-terra-convergence-cover.jpg" alt="Extra Terra《Convergence 2045》封面">
-</p>
-<p align="center"><em>图：Extra Terra –《Convergence 2045》赛博朋克风封面</em></p>
+![Extra Terra《Convergence 2045》封面](extra-terra-convergence-cover.jpg)
+
+*图：Extra Terra –《Convergence 2045》赛博朋克风封面*
 
 Darksynth 本身并不像 House 那样有固定的 BPM 区间，也不像 Hardcore 必须用失真脚鼓，或 Dubstep 一定要有 wobble bass 那样明确的“标记性元素”。**它更像是一种“氛围标签”**：在 Synthwave 这个大盘子里，把那些整体色调更黑暗、更暴力、更压抑的作品笼统地归在一起而已。
 
@@ -177,10 +175,9 @@ Darksynth 本身并不像 House 那样有固定的 BPM 区间，也不像 Hardco
 - Darksynth + Trance
   如 **Dance With The Dead – Nebula**。
 
-<p align="center">
-  <img src="/2022/01/21/月之暗面：Darksynth综合推荐/cyberpunk2077-trailer.jpg" alt="《赛博朋克2077》预告片截图">
-</p>
-<p align="center"><em>图：《赛博朋克 2077》预告片截图</em></p>
+![《赛博朋克2077》预告片截图](cyberpunk2077-trailer.jpg)
+
+*图：《赛博朋克 2077》预告片截图*
 
 ### 一些奇怪的“政治外延”
 
@@ -189,10 +186,9 @@ Darksynth 的流行，也催生了不少非常边缘、甚至有点魔幻的“�
 - **Fashwave**
   这几乎不能算作真正的“曲风”。其兴起方式，本质上就是一帮自称“新纳粹”的油管博主，把别人的 Darksynth 歌曲拿来，随便换上几张极右宣传图就往网上扔——大多连版权授权都很可疑。内容贫乏，创作意义极低，却在算法推波助澜下意外走红。
 
-  <p align="center">
-    <img src="/2022/01/21/月之暗面：Darksynth综合推荐/fashwave-poster.jpg" alt="Fashwave 视频配图示例">
-  </p>
-  <p align="center"><em>图：某 Fashwave 视频所配的极右宣传图</em></p>
+  ![Fashwave 视频配图示例](fashwave-poster.jpg)
+
+*图：某 Fashwave 视频所配的极右宣传图*
 - **Sovietwave + Post-punk**
   部分以苏维埃美学为壳、以冷峻后朋为核的作品，有时也被少数听众称作 Darksynth。例如下面这首：
 
@@ -253,10 +249,9 @@ Darksynth 的流行，也催生了不少非常边缘、甚至有点魔幻的“�
 
 他的音乐辨识度极高：**失真过载的小军鼓、粗糙暴力的锯齿主音、以及在部分作品中几乎魔怔的歌词与视觉**——这些元素组合在一起，很难被误认。
 
-<p align="center">
-  <img src="/2022/01/21/月之暗面：Darksynth综合推荐/carpenter-brut-portrait.jpg" alt="Carpenter Brut">
-</p>
-<p align="center"><em>图：Carpenter Brut</em></p>
+![Carpenter Brut](carpenter-brut-portrait.jpg)
+
+*图：Carpenter Brut*
 
 #### Trilogy 三部曲：废土科幻世界的奠基
 
@@ -312,16 +307,9 @@ Darksynth 的流行，也催生了不少非常边缘、甚至有点魔幻的“�
 </iframe>
 </div>
 
-<p align="center">
-  <img src="/2022/01/21/月之暗面：Darksynth综合推荐/darksynth-artists-fans-1.png" alt="几位 Darksynth 代表项目粉丝对比 1">
-  <br>
-  <img src="/2022/01/21/月之暗面：Darksynth综合推荐/darksynth-artists-fans-2.png" alt="几位 Darksynth 代表项目粉丝对比 2">
-  <br>
-  <img src="/2022/01/21/月之暗面：Darksynth综合推荐/darksynth-artists-fans-3.png" alt="几位 Darksynth 代表项目粉丝对比 3">
-  <br>
-  <img src="/2022/01/21/月之暗面：Darksynth综合推荐/darksynth-artists-fans-4.png" alt="几位 Darksynth 代表项目粉丝对比 4">
-</p>
-<p align="center"><em>图：截至 2022-01-19 几位 Darksynth 知名项目的粉丝数</em></p>
+![几位 Darksynth 代表项目粉丝对比 4](darksynth-artists-fans-4.png)
+
+*图：截至 2022-01-19 几位 Darksynth 知名项目的粉丝数*
 
 #### 现场与 Leather 系列
 
@@ -339,10 +327,9 @@ Darksynth 的流行，也催生了不少非常边缘、甚至有点魔幻的“�
 </iframe>
 </div>
 
-<p align="center">
-  <img src="/2022/01/21/月之暗面：Darksynth综合推荐/carpenter-brut-live-hamburg.jpg" alt="Carpenter Brut 2018 年汉堡演出">
-</p>
-<p align="center"><em>图：2018 年 Carpenter Brut 在汉堡的演出</em></p>
+![Carpenter Brut 2018 年汉堡演出](carpenter-brut-live-hamburg.jpg)
+
+*图：2018 年 Carpenter Brut 在汉堡的演出*
 
 2018 年，他推出新系列的首部《Leather Teeth》。这张概念专辑讲述一个略带 B 级青春片色彩的故事：中二少年 **Bret Halford** 在一次科学实验中毁容，为了追到“梦中女孩”，他组建了 80 年代风味的重金属乐队“Leather Teeth”。
 
@@ -374,10 +361,9 @@ Darksynth 的流行，也催生了不少非常边缘、甚至有点魔幻的“�
 </iframe>
 </div>
 
-<p align="center">
-  <img src="/2022/01/21/月之暗面：Darksynth综合推荐/blood-machines-ost-cover.jpg" alt="Blood Machines 原声专辑封面">
-</p>
-<p align="center"><em>图：Carpenter Brut –《Blood Machines OST》封面（和谐版）</em></p>
+![Blood Machines 原声专辑封面](blood-machines-ost-cover.jpg)
+
+*图：Carpenter Brut –《Blood Machines OST》封面（和谐版）*
 
 《Leather Teeth》之后，Carpenter Brut 有一段时间没有放出完整专辑，但陆续释出了两首单曲 **“Maniac”** 与 **“Fab Tool”**，其中 “Maniac” 常常作为现场收官曲目：
 
@@ -416,10 +402,9 @@ Darksynth 的流行，也催生了不少非常边缘、甚至有点魔幻的“�
 
 Perturbator 同样出身金属乐队。与 Carpenter Brut 不同的是，他一开始就牢牢盯上了**赛博朋克**题材——早期专辑多以东京、高楼、夜城为背景，风格同时带有 Darksynth 与 Cybersynth 双重属性。
 
-<p align="center">
-  <img src="/2022/01/21/月之暗面：Darksynth综合推荐/perturbator-portrait.jpg" alt="Perturbator">
-</p>
-<p align="center"><em>图：Perturbator</em></p>
+![Perturbator](perturbator-portrait.jpg)
+
+*图：Perturbator*
 
 网易云上目前可以听到的早期专辑，主要是：
 
@@ -546,17 +531,15 @@ Perturbator 同样出身金属乐队。与 Carpenter Brut 不同的是，他一�
 
 美国制作人 **GosT** 名气略逊于前两位，但凭借对极端金属元素的熟练运用，在 Darksynth 圈内同样有不容忽视的地位。
 
-<p align="center">
-  <img src="/2022/01/21/月之暗面：Darksynth综合推荐/gost-portrait.jpg" alt="GosT">
-</p>
-<p align="center"><em>图：GosT</em></p>
+![GosT](gost-portrait.jpg)
+
+*图：GosT*
 
 他与 Perturbator 一样，在 Blood Music 旗下发行作品。不过，他的早期作品在结构上高度重复，因而曾遭到不少批评：
 
-<p align="center">
-  <img src="/2022/01/21/月之暗面：Darksynth综合推荐/gost-debate.png" alt="Synthwave Fandom 上关于 GosT 的讨论">
-</p>
-<p align="center"><em>图：Synthwave Fandom 上关于 GosT 的争论</em></p>
+![Synthwave Fandom 上关于 GosT 的讨论](gost-debate.png)
+
+*图：Synthwave Fandom 上关于 GosT 的争论*
 
 #### 从 Behemoth 到 Non Paradisi、Possessor
 
@@ -620,10 +603,9 @@ Perturbator 同样出身金属乐队。与 Carpenter Brut 不同的是，他一�
 
 GosT 近年来作品的金属浓度之高，甚至吸引了一些圈外极端金属大神来关注 —— 至于是谁，就留给大家自己去翻翻评论区了。
 
-<p align="center">
-  <img src="/2022/01/21/月之暗面：Darksynth综合推荐/metal-legend-comment.png" alt="某极端金属乐手在 GosT 专辑下留言">
-</p>
-<p align="center"><em>图：某位极端金属大神的“串门评论”</em></p>
+![某极端金属乐手在 GosT 专辑下留言](metal-legend-comment.png)
+
+*图：某位极端金属大神的“串门评论”*
 
 ---
 
@@ -633,10 +615,9 @@ GosT 近年来作品的金属浓度之高，甚至吸引了一些圈外极端金
 
 成员 **Justin Pointer** 与 **Tony Kim** 来自两个不同的金属乐队，他们在金属乐中积累的编曲与音色经验，被极其自然地移植进了 Darksynth：合成器负责主旋与氛围，金属电吉他“镇守”中低频，极大弥补了很多 Synthwave 作品在低频上的空洞感。
 
-<p align="center">
-  <img src="/2022/01/21/月之暗面：Darksynth综合推荐/dwtdead-band-photo.jpg" alt="Dance With The Dead">
-</p>
-<p align="center"><em>图：Dance With The Dead</em></p>
+![Dance With The Dead](dwtdead-band-photo.jpg)
+
+*图：Dance With The Dead*
 
 另一个值得点赞的地方是：**DWTD 不热衷“响度战争”**。在一个动辄压到毫无动态的电子音乐环境里，他们的作品保留了足够的动态范围，听感上舒服很多。
 
@@ -656,17 +637,15 @@ GosT 近年来作品的金属浓度之高，甚至吸引了一些圈外极端金
 
 **Mega Drive** 是一位行事较为低调的 Darksynth 制作人。自 2012 年起，他陆续发行了多张 EP 和专辑，其中最广为人知的是在 FiXT Neon 旗下发布的《198XAD》《199XAD》等。
 
-<p align="center">
-  <img src="/2022/01/21/月之暗面：Darksynth综合推荐/mega-drive-portrait.jpg" alt="Mega Drive">
-</p>
-<p align="center"><em>图：Mega Drive</em></p>
+![Mega Drive](mega-drive-portrait.jpg)
+
+*图：Mega Drive*
 
 早期 Darksynth 相对粗糙：鼓点略显零碎、结构偏重复、常常大量使用不协和音程。Mega Drive 至今仍保留了不少这一时期的“原始味道”，有人嫌弃，有人着迷。
 
-<p align="center">
-  <img src="/2022/01/21/月之暗面：Darksynth综合推荐/mega-drive-spotify-stats.png" alt="Mega Drive 在 Spotify 的月听众数">
-</p>
-<p align="center"><em>图：Mega Drive 在 Spotify 的每月听众数</em></p>
+![Mega Drive 在 Spotify 的月听众数](mega-drive-spotify-stats.png)
+
+*图：Mega Drive 在 Spotify 的每月听众数*
 
 在 FiXT Neon 发行的两张长专《198XAD》《199XAD》，可以很清楚地看到他在制作与混音上的成长：
 
@@ -696,10 +675,9 @@ GosT 近年来作品的金属浓度之高，甚至吸引了一些圈外极端金
 
 近年来值得推荐的还有《Hardwired V1.4》《Sequencer》《Neuroframe》三张专辑，其中《Hardwired V1.4》收录了包括 **GosT** 与 **Perturbator** 在内的四首重混作品：
 
-<p align="center">
-  <img src="/2022/01/21/月之暗面：Darksynth综合推荐/hardwired-v14-remix-tracklist.jpg" alt="Hardwired V1.4 重混音曲目表">
-</p>
-<p align="center"><em>图：《Hardwired V1.4》中的 remix 曲目</em></p>
+![Hardwired V1.4 重混音曲目表](hardwired-v14-remix-tracklist.jpg)
+
+*图：《Hardwired V1.4》中的 remix 曲目*
 
 <div align="center">
 <iframe
@@ -745,10 +723,9 @@ GosT 近年来作品的金属浓度之高，甚至吸引了一些圈外极端金
 
 他早期作品涉猎 Pop、Trap 等多种风格，在 Monstercat 发行单曲时也偏向现代 Bass。即便在 Darksynth 作品中，他的“Dark” 程度也通常远逊于 Perturbator、Carpenter Brut，那种近乎疯狂的恐怖氛围在他这儿并不多见。
 
-<p align="center">
-  <img src="/2022/01/21/月之暗面：Darksynth综合推荐/essenger-portrait.jpg" alt="Essenger">
-</p>
-<p align="center"><em>图：Essenger</em></p>
+![Essenger](essenger-portrait.jpg)
+
+*图：Essenger*
 
 #### After Dark：赛博朋克 + 暗黑 Glitch Hop
 
@@ -833,17 +810,15 @@ Essenger 还有一重“隐藏身份”：**Synthwave 乐队 The Midnight《Horr
 
 乐队前身是 Drum & Bass 二人组 **Gancher & Ruin**（成员 **Alexey Goncharenko** 和 **Dmitry Goncharenko**），后来遇到 Dark Ambient 制作人 **EyeScream（Andrey Novikov）**，三人决定以 3FORCE 之名开启 Synthwave 路线。
 
-<p align="center">
-  <img src="/2022/01/21/月之暗面：Darksynth综合推荐/threeforce-portrait.jpg" alt="3FORCE">
-</p>
-<p align="center"><em>图：3FORCE</em></p>
+![3FORCE](threeforce-portrait.jpg)
+
+*图：3FORCE*
 
 他们的作品往往充满宇宙感：宏大的和弦、饱满的主旋、以及仿佛来自深空战舰的鼓组。某种程度上，这种“宇宙情结”也与苏联 / 俄罗斯长期自豪的航天工程传统暗暗呼应。
 
-<p align="center">
-  <img src="/2022/01/21/月之暗面：Darksynth综合推荐/threeforce-singles-art.jpg" alt="3FORCE 新单曲系列封面">
-</p>
-<p align="center"><em>图：3FORCE 新单曲系列封面设计，太空感浓厚</em></p>
+![3FORCE 新单曲系列封面](threeforce-singles-art.jpg)
+
+*图：3FORCE 新单曲系列封面设计，太空感浓厚*
 
 截至 2022-01-19，他们已发行三张主线专辑：
 
@@ -936,10 +911,9 @@ Essenger 还有一重“隐藏身份”：**Synthwave 乐队 The Midnight《Horr
 
 他在 Scandroid 马甲下创立了专注 Synthwave / Indie Pop 的厂牌 **FiXT Neon**，现已成为这一领域最重要的发行基地之一。
 
-<p align="center">
-  <img src="/2022/01/21/月之暗面：Darksynth综合推荐/scandroid-portrait.jpg" alt="Scandroid">
-</p>
-<p align="center"><em>图：Scandroid</em></p>
+![Scandroid](scandroid-portrait.jpg)
+
+*图：Scandroid*
 
 Scandroid 的作品风格跨度较广，并不局限于单一子风格，但其中也有不少女曲明显带有 Darksynth 与 Cybersynth 的双重气质。例如首专《Scandroid》中的几首：
 
@@ -997,10 +971,9 @@ Scandroid 的作品风格跨度较广，并不局限于单一子风格，但其�
 
 西班牙制作人 **Nightcrawler** 自称自己的音乐是“复古未来主义”，但实际听感上，远不只是 New '80s Synth：**黑暗元素非常厚重**。
 
-<p align="center">
-  <img src="/2022/01/21/月之暗面：Darksynth综合推荐/nightcrawler-portrait.jpg" alt="Nightcrawler">
-</p>
-<p align="center"><em>图：Nightcrawler</em></p>
+![Nightcrawler](nightcrawler-portrait.jpg)
+
+*图：Nightcrawler*
 
 首专《Metropolis》设定在 3015 年的人类世界：围绕化石能源与淡水的争夺引发了核战争。歌里不乏 Synthwave 圈名嗓 **Dana Jean Phoenix** 等人的献声，也能听到 Nightcrawler 本人的“工地口音”英语。
 
@@ -1048,10 +1021,9 @@ Scandroid 的作品风格跨度较广，并不局限于单一子风格，但其�
 
 芬兰制作人 **Ere Ek** 以 **NightStop** 之名发行 Darksynth 作品。他的风格变化轨迹相当清晰：**从带点暗色调的 New '80s，逐渐走向加入大量电吉他的重型 Darksynth。**
 
-<p align="center">
-  <img src="/2022/01/21/月之暗面：Darksynth综合推荐/nightstop-portrait.jpg" alt="NightStop">
-</p>
-<p align="center"><em>图：NightStop</em></p>
+![NightStop](nightstop-portrait.jpg)
+
+*图：NightStop*
 
 早期专辑《Streetwalker》《Dancing Killer》聚焦都市底层的红灯区与“第三产业”景象——题材本身就带着黑暗核心，只是披着 80s 浪漫的外皮而已：
 
@@ -1111,10 +1083,9 @@ Scandroid 的作品风格跨度较广，并不局限于单一子风格，但其�
 
 曾经的现代 Bass 制作人，如今的赛博朋克合成器玩家：**Extra Terra** 通过“外星文明 / 科幻”这一叙事路径完成了从 Bass 到 Darksynth / Cybersynth 的转型。
 
-<p align="center">
-  <img src="/2022/01/21/月之暗面：Darksynth综合推荐/extra-terra-portrait.jpg" alt="Extra Terra">
-</p>
-<p align="center"><em>图：Extra Terra</em></p>
+![Extra Terra](extra-terra-portrait.jpg)
+
+*图：Extra Terra*
 
 作为 Darksynth 制作人的首专《Convergence 2045》是近几年“赛博朋克热”的典型产物：故事设定在 2045 年的深圳，通过 Darksynth、Brostep、Psy Trance 等多种风格混合，构建出一个高科技、重压之下的东方赛博世界。
 

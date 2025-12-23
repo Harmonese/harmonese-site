@@ -6,7 +6,7 @@ tags:
   - 短评
   - Synthwave
 categories: 音樂短評
-cover: /img/short_cover.jpg
+cover:  /pictures/short_cover.jpg
 date: 2023-11-21 23:51
 description: 在2013年那张改变一切的传奇专辑《OutRun》发行的十年后，Kavinsky带来了他的“重生”。
 copyright_author: 聲爆光年

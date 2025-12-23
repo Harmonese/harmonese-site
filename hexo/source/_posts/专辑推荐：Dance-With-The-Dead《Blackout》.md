@@ -8,7 +8,7 @@ tags:
 categories: 音樂短評
 date: 2023-10-18 23:42
 description: 只有三首曲目的一张轻型迷你专辑，但是歌却是绝对的重型。
-cover: /img/short_cover.jpg
+cover:  /pictures/short_cover.jpg
 copyright_author: 聲爆光年
 ---
 

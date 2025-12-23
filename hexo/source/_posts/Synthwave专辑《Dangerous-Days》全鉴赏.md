@@ -17,19 +17,17 @@ description: 2014 年，Perturbator 加入 Blood Music，并在该厂牌旗下�
 
 Cybersynth 则可以看作赛博朋克世界观在 Synthwave 语境中的投射：它往往糅合极端金属的质感，以冰冷而猛烈的鼓组与合成器音色为基底，讲述人类在贪婪与失控科技中滑向灾难的故事。无论在音乐本身还是视觉设计（例如封面与周边图像）上，这类作品普遍带有强烈的暴力、恐怖与末世感，在整个 Synthwave 光谱里显得格外独特。
 
-<p align="center">
-  <img src="/2020/08/04/Synthwave专辑《Dangerous-Days》全鉴赏/perturbator-rock-am-ring-2017.jpg" alt="Perturbator 2017 Rock am Ring 现场">
-</p>
-<p align="center"><em>图：Perturbator 的 2017 Rock am Ring 现场</em></p>
+![Perturbator 2017 Rock am Ring 现场](perturbator-rock-am-ring-2017.jpg)
+
+*图：Perturbator 的 2017 Rock am Ring 现场*
 
 2012 年，Cybersynth 的写作手法影响到了法国黑金属吉他手 **James Kent**。出身音乐世家的他，此前一直活跃在极端金属领域。受到启发之后，他逐渐淡出传统金属创作，以 **Perturbator** 之名正式投入 Synthwave 写作。
 
 2014 年，Perturbator 加入极端金属厂牌 **Blood Music**，并在该厂牌旗下发行了这张在之后影响深远的 Cybersynth 专辑《*Dangerous Days*》。
 
-<p align="center">
-  <img src="/2020/08/04/Synthwave专辑《Dangerous-Days》全鉴赏/blood-music-logo.jpg" alt="Blood Music 厂牌 LOGO">
-</p>
-<p align="center"><em>图：Blood Music 厂牌 LOGO</em></p>
+![Blood Music 厂牌 LOGO](blood-music-logo.jpg)
+
+*图：Blood Music 厂牌 LOGO*
 
 ---
 
@@ -81,10 +79,9 @@ Cybersynth 则可以看作赛博朋克世界观在 Synthwave 语境中的投射�
 
 贯穿全曲的分解和弦与层层递进的音色堆叠，使这首“自我命名”的主题曲既像是一首宣言，也为整张专辑定下基调。Perturbator 把自己写给自己的主题放在如此核心的位置，本身就显示出他对这张专辑结构与概念的重视程度。
 
-<p align="center">
-  <img src="/2020/08/04/Synthwave专辑《Dangerous-Days》全鉴赏/109951165198427928.jpg" alt="Perturbator 艺术照">
-</p>
-<p align="center"><em>图：Perturbator 艺术照</em></p>
+![Perturbator 艺术照](109951165198427928.jpg)
+
+*图：Perturbator 艺术照*
 
 ---
 
@@ -104,10 +101,9 @@ Cybersynth 则可以看作赛博朋克世界观在 Synthwave 语境中的投射�
 
 在更厚重的金属感低频和鼓组之上，加入了少量 8-bit 元素，既保持了 Cybersynth 的工业质地，又带来了略微“电玩化”的颗粒感。后半段那一分多钟的新旋律段落，为整体结构增添了亮点。4:44 左右，曲子节奏放缓，逐步收束，为随后 “Future Club” 的渐入式开头留下空间。
 
-<p align="center">
-  <img src="/2020/08/04/Synthwave专辑《Dangerous-Days》全鉴赏/cyberpunk-undercity-art.jpg" alt="赛博朋克底层世界艺术图">
-</p>
-<p align="center"><em>图：赛博朋克底层世界艺术图</em></p>
+![赛博朋克底层世界艺术图](cyberpunk-undercity-art.jpg)
+
+*图：赛博朋克底层世界艺术图*
 
 ---
 
@@ -127,10 +123,9 @@ Cybersynth 则可以看作赛博朋克世界观在 Synthwave 语境中的投射�
 
 在这首曲子的意象中，很容易联想到一个处于黑暗未来中的灰色大都会：底层街道被霓虹与广告灯箱染成不真实的亮色，城市边缘活动的帮派和武装组织穿梭其间，时刻处在爆发暴力事件的边缘。
 
-<p align="center">
-  <img src="/2020/08/04/Synthwave专辑《Dangerous-Days》全鉴赏/hotline-miami2-art-1.jpg" alt="《迈阿密热线 2：空号》艺术图 1">
-</p>
-<p align="center"><em>图：《迈阿密热线 2：空号》游戏艺术图 1</em></p>
+![《迈阿密热线 2：空号》艺术图 1](hotline-miami2-art-1.jpg)
+
+*图：《迈阿密热线 2：空号》游戏艺术图 1*
 
 ---
 
@@ -150,10 +145,9 @@ Cybersynth 则可以看作赛博朋克世界观在 Synthwave 语境中的投射�
 
 这首曲目在专辑结构中更像是过渡段落：没有强烈的鼓组，主干由阴郁的环境音与金属化的音色构成。前半段几乎完全浸没在黑暗氛围之中，1:22 开始旋律逐渐浮现，音色不断叠加；接近 2 分钟时，教堂竖琴带来短暂的亮度，但这点光明最终依旧消散在沉重的撞击声与低频海洋中。
 
-<p align="center">
-  <img src="/2020/08/04/Synthwave专辑《Dangerous-Days》全鉴赏/ai-art-1.jpg" alt="强人工智能艺术图 1">
-</p>
-<p align="center"><em>图：强人工智能艺术图 1</em></p>
+![强人工智能艺术图 1](ai-art-1.jpg)
+
+*图：强人工智能艺术图 1*
 
 ---
 
@@ -173,10 +167,9 @@ Cybersynth 则可以看作赛博朋克世界观在 Synthwave 语境中的投射�
 
 约 3:40 以后，延绵不绝的分解和弦仿佛在绘制一张肮脏而密集的都市网格：迷失方向的人们在潮湿的街道上游荡，偶尔从几家破旧俱乐部的霓虹与灯球中泄出短暂的享乐气息。
 
-<p align="center">
-  <img src="/2020/08/04/Synthwave专辑《Dangerous-Days》全鉴赏/coruscant-surface-concept.jpg" alt="科洛桑地表概念图">
-</p>
-<p align="center"><em>图：科洛桑地表概念图，对赛博朋克底层生活的典型想象</em></p>
+![科洛桑地表概念图](coruscant-surface-concept.jpg)
+
+*图：科洛桑地表概念图，对赛博朋克底层生活的典型想象*
 
 ---
 
@@ -194,10 +187,9 @@ Cybersynth 则可以看作赛博朋克世界观在 Synthwave 语境中的投射�
 
 在略长的引子之后，翻滚的合成低频宣告又一轮“黑暗轰炸”到来。跳跃感很强的合成贝斯和迷幻的电子音层推动整首曲目的律动，营造出一种既亢奋又不安的氛围。曲名中 “She is Next” 这一句，本身就带有一种冷酷的宿命感——在暴力循环的世界里，“下一位”随时可能出现。
 
-<p align="center">
-  <img src="/2020/08/04/Synthwave专辑《Dangerous-Days》全鉴赏/hotline-miami2-art-2.jpg" alt="《迈阿密热线 2：空号》艺术图 2">
-</p>
-<p align="center"><em>图：《迈阿密热线 2：空号》游戏艺术图 2</em></p>
+![《迈阿密热线 2：空号》艺术图 2](hotline-miami2-art-2.jpg)
+
+*图：《迈阿密热线 2：空号》游戏艺术图 2*
 
 ---
 
@@ -217,10 +209,9 @@ Cybersynth 则可以看作赛博朋克世界观在 Synthwave 语境中的投射�
 
 主歌部分回响的弹拨合成器主音，在冷酷的节奏下进一步加深不安感。在这首歌里，人类更像是被猎杀的对象——4 分钟左右的突然加速，像是战争进入白热化的信号，整个城市似乎被卷入 AI 与人类的决战之中。
 
-<p align="center">
-  <img src="/2020/08/04/Synthwave专辑《Dangerous-Days》全鉴赏/ai-art-2.jpg" alt="强人工智能艺术图 2">
-</p>
-<p align="center"><em>图：强人工智能艺术图 2</em></p>
+![强人工智能艺术图 2](ai-art-2.jpg)
+
+*图：强人工智能艺术图 2*
 
 ---
 
@@ -240,10 +231,9 @@ Cybersynth 则可以看作赛博朋克世界观在 Synthwave 语境中的投射�
 
 歌词描绘的是在赛博朋克社会环境中被长期消耗的人群：在数十年不断加码的技术与资本压力之下，人们对未来逐渐失去信心，最后选择集体性地“放弃”。
 
-<p align="center">
-  <img src="/2020/08/04/Synthwave专辑《Dangerous-Days》全鉴赏/cyber-city-panorama.jpg" alt="赛博城市全景画面">
-</p>
-<p align="center"><em>图：《星球大战》系列作品中的赛博城市全景画面</em></p>
+![赛博城市全景画面](cyber-city-panorama.jpg)
+
+*图：《星球大战》系列作品中的赛博城市全景画面*
 
 ---
 
@@ -263,10 +253,9 @@ Cybersynth 则可以看作赛博朋克世界观在 Synthwave 语境中的投射�
 
 不过在后半段，和弦逐渐加入，使这首命名为“撒旦仪式”的作品出现了一丝“宗教式”的光亮：最终在教堂竖琴的音色下收尾，留下复杂的情绪余韵。
 
-<p align="center">
-  <img src="/2020/08/04/Synthwave专辑《Dangerous-Days》全鉴赏/satanic-ritual-art.jpg" alt="恶魔的祭会">
-</p>
-<p align="center"><em>图：恶魔祭会主题绘画</em></p>
+![恶魔的祭会](satanic-ritual-art.jpg)
+
+*图：恶魔祭会主题绘画*
 
 ---
 
@@ -286,10 +275,9 @@ Cybersynth 则可以看作赛博朋克世界观在 Synthwave 语境中的投射�
 
 这首歌是 Perturbator 与法国 Synthwave 音乐人 **Carpenter Brut** 的合作。两位在 Cybersynth 领域都极具代表性，这次合作也展现出他们对暴力美学与节奏控制的高度默契。
 
-<p align="center">
-  <img src="/2020/08/04/Synthwave专辑《Dangerous-Days》全鉴赏/cyberpunk-neon-street-nero-into-the-night.jpg" alt="赛博朋克霓虹街道">
-</p>
-<p align="center"><em>图：赛博朋克霓虹街道，截自 Nero《Into the Night》音乐视频</em></p>
+![赛博朋克霓虹街道](cyberpunk-neon-street-nero-into-the-night.jpg)
+
+*图：赛博朋克霓虹街道，截自 Nero《Into the Night》音乐视频*
 
 ---
 
@@ -309,10 +297,9 @@ Cybersynth 则可以看作赛博朋克世界观在 Synthwave 语境中的投射�
 
 经过滤波处理的锯齿主音从左右声场掠过，为整体增添了些许“风景感”。在专辑结构中，这首曲子像是一段让听众短暂缓冲、也让整张作品显得不至于“完全绝望”的空间。
 
-<p align="center">
-  <img src="/2020/08/04/Synthwave专辑《Dangerous-Days》全鉴赏/purple-sunset.jpg" alt="紫色晚霞">
-</p>
-<p align="center"><em>图：紫色晚霞</em></p>
+![紫色晚霞](purple-sunset.jpg)
+
+*图：紫色晚霞*
 
 ---
 
@@ -338,10 +325,9 @@ Cybersynth 则可以看作赛博朋克世界观在 Synthwave 语境中的投射�
 - 8 分钟附近，短暂的第三主题过渡显现出来，随即逐渐淡出。
 - 9 分半之后，音乐进入最终的氛围尾声：细碎的铃声与柔和的波形缓缓远去，《*Dangerous Days*》整张专辑在一种近乎寂静的状态中结束。
 
-<p align="center">
-  <img src="/2020/08/04/Synthwave专辑《Dangerous-Days》全鉴赏/cyberpunk-city-art.jpg" alt="赛博朋克城市艺术图">
-</p>
-<p align="center"><em>图：赛博朋克城市艺术图</em></p>
+![赛博朋克城市艺术图](cyberpunk-city-art.jpg)
+
+*图：赛博朋克城市艺术图*
 
 ---
 

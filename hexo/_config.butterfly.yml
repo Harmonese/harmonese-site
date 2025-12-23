@@ -61,10 +61,10 @@ social:
 # Image Settings
 # --------------------------------------
 
-favicon: /img/logo_harmonese.png
+favicon:  /pictures/logo_harmonese.png
 
 avatar:
-  img: /img/avatar.png
+  img:  /pictures/avatar.jpeg
   effect: false
 
 # Disable all banner images
@@ -101,7 +101,7 @@ footer_img: transparent
 # Website Background
 # Can set it to color, image URL or an array containing colors and/or image URLs
 # If an array is provided, a random background will be selected from the array on each load
-background: /img/background.jpg
+background:  /pictures/background.jpg
 
 cover:
   # Disable the cover or not
@@ -110,19 +110,19 @@ cover:
   archives_enable: true
   # When cover is not set, the default cover is displayed
   default_cover: 
-    - /img/default_header.png
+    -  /pictures/default_header.jpeg
     # - xxx.jpg
 
 # Replace Broken Images
 error_img:
-  flink: /img/friend_404.gif
-  post_page: /img/404.png
+  flink:  /pictures/friend_404.gif
+  post_page:  /pictures/404.png
 
 # A simple 404 page
 error_404:
   enable: false
   subtitle: 'Page Not Found'
-  background: /img/error_page.png
+  background:  /pictures/error_page.png
 
 post_meta:
   # Home Page
@@ -222,10 +222,10 @@ reward:
   enable: false
   text:
   QR_code:
-    # - img: /img/wechat.jpg
+    # - img:  /pictures/wechat.jpg
     #   link:
     #   text: wechat
-    # - img: /img/alipay.jpg
+    # - img:  /pictures/alipay.jpg
     #   link:
     #   text: alipay
 

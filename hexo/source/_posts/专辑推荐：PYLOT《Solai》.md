@@ -5,7 +5,7 @@ tags:
   - 推歌
   - 短评
 categories: 音樂短評
-cover: /img/short_cover.jpg
+cover:  /pictures/short_cover.jpg
 date: 2023-10-26 23:45
 description: 赛博朋克音乐作品绕不开的一张专辑。
 copyright_author: 聲爆光年

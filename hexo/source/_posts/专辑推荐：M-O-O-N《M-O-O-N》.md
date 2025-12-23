@@ -7,7 +7,7 @@ tags:
 categories: 音樂短評
 date: 2023-10-21 23:49
 description: 四首怪诞不经的歌曲，打破带试验性质的音乐“严肃认真”的刻板印象
-cover: /img/short_cover.jpg
+cover:  /pictures/short_cover.jpg
 copyright_author: 聲爆光年
 ---
 

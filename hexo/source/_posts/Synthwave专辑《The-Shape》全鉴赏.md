@@ -22,10 +22,9 @@ description: 这篇文章我们就沿着 DWTD 2016 年的代表作、全器乐�
 
 ## Darksynth 的视觉与声音：从恐怖美学到赛博朋克
 
-<p align="center">
-  <img src="/2020/08/21/Synthwave专辑《The-Shape》全鉴赏/darksynth-albums.jpg" alt="部分 Darksynth 专辑封面">
-</p>
-<p align="center"><em>图：部分 Darksynth 专辑封面</em></p>
+![部分 Darksynth 专辑封面](darksynth-albums.jpg)
+
+*图：部分 Darksynth 专辑封面*
 
 从上面的封面大致可以看出 Darksynth 的标志性视觉元素：
 强对比度的配色，骷髅、恶魔、废墟、血浆等恐怖意象，以及大量赛博朋克风格的霓虹与城市天际线。
@@ -42,10 +41,9 @@ description: 这篇文章我们就沿着 DWTD 2016 年的代表作、全器乐�
 
 ## 乐队与专辑：从金属乐队到 Darksynth 代表作
 
-<p align="center">
-  <img src="/2020/08/21/Synthwave专辑《The-Shape》全鉴赏/dwtd-band-photo.jpg" alt="Dance With The Dead 艺术照">
-</p>
-<p align="center"><em>图：Dance With The Dead 艺术照</em></p>
+![Dance With The Dead 艺术照](dwtd-band-photo.jpg)
+
+*图：Dance With The Dead 艺术照*
 
 **Dance With The Dead** 是于 2013 年成立的美国双人组合，由来自两支不同金属乐队的 **Justin Pointer** 与 **Tony Kim** 组成。多年的金属乐队经验，使得他们在写 Darksynth 时天然会往“乐队编曲”和“电吉他主导”的方向靠拢——这也是他们和大部分以纯电子编排为核心的 Darksynth 制作人最大的区别。
 
@@ -109,10 +107,9 @@ DWTD 的封面与视觉一贯钟爱“幽灵、骷髅、满月与黑林”的组
 
 你能在这首歌里清楚地看到一幅画：海面上乌云迅速堆叠，远处闪电隐现，金属般冰冷的海风开始拍打整张专辑的帷幕。
 
-<p align="center">
-  <img src="/2020/08/21/Synthwave专辑《The-Shape》全鉴赏/dwtd-releases-covers-2.jpg" alt="Dance With The Dead 部分专辑封面拼图">
-</p>
-<p align="center"><em>图：Dance With The Dead 部分发行音乐封面，幽灵与骷髅为常见元素</em></p>
+![Dance With The Dead 部分专辑封面拼图](dwtd-releases-covers-2.jpg)
+
+*图：Dance With The Dead 部分发行音乐封面，幽灵与骷髅为常见元素*
 
 ---
 
@@ -139,10 +136,9 @@ DWTD 的封面与视觉一贯钟爱“幽灵、骷髅、满月与黑林”的组
 
 旋律线在谱面上画出一条条回旋上升的电流，像疯狂的视线在夜色中急速扫射——“Eyes of Madness” 这个标题，几乎可以被你耳朵直接“看见”。
 
-<p align="center">
-  <img src="/2020/08/21/Synthwave专辑《The-Shape》全鉴赏/eyes-of-madness-score.jpg" alt="Eyes Of Madness 主旋律乐谱">
-</p>
-<p align="center"><em>图：“Eyes Of Madness” 主旋律乐谱示意</em></p>
+![Eyes Of Madness 主旋律乐谱](eyes-of-madness-score.jpg)
+
+*图：“Eyes Of Madness” 主旋律乐谱示意*
 
 ---
 
@@ -170,10 +166,9 @@ DWTD 的封面与视觉一贯钟爱“幽灵、骷髅、满月与黑林”的组
 
 如果说 Darksynth 的常见意象是“赛博都市 + 末日”，那 DWTD 的想象力显然更偏向“满月 + 森林 + 幽灵”。
 
-<p align="center">
-  <img src="/2020/08/21/Synthwave专辑《The-Shape》全鉴赏/ghost-forest.jpg" alt="满月下的游魂森林">
-</p>
-<p align="center"><em>图：满月下的游魂森林，Dance With The Dead 许多歌曲的共同意象</em></p>
+![满月下的游魂森林](ghost-forest.jpg)
+
+*图：满月下的游魂森林，Dance With The Dead 许多歌曲的共同意象*
 
 ---
 
@@ -201,10 +196,9 @@ DWTD 的封面与视觉一贯钟爱“幽灵、骷髅、满月与黑林”的组
 
 节奏的“半速/全速”切换，既是对曲名的呼应，也是 DWTD 非常典型的编曲手法之一。
 
-<p align="center">
-  <img src="/2020/08/21/Synthwave专辑《The-Shape》全鉴赏/80s-metal-albums.jpg" alt="部分 80 年代金属专辑封面">
-</p>
-<p align="center"><em>图：部分 80 年代金属专辑封面，它们对 Darksynth 曲风影响极大</em></p>
+![部分 80 年代金属专辑封面](80s-metal-albums.jpg)
+
+*图：部分 80 年代金属专辑封面，它们对 Darksynth 曲风影响极大*
 
 ---
 
@@ -230,10 +224,9 @@ DWTD 的封面与视觉一贯钟爱“幽灵、骷髅、满月与黑林”的组
 
 它像是在一片黑压压的林木之间，依稀出现几只萤火虫：光线不强，但让你确认“前路并非只有黑暗”。
 
-<p align="center">
-  <img src="/2020/08/21/Synthwave专辑《The-Shape》全鉴赏/adrift-landscape.jpg" alt="Adrift 的意境想象">
-</p>
-<p align="center"><em>图：“Adrift” 一曲的意境想象</em></p>
+![Adrift 的意境想象](adrift-landscape.jpg)
+
+*图：“Adrift” 一曲的意境想象*
 
 ---
 
@@ -259,10 +252,9 @@ DWTD 的封面与视觉一贯钟爱“幽灵、骷髅、满月与黑林”的组
 
 “Riot”（暴乱）这个命名绝非空穴来风：它听上去就像街头警灯乱闪、机车呼啸而过、远处不时传来玻璃破碎的声音。
 
-<p align="center">
-  <img src="/2020/08/21/Synthwave专辑《The-Shape》全鉴赏/riot-city.jpg" alt="Riot 的视觉意象">
-</p>
-<p align="center"><em>图：“Riot” 所对应的另一常见意象：暴乱与毁灭</em></p>
+![Riot 的视觉意象](riot-city.jpg)
+
+*图：“Riot” 所对应的另一常见意象：暴乱与毁灭*
 
 ---
 
@@ -288,10 +280,9 @@ DWTD 的封面与视觉一贯钟爱“幽灵、骷髅、满月与黑林”的组
 
 这是典型的 Synthwave 画面：霓虹网格延伸到视野尽头，巨大光盘般的太阳刚刚越出地平线，配色艳丽却带着一丝萧索。
 
-<p align="center">
-  <img src="/2020/08/21/Synthwave专辑《The-Shape》全鉴赏/synthwave-grid-sunrise.jpg" alt="Synthwave 网格与数码日出">
-</p>
-<p align="center"><em>图：Synthwave 网格与数码日出</em></p>
+![Synthwave 网格与数码日出](synthwave-grid-sunrise.jpg)
+
+*图：Synthwave 网格与数码日出*
 
 ---
 
@@ -317,10 +308,9 @@ DWTD 的封面与视觉一贯钟爱“幽灵、骷髅、满月与黑林”的组
 
 这段 Solo 把整首歌从氛围性的“邪恶”推进到真正意义上的“亢奋”，也是整张专辑非常值得反复回味的高光之一。
 
-<p align="center">
-  <img src="/2020/08/21/Synthwave专辑《The-Shape》全鉴赏/demon-symbol.jpg" alt="恶魔与五芒星标志">
-</p>
-<p align="center"><em>图：恶魔与五芒星标志，是 Darksynth 重要的视觉元素之一</em></p>
+![恶魔与五芒星标志](demon-symbol.jpg)
+
+*图：恶魔与五芒星标志，是 Darksynth 重要的视觉元素之一*
 
 ---
 
@@ -348,10 +338,9 @@ DWTD 的封面与视觉一贯钟爱“幽灵、骷髅、满月与黑林”的组
 
 在这首歌里，你会真切地感到：在整张黑暗专辑的后半段，DWTD 偶尔还是愿意给你一点“希望的亮度”。
 
-<p align="center">
-  <img src="/2020/08/21/Synthwave专辑《The-Shape》全鉴赏/forest-light.jpg" alt="森林中的一束光">
-</p>
-<p align="center"><em>图：森林中的一束光，正是“Watching You”的意象所在</em></p>
+![森林中的一束光](forest-light.jpg)
+
+*图：森林中的一束光，正是“Watching You”的意象所在*
 
 ---
 
@@ -377,10 +366,9 @@ DWTD 的封面与视觉一贯钟爱“幽灵、骷髅、满月与黑林”的组
 
 经过四十分钟的黑暗合成器洗礼，Dance With The Dead 带着他们的游魂与骷髅，缓缓退回森林深处——风暴已经袭来，也已经过去，夜色依旧，但你耳中的世界已经变得不再一样。
 
-<p align="center">
-  <img src="/2020/08/21/Synthwave专辑《The-Shape》全鉴赏/walk-into-night.jpg" alt="安静地走入夜晚">
-</p>
-<p align="center"><em>图：安静地走入夜晚</em></p>
+![安静地走入夜晚](walk-into-night.jpg)
+
+*图：安静地走入夜晚*
 
 ---
 
@@ -398,7 +386,6 @@ DWTD 的封面与视觉一贯钟爱“幽灵、骷髅、满月与黑林”的组
 
 最后附上专辑封面大图一张。
 
-<p align="center">
-  <img src="/2020/08/21/Synthwave专辑《The-Shape》全鉴赏/cover.jpg" alt="The Shape 专辑封面大图">
-</p>
-<p align="center"><em>图：《The Shape》专辑封面大图</em></p>
+![The Shape 专辑封面大图](cover.jpg)
+
+*图：《The Shape》专辑封面大图*

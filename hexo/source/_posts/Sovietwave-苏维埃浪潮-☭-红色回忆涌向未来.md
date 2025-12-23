@@ -1,12 +1,12 @@
 ---
 title: Sovietwave 苏维埃浪潮 ☭ 红色回忆涌向未来
 categories: 音樂專欄
-date: 2025-11-23 11:41:11
+date: 2023-11-16 11:41:11
 tags: 
   - 合成器浪潮
 cover: tengyart-yRA0hRNbOOA-unsplash.jpg
 copyright_author: 聲爆光年
-description: 
+description: Sovietwave（苏维埃浪潮）通常被描述为 Synthwave 的一个分支音乐风格，同时也是一套伴生的网络美学.
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l-7C5EqO8EU?si=n8CDgEnB3--RQz-U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

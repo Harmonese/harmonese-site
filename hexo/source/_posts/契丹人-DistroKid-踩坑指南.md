@@ -112,7 +112,3 @@ DistroKid 有一个功能 “Dave”，它可以帮你分析你的歌曲的一�
 ![](12.png)
 
 DistroKid 和 Spotify 有深度合作，因此你在 DistroKid 上发行歌曲后可以直接对接入驻 Spotify。
-
----
-
-<p align="right">——聲爆光年，2022.1.10</p>

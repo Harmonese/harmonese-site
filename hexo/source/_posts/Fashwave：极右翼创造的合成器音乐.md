@@ -1,5 +1,5 @@
 ---
-title: Fashwave：极右翼创造的合成器音乐
+title: Fashwave 与合成器音乐的极右绑架往事
 date: 2024-01-28 00:40
 updated: 2025-12-21
 tags:

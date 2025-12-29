@@ -6,7 +6,7 @@ tags:
   - 乐评
   - Synthwave
 categories: 音樂專欄
-cover: image.png
+cover: https://cdn.dribbble.com/userupload/27808197/file/original-9d33abe38dfe6fb07d3f422722d68702.png
 copyright_author: 聲爆光年
 description: Fashwave 究竟是什么？
 ---
@@ -37,7 +37,7 @@ description: Fashwave 究竟是什么？
 
 #### Synthwave 最初只不过是一场怀旧风潮
 
-2000 年代后期，欧美地下出现一批致敬 80 年代电影配乐、街机游戏的电子音乐人——Kavinsky、College、Perturbator、Carpenter Brut 等。他们用复古合成器和鼓机，创造了一种“霓虹城市、跑车、太空港”的想象。2011 年电影《亡命驾驶》（Drive），以及后来的《怪奇物语》（Stranger Things），把这种声音带进了更广泛的流行文化。
+2000 年代后期，欧美地下出现一批致敬 80 年代电影配乐、街机游戏的电子音乐人——Kavinsky、College、Perturbator、Carpenter Brut 等。他们用复古合成器和鼓机，创造了一种“霓虹城市、跑车、太空港”的想象。2011 年电影《亡命驾驶》，以及后来的《怪奇物语》配乐，把这种声音带进了更广泛的流行文化。
 
 这套美学本身并不政治化：更多是对童年时代的怀旧，对冷战科幻、街机文化的迷恋。
 
@@ -68,7 +68,7 @@ Vaporwave（蒸汽波）采样 80、90 年代的商业广告音乐、电梯 BGM�
 
 {% meting "1339022631" "netease" "song" %}
 
-听觉层面只是“还挺带感的电子乐”，视觉和文本层面却在不断重复极右翼象征。这种“分层编码”的策略，和网络极右长期玩弄的“狗哨政治”（dog-whistle politics）高度一致：听得懂的人会心一笑，听不懂的人只觉得这是某种怪异的美学。
+听觉层面只是“还挺带感的电子乐”，视觉和文本层面却在不断重复极右翼象征。这种“分层编码”的策略，和网络极右长期玩弄的“狗哨政治”高度一致：听得懂的人会心一笑，听不懂的人只觉得这是某种怪异的美学。
 
 #### 它精准对应了一种反动的怀旧情绪
 

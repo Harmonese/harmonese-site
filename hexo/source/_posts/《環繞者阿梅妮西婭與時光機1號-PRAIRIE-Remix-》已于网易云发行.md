@@ -13,4 +13,4 @@ description: PRAIRIE 于2023年1月8日上线了《環繞者阿梅妮西婭與�
 
 PRAIRIE 于2023年1月8日上线了《環繞者阿梅妮西婭與時光機1號 (PRAIRIE Remix)》，此 Remix 不会出现在《電子歌劇 (Probabilities)》专辑中。
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=2012877543&auto=1&height=66"></iframe>
+{% meting "2012877543" "netease" "song" %}

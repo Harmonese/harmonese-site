@@ -58,15 +58,7 @@ description: 这篇文章我们就沿着 DWTD 2016 年的代表作、全器乐�
 **专辑《The Shape》**
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=79012162&auto=0&height=430">
-</iframe>
+{% meting "79012162" "netease" "album" %}
 </div>
 
 ---
@@ -89,15 +81,7 @@ DWTD 的封面与视觉一贯钟爱“幽灵、骷髅、满月与黑林”的组
 
 **There's a Storm Coming**
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=1364125056&auto=0&height=66">
-</iframe>
+{% meting "1364125056" "netease" "song" %}
 
 作为全专辑的 **前奏曲**，“There's a Storm Coming”（风暴即将来临）并没有走那种“只铺氛围、没旋律”的功能性路线：
 
@@ -117,15 +101,7 @@ DWTD 的封面与视觉一贯钟爱“幽灵、骷髅、满月与黑林”的组
 
 **Eyes of Madness**
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=1364123952&auto=0&height=66">
-</iframe>
+{% meting "1364123952" "netease" "song" %}
 
 “Eyes of Madness”（狂暴之眼）是整张专辑的 **主打曲之一**。它的结构可以近似理解为三次“抬升—释放”的循环：
 
@@ -146,15 +122,7 @@ DWTD 的封面与视觉一贯钟爱“幽灵、骷髅、满月与黑林”的组
 
 **Her Ghost**
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=1364125059&auto=0&height=66">
-</iframe>
+{% meting "1364125059" "netease" "song" %}
 
 “Her Ghost” 以 **人声合唱铺垫** 引入金属吉他的低音层，紧接着明亮的分解和弦在中高频闪耀，像是满月下林间忽明忽暗的微光。
 
@@ -176,15 +144,7 @@ DWTD 的封面与视觉一贯钟爱“幽灵、骷髅、满月与黑林”的组
 
 **Screams and Whispers**
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=1364125060&auto=0&height=66">
-</iframe>
+{% meting "1364125060" "netease" "song" %}
 
 这首歌的名字就已经把编曲的最核心设计写出来了：
 
@@ -206,15 +166,7 @@ DWTD 的封面与视觉一贯钟爱“幽灵、骷髅、满月与黑林”的组
 
 **Adrift**
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=1364125057&auto=0&height=66">
-</iframe>
+{% meting "1364125057" "netease" "song" %}
 
 “Adrift” 可视作一首 **Ambient 间奏曲**。这首歌几乎完全收起了前面几首的咆哮：
 
@@ -234,15 +186,7 @@ DWTD 的封面与视觉一贯钟爱“幽灵、骷髅、满月与黑林”的组
 
 **Riot**
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=1364123949&auto=0&height=66">
-</iframe>
+{% meting "1364123949" "netease" "song" %}
 
 刚刚被 Ambient 抚了几分钟，“Riot” 立刻把你丢回到 130 BPM 的快节奏 Darksynth 里：
 
@@ -262,15 +206,7 @@ DWTD 的封面与视觉一贯钟爱“幽灵、骷髅、满月与黑林”的组
 
 **Horizon**
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=1364125058&auto=0&height=66">
-</iframe>
+{% meting "1364125058" "netease" "song" %}
 
 “Horizon”（地平线）在整张专辑里算是相对平缓的一首：
 
@@ -290,15 +226,7 @@ DWTD 的封面与视觉一贯钟爱“幽灵、骷髅、满月与黑林”的组
 
 **Diabolic**
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=1364125055&auto=0&height=66">
-</iframe>
+{% meting "1364125055" "netease" "song" %}
 
 “Diabolic”（恶魔般的）与我们曾经分析过的 Perturbator《Dangerous Days》中的 “Satanic Rites” 有异曲同工之妙：都是以“恶魔 / 撒旦”意象为核心的 Darksynth 作品。
 
@@ -318,15 +246,7 @@ DWTD 的封面与视觉一贯钟爱“幽灵、骷髅、满月与黑林”的组
 
 **Watching You**
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=1364123951&auto=0&height=66">
-</iframe>
+{% meting "1364123951" "netease" "song" %}
 
 就个人口味而言，这是我在整张专辑里最喜欢的一首。
 
@@ -348,15 +268,7 @@ DWTD 的封面与视觉一贯钟爱“幽灵、骷髅、满月与黑林”的组
 
 **Quietly into the Night**
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=1364123950&auto=0&height=66">
-</iframe>
+{% meting "1364123950" "netease" "song" %}
 
 最后一首 “Quietly into the Night” 是一首非常典型的 **“尾曲式抒情金属合成器”**：
 

@@ -16,13 +16,5 @@ copyright_author: 聲爆光年
 高光：主打曲“Monster in Paradise”给全专戏谑与动感的基调起了个好头，射击游戏般的歌词同样趣味十足。
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=166037957&auto=0&height=430">
-</iframe>
+{% meting "166037957" "netease" "album" %}
 </div>

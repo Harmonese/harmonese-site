@@ -15,13 +15,5 @@ copyright_author: 聲爆光年
 高光：Vampires (Live)中Justin Klunk的萨克斯独奏，沉浸般的享乐。
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=173754832&auto=0&height=430">
-</iframe>
+{% meting "173754832" "netease" "album" %}
 </div>

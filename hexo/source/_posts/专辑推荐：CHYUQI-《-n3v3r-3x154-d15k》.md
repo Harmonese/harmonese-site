@@ -15,25 +15,9 @@ copyright_author: 聲爆光年
 高光：26.5/5childhood,is it true?，一个孩子的成长
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=140318899&auto=0&height=430">
-</iframe>
+{% meting "140318899" "netease" "album" %}
 </div>
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=162011739&auto=0&height=430">
-</iframe>
+{% meting "162011739" "netease" "album" %}
 </div>

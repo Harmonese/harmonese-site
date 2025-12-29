@@ -66,7 +66,7 @@ Vaporwave（蒸汽波）采样 80、90 年代的商业广告音乐、电梯 BGM�
 
 比如你在流媒体上看到：
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1339022631&auto=1&height=66"></iframe>
+{% meting "1339022631" "netease" "song" %}
 
 听觉层面只是“还挺带感的电子乐”，视觉和文本层面却在不断重复极右翼象征。这种“分层编码”的策略，和网络极右长期玩弄的“狗哨政治”（dog-whistle politics）高度一致：听得懂的人会心一笑，听不懂的人只觉得这是某种怪异的美学。
 

@@ -12,10 +12,6 @@ description: Synthwave主要流派简介与歌曲案例。
 ---
 本文最初登载于电子谐奏，此文为重投。
 
-<p align="center">
-  ![Synthwave主要流派简介与歌曲案例 封面](cover.jpg)
-</p>
-
 ---
 
 ## 写在前头
@@ -41,119 +37,47 @@ Dreamwave（梦幻浪潮 / 梦幻波，有时也叫 Popwave）是目前发展最
 **Moonrunner83 – In My Head**
 专辑 *You & Me At The Edge Of The World* 开场曲，标准的温柔 Dreamwave 写法。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=1438737869&auto=0&height=66">
-</iframe>
+{% meting "1438737869" "netease" "song" %}
 
 **The Midnight – Memories**
 Dreamwave 代表乐队 The Midnight 首专 *Endless Summer* 收尾曲，青春怀旧感拉满。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=426027093&auto=0&height=66">
-</iframe>
+{% meting "426027093" "netease" "song" %}
 
 **Scavenger Hunt – Ghosts**
 混入一定 Pop 元素的 Dreamwave，旋律极其上口。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=526081106&auto=0&height=66">
-</iframe>
+{% meting "526081106" "netease" "song" %}
 
 **PRIZM – Can't Go Back**
 出自 PRIZM 新专 *All Night*，偏城市流行的一面，很适合当夜间驾车 BGM。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=1475525762&auto=0&height=66">
-</iframe>
+{% meting "1475525762" "netease" "song" %}
 
 **Morgan Willis – Dreamer (Original Mix)**
 复古感明显的 Dreamwave，旋律线比较长，适合作为整张专辑的情绪支撑点。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=1410948384&auto=0&height=66">
-</iframe>
+{% meting "1410948384" "netease" "song" %}
 
 **Timecop1983 – On The Run**
 出自 *Night Drive*，典型 “公路+霓虹灯” 画面感的作品，是 Timecop1983 的代表路数之一。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=1470149634&auto=0&height=66">
-</iframe>
+{% meting "1470149634" "netease" "song" %}
 
 **栓子 – 太 空 计 划**
 中国制作人栓子的作品，Dreamwave 基底上混入一点点 Psy 的气质，空间感很明显。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=1403539817&auto=0&height=66">
-</iframe>
+{% meting "1403539817" "netease" "song" %}
 
 **Electric Youth – WeAreTheYouth**
 出自经典专辑 *Innerworld*，氛围梦幻、清澈，是入门 Electric Youth 的好选择之一。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=29304738&auto=0&height=66">
-</iframe>
+{% meting "29304738" "netease" "song" %}
 
 **Miami Nights 1984 – New Tomorrow**
 来自专辑 *Turbulence*，将梦幻感推到极致的一首作品，旋律极具辨识度。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=25749067&auto=0&height=66">
-</iframe>
+{% meting "25749067" "netease" "song" %}
 
 ---
 
@@ -179,134 +103,54 @@ Darksynth（暗黑合成器，早期也被叫做 Darkwave）是另一个已被�
 **Carpenter Brut – Wake Up the President**
 出自经典三部曲合辑 *Trilogy*，Carpenter Brut 是 Darksynth 崛起最关键的人物之一。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=33875014&auto=0&height=66">
-</iframe>
+{% meting "33875014" "netease" "song" %}
 
 **Kavinsky – Blizzard**
 来自标志性专辑 *OutRun* 的早期作品，按今天的耳朵听已经妥妥是 Darksynth 取向。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=473135741&auto=0&height=66">
-</iframe>
+{% meting "473135741" "netease" "song" %}
 
 **ALEX, TOKYO ROSE, THE AKUMA – RITUAL**
 Alex & Tokyo Rose 合作项目 *AKUMA* 中的代表曲之一，浓重的黑暗色调与合成器律动并存。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=503206695&auto=0&height=66">
-</iframe>
+{% meting "503206695" "netease" "song" %}
 
 **3FORCE – Shape Shifter**
 FiXT Neon 厂牌三人组 3FORCE 的专辑 *Divide & Collide* 开场曲，兼有科幻与暴力感。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=1410771484&auto=0&height=66">
-</iframe>
+{% meting "1410771484" "netease" "song" %}
 
 **Perturbator – Perturbator's Theme**
 出自专辑 *Dangerous Days*，几乎可以视作 Darksynth 的“门面担当”之一，代表 Perturbator 个人风格。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=28681521&auto=0&height=66">
-</iframe>
+{% meting "28681521" "netease" "song" %}
 
 ### 美国 Darksynth 歌曲示例
 
 **Dance With The Dead – Eyes of Madness**
 美国 Darksynth 领军组合，重金属吉他与合成器的混搭几乎是他们的招牌。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=1364123952&auto=0&height=66">
-</iframe>
+{% meting "1364123952" "netease" "song" %}
 
 **Lazerhawk – Chaos**
 来自偏暗黑的专辑 *Skull And Shark*，将电影配乐感和合成器暴力感结合得非常紧密。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=27893402&auto=0&height=66">
-</iframe>
+{% meting "27893402" "netease" "song" %}
 
 **Scandroid, Circle of Dust – Pro-Bots & Robophobes**
 Klayton 本人的项目联动，摇滚 riff + 机械音色 + 末日叙事，带有强烈 Darksynth 影子。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=440207872&auto=0&height=66">
-</iframe>
+{% meting "440207872" "netease" "song" %}
 
 **Hexenkraft – Nightflame Eternal**
 自称“恶魔 Darksynth” 的项目，音色和视觉都非常邪典，适合喜欢极端设定的听众。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=1468951506&auto=0&height=66">
-</iframe>
+{% meting "1468951506" "netease" "song" %}
 
 **Gost – Commencement**
 出自 Darksynth × Metal 跨界专辑 *Non Paradisi*，在厚重 riff 下仍保持合成器线条的张力。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=437859595&auto=0&height=66">
-</iframe>
+{% meting "437859595" "netease" "song" %}
 
 ---
 
@@ -327,132 +171,52 @@ Klayton 本人的项目联动，摇滚 riff + 机械音色 + 末日叙事，带�
 **Proxyon – Mission Alpha**
 含有 Italo Dance 特征的舞曲，在今天的话很自然会被归入 Synthwave 体系中。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=1359967314&auto=0&height=66">
-</iframe>
+{% meting "1359967314" "netease" "song" %}
 
 **Sunglasses Kid, Phaserland – Freshman (Bonus Track)**
 出自专辑 *Graduation*，几乎是“80 年代青春电影片尾曲”的声音模板。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=460043498&auto=0&height=66">
-</iframe>
+{% meting "460043498" "netease" "song" %}
 
 **Palm Highway Chase – Atari Prime**
 收录于 *ARPNET*，对 8-bit 游戏与街机文化有明显致敬意味。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=28358831&auto=0&height=66">
-</iframe>
+{% meting "28358831" "netease" "song" %}
 
 **Morgan Willis – Parallaxe**
 复古爱好者 Morgan Willis 在专辑 *Supernova* 中的一首，老派气质非常突出。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=1457193804&auto=0&height=66">
-</iframe>
+{% meting "1457193804" "netease" "song" %}
 
 **音速行星 – Game Time**
 来自中国 Synthwave 项目音速行星首专 *时间旅行有限公司*，纯正 '80s Synth 语感。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=1376831974&auto=0&height=66">
-</iframe>
+{% meting "1376831974" "netease" "song" %}
 
 **Mitch Murder – Outride a Crisis**
 出自 *Selection 2*，Mitch Murder 是典型的“做着做着就把 80 年代做活了”的类型。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=28301893&auto=0&height=66">
-</iframe>
+{% meting "28301893" "netease" "song" %}
 
 **Home – Decay**
 美国制作人 HOME 的专辑 *Odyssey*，整体更偏 Chill，但这首在复古与现代之间拿捏得很好。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=28764715&auto=0&height=66">
-</iframe>
+{% meting "28764715" "netease" "song" %}
 
 **Plaisance – 1980**
 出自专辑 *Children of the eighties*，连标题都在强调年代感的作品，声音也极其“老派”。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=26626230&auto=0&height=66">
-</iframe>
+{% meting "26626230" "netease" "song" %}
 
 **Anoraak – Nightdrive with You**
 来自专辑 *Nightdrive with You* 的同名主打，是 Synthwave 成形期非常重要的一张 EP / 专辑。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=1435946487&auto=0&height=66">
-</iframe>
+{% meting "1435946487" "netease" "song" %}
 
 **Miami Nights 1984 – Clutch**
 *'80s Synth* 气质极强的作品，出自 *Turbulence*，与前面提到的 *New Tomorrow* 同专辑互文。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=25749036&auto=0&height=66">
-</iframe>
+{% meting "25749036" "netease" "song" %}
 
 ---
 
@@ -473,132 +237,52 @@ New '80s Synth（新 80 年代合成器，常与 Outrun 一词交叉使用）相
 **Robert Parker – Generation '82 (feat. Shyguys)**
 出自对 Synthwave 发展影响巨大的专辑 *Crystal City*，将 80 年代群像与“新时代俱乐部”氛围结合得很好。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=1436476113&auto=0&height=66">
-</iframe>
+{% meting "1436476113" "netease" "song" %}
 
 **Ace Marino – Muscle Beach**
 2020 年录音室专辑中的代表曲，肌肉海滩 + 日落 + 车流，是 New '80s Synth 的教科书级画面。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=1476367846&auto=0&height=66">
-</iframe>
+{% meting "1476367846" "netease" "song" %}
 
 **Lost Years – The Other Side of You**
 合成器网格与新 80 年代美学的结合，非常典型的 Outrun 气质作品。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=27939450&auto=0&height=66">
-</iframe>
+{% meting "27939450" "netease" "song" %}
 
 **SelloRekt LA Dreams – The Other Side**
 洛杉矶音乐人 SelloRekt / LA Dreams 的拿手好戏，新 80 年代风味浓厚又不失浪漫气息。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=514337479&auto=0&height=66">
-</iframe>
+{% meting "514337479" "netease" "song" %}
 
 **Cassetter – Teleport Disco**
 出自首专 *The Fugitive*，将复古科幻和 Disco 律动融合得很顺滑的一首作品。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=1397050464&auto=0&height=66">
-</iframe>
+{% meting "1397050464" "netease" "song" %}
 
 **Scandroid – Eden (Waveshaper Remix)**
 来自专辑 *Scandroid* 的官方 Remix，Waveshaper 把原曲往 New '80s 方向稍微推了一步，合成器更加华丽。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=440208824&auto=0&height=66">
-</iframe>
+{% meting "440208824" "netease" "song" %}
 
 **Don Dellpiero – Three Million Light Years Away**
 出自 *Time Travel*，带一点 Spacewave 氛围的新 80 年代作品，适合作为“驾驶星际飞船”的背景音乐。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=1363342729&auto=0&height=66">
-</iframe>
+{% meting "1363342729" "netease" "song" %}
 
 **Fury Weekend – Knightriders**
 FiXT Neon 旗下代表艺人 Fury Weekend 的专辑 *Retro Rangers* 中一首，充满“机甲骑士团”感的曲子。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=1313326940&auto=0&height=66">
-</iframe>
+{% meting "1313326940" "netease" "song" %}
 
 **Midnight Fighters – Neon City**
 乐队名就已经昭示一切：这是他们代表性的 New '80s Synth 作品之一，典型霓虹都市风格。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=563988074&auto=0&height=66">
-</iframe>
+{% meting "563988074" "netease" "song" %}
 
 **Italoconnection – Humanize**
 在 New '80s 基底上混入了一些 House 元素，使得整首歌在舞池实用性上又多加了一分。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=1331263325&auto=0&height=66">
-</iframe>
+{% meting "1331263325" "netease" "song" %}
 
 ---
 
@@ -620,132 +304,52 @@ Sovietwave（苏维埃浪潮 / 苏维埃波）介于 Synthwave 与 Synth-pop、�
 **Gummy Boy – Don't Leave (Original Mix)**
 Gummy Boy 代表作之一，情绪上偏忧郁，合成器织体非常柔软，适合深夜循环。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=504258987&auto=0&height=66">
-</iframe>
+{% meting "504258987" "netease" "song" %}
 
 **Маяк – Выше звезд**
 同名迷你专辑主打曲，带有明显苏联怀旧与太空工程意象。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=28533715&auto=0&height=66">
-</iframe>
+{% meting "28533715" "netease" "song" %}
 
 **Project Lazarus – К солнцу, к звездам**
 俄罗斯单人项目 Project Lazarus 的作品，标题直译即“向太阳，向星辰”，是标准的“苏式宇宙浪漫”。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=1441342352&auto=0&height=66">
-</iframe>
+{% meting "1441342352" "netease" "song" %}
 
 **Chuli4n – Despondenc**
 Sovietwave 制作人 Chuli4n 的作品之一，节奏慢而沉，氛围接近忧郁电子。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=1456138304&auto=0&height=66">
-</iframe>
+{% meting "1456138304" "netease" "song" %}
 
 **Sovietwave – Sputnik**
 作者名与标签同名的单曲，封面满满都是苏联符号，非常直白的“苏维埃浪潮”姿态。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=1461565707&auto=0&height=66">
-</iframe>
+{% meting "1461565707" "netease" "song" %}
 
 **Sigma Delta – Breakdown**
 在 Sovietwave 框架下相对明亮的一首歌，旋律线较为舒展，略带希望感。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=546863491&auto=0&height=66">
-</iframe>
+{% meting "546863491" "netease" "song" %}
 
 **Priroda – 8080**
 Priroda 系列作品之一（“X0X0” 系列的一环），通过 Drum Machine 符号直接勾连起电子音乐史。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=1340381506&auto=0&height=66">
-</iframe>
+{% meting "1340381506" "netease" "song" %}
 
 **Molchat Doma – На Дне**
 出自专辑 *Этажи*，律动感较强，但依旧保留了东欧冷感和忧郁色彩，在合成器浪潮圈很有名气。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=1413487056&auto=0&height=66">
-</iframe>
+{% meting "1413487056" "netease" "song" %}
 
 **The Violent Youth – Space**
 二人组合 The Violent Youth 的作品之一，旋律朗朗上口，适合作为 Sovietwave 的入门曲目。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=1344877719&auto=0&height=66">
-</iframe>
+{% meting "1344877719" "netease" "song" %}
 
 **From Tokyo To Honolulu – Неопознанный канал**
 刻意压低的音质让这首歌带着很强的 Vaporwave 阴影，是 Sovietwave 与 Vaporwave 最显性的交叉样本之一。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=1321546901&auto=0&height=66">
-</iframe>
+{% meting "1321546901" "netease" "song" %}
 
 ---
 
@@ -765,132 +369,52 @@ Spacesynth / Spacewave（宇宙合成器 / 宇宙浪潮）是一个很“跨界�
 **3FORCE – The Watchers**
 2020 年的单曲，从名字就能感到浓重的宇宙感：某种在星海中观察文明的存在。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=1482077868&auto=0&height=66">
-</iframe>
+{% meting "1482077868" "netease" "song" %}
 
 **Stilz – Galaxy Express 2185**
 “银河列车 2185”，从标题开始就非常太空歌剧，音乐上也充满星际旅行感。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=483165095&auto=0&height=66">
-</iframe>
+{% meting "483165095" "netease" "song" %}
 
 **Lazerhawk – Visitors**
 来自同名专辑 *Visitors*，是 Spacewave 体系中非常有代表性的作品，适合作为入门。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=26064591&auto=0&height=66">
-</iframe>
+{% meting "26064591" "netease" "song" %}
 
 **Waveshaper – Galactical (Original Mix)**
 Spacewave 代表制作人 Waveshaper 的作品，音色干净而数字化，空间想象力极强。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=505418833&auto=0&height=66">
-</iframe>
+{% meting "505418833" "netease" "song" %}
 
 **Starforce – Alpine Glow**
 复古感更浓的一首 Spacewave，将宇宙与雪山、极光等自然景色感叠加在一起的有趣尝试。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=26306449&auto=0&height=66">
-</iframe>
+{% meting "26306449" "netease" "song" %}
 
 **Daft Punk – TRON Legacy (End Titles)**
 少数明显偏 Synthwave / Spacewave 的 Daft Punk 作品，电影《创：战纪》片尾曲，科幻感扑面而来。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=4017280&auto=0&height=66">
-</iframe>
+{% meting "4017280" "netease" "song" %}
 
 **Proxyon – Space Warriors**
 早在 Synthwave 正式成型前，就已带有 Spacewave 萌芽特征的作品，小宇宙能量十足。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=1359965988&auto=0&height=66">
-</iframe>
+{% meting "1359965988" "netease" "song" %}
 
 **Don Dellpiero – Journey Through Time and Space**
 同样出自 *Time Travel*，用标题直接点出时间与空间的双重旅行主题，非常“太空歌剧”。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=1363343908&auto=0&height=66">
-</iframe>
+{% meting "1363343908" "netease" "song" %}
 
 **Tonebox – System Error**
 来自 Spacewave 专辑 *Nocturn*，以“系统错误”之名讲述一场发生在星际文明系统中的崩坏。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=1436203632&auto=0&height=66">
-</iframe>
+{% meting "1436203632" "netease" "song" %}
 
 **Powernerd, Dana Jean Phoenix – Hyperdrive**
 Powernerd 与 Dana Jean Phoenix 合作，一脚油门把飞船推进超空间，典型“宇宙疾驰” BGM。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=1399427716&auto=0&height=66">
-</iframe>
+{% meting "1399427716" "netease" "song" %}
 
 ---
 
@@ -907,132 +431,52 @@ Cybersynth（赛博合成器）同样更像文化标签，而不只是音乐风�
 **Essenger, Scandroid – Empire Of Steel**
 Essenger 与 Scandroid 联手打造的“钢铁帝国”，赛博朋克世界观下的权力隐喻非常明显，编曲也兼顾摇滚力度与电子质感。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=1417234168&auto=0&height=66">
-</iframe>
+{% meting "1417234168" "netease" "song" %}
 
 **Perturbator – Future Club**
 被收录在《迈阿密热线 2：空号》中的经典曲目，赛博夜店与暴力都市的结合，可视作 Cybersynth 的标志性作品之一。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=28681523&auto=0&height=66">
-</iframe>
+{% meting "28681523" "netease" "song" %}
 
 **PYLOT – Lost**
 出自概念 EP *Solai*，围绕赛博城市与自我迷失展开，音乐与世界观绑定得很紧密，是故事型 Cybersynth 的代表之一。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=1347616649&auto=0&height=66">
-</iframe>
+{% meting "1347616649" "netease" "song" %}
 
 **F.O.O.L – Criminals**
 来自迷你专辑 *Revenger*，F.O.O.L 一贯的冷酷、锋利感在这里被赛博都市设定放大到了极致。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=1435850557&auto=0&height=66">
-</iframe>
+{% meting "1435850557" "netease" "song" %}
 
 **Cypencil – Kinescopese**
 国内制作人 Cypencil 目前唯一一首 Synthwave，质量极高，既有技术流的细腻，又不失叙事张力，很可惜暂时只有这一首。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=1395648240&auto=0&height=66">
-</iframe>
+{% meting "1395648240" "netease" "song" %}
 
 **VHS Glitch – Blood In Blood Out**
 来自专辑 *Evil Technology*，名字就很“赛博朋克”——邪恶科技、血债血偿，是典型 Cybersynth 主题之一。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=28929895&auto=0&height=66">
-</iframe>
+{% meting "28929895" "netease" "song" %}
 
 **New Arcades – Solace**
 收录于专辑 *Returning Home*，在相对温和的旋律下，依旧可以听出对科技都市和孤独的描写倾向。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=1377473168&auto=0&height=66">
-</iframe>
+{% meting "1377473168" "netease" "song" %}
 
 **NERO – My Eyes**
 来自现代 Bass 里程碑专辑 *Welcome Reality*，在 Dubstep 语境中向 Synthwave 倾斜的一首，很适合作为两者之间的桥梁曲目来感受 Cybersynth 的边界。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=17663058&auto=0&height=66">
-</iframe>
+{% meting "17663058" "netease" "song" %}
 
 **Hyper – Spoiler (Original Mix)**
 曾作为《赛博朋克 2077》宣传片配乐之一，带有明显未来都市、暴力美学的色彩，是典型 Cybersynth 气质的例子。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=542749874&auto=0&height=66">
-</iframe>
+{% meting "542749874" "netease" "song" %}
 
 **Neon Nox – Fahrenheit**
 出自专辑 *Syndicate Shadow*，代表作之一。冷色调合成器与疾驰节奏构成一个“霓虹组织”统治下的世界画面。
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=1381365601&auto=0&height=66">
-</iframe>
+{% meting "1381365601" "netease" "song" %}
 
 ---
 

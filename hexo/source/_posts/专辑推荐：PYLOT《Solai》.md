@@ -15,13 +15,5 @@ copyright_author: 聲爆光年
 高光：Lost，灯光再明亮，也胜不过黑色的天空。
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=75662489&auto=0&height=430">
-</iframe>
+{% meting "75662489" "netease" "album" %}
 </div>

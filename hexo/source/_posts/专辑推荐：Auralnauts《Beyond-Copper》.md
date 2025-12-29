@@ -15,13 +15,5 @@ copyright_author: 聲爆光年
 高光：300% More Human，开除你人籍
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=138703678&auto=0&height=430">
-</iframe>
+{% meting "138703678" "netease" "album" %}
 </div>

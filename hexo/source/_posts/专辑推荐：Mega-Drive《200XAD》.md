@@ -15,13 +15,5 @@ copyright_author: 聲爆光年
 高光：Mnemonic Head Trip，思想风暴
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=169909040&auto=0&height=430">
-</iframe>
+{% meting "169909040" "netease" "album" %}
 </div>

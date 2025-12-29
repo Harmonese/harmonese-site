@@ -51,11 +51,11 @@ code_blocks:
 # Formal:
 #   icon: link || the description || color
 social:
-  fas fa-envelope: mailto:home@harmonese.cn || Email || '#969696'
-  fas fa-rss: http://harmonese.cn/atom.xml || RSS || '#969696'
-  fas iconfont icon-netease: https://music.163.com/#/artist?id=50640143 || Netease Cloud Music || '#969696'
-  fab fa-spotify: https://open.spotify.com/artist/65AqYg3LYwTzCEdzJOMK9v || Spotify || '#969696'
-  fab fa-github: https://github.com/Harmonese || GitHub || '#969696'
+  fas fa-envelope: mailto:home@harmonese.cn || Email || '#f28888'
+  fas fa-rss: http://harmonese.cn/atom.xml || RSS || '#f28888'
+  fas iconfont icon-netease: https://music.163.com/#/artist?id=50640143 || Netease Cloud Music || '#f28888'
+  fab fa-spotify: https://open.spotify.com/artist/65AqYg3LYwTzCEdzJOMK9v || Spotify || '#f28888'
+  fab fa-github: https://github.com/Harmonese || GitHub || '#f28888'
 
 # --------------------------------------
 # Image Settings
@@ -777,9 +777,9 @@ theme_color:
 #   hr_color: "#A4D8FA"
 #   code_foreground: "#F47466"
 #   code_background: "rgba(27, 31, 35, .05)"
-#   toc_color: "#00c4b6"
-#   blockquote_padding_color: "#49b1f5"
-#   blockquote_background_color: "#49b1f5"
+  toc_color: "#d61a4f"
+  blockquote_padding_color: "#fc0000"
+  blockquote_background_color: "#e67777"
 #   scrollbar_color: "#49b1f5"
 #   meta_theme_color_light: "ffffff"
 #   meta_theme_color_dark: "#0d0d0d"
@@ -919,7 +919,7 @@ clickShowText:
 # https://github.com/francoischalifour/medium-zoom
 # https://fancyapps.com/fancybox/
 # Leave it empty if you don't need lightbox
-lightbox:
+lightbox: fancybox
 
 # --------------------------------------
 # Tag Plugins settings
@@ -997,7 +997,7 @@ pjax:
 
 # Inject the css and script (aplayer/meting)
 aplayerInject:
-  enable: false
+  enable: true
   per_page: true
 
 # Snackbar - Toast Notification
@@ -1012,7 +1012,7 @@ snackbar:
 
 # Instant.page
 # https://instant.page/
-instantpage: false
+instantpage: true
 
 # Lazyload
 # https://github.com/verlok/vanilla-lazyload

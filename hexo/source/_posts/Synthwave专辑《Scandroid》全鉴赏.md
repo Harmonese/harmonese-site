@@ -38,15 +38,7 @@ description: 让我们把时间拨到 2517 年，发动引擎驶入一个赛博�
 **单曲 EP《Salvation Code》**
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=2651354&auto=0&height=430">
-</iframe>
+{% meting "2651354" "netease" "album" %}
 </div>
 
 同年 11 月，Scandroid 推出第二首先行单曲《*Datastream*》。
@@ -54,15 +46,7 @@ description: 让我们把时间拨到 2517 年，发动引擎驶入一个赛博�
 **单曲 EP《Datastream》**
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=2735260&auto=0&height=430">
-</iframe>
+{% meting "2735260" "netease" "album" %}
 </div>
 
 在乐队设定的世界观里，两位成员分别扮演赛博都市中的角色：**Red** 与 **Raven**。2014 年，Klayton 在自己的电子摇滚厂牌 **FiXT Music** 旗下创立子厂牌 **FiXT Neon**，专注发布 Synthwave、Indie Pop 与 Chill 等风格。
@@ -118,15 +102,7 @@ Klayton 的个人履历极其丰富，在此只做概要式交代：
 **专辑《Scandroid》**
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=34985250&auto=0&height=430">
-</iframe>
+{% meting "34985250" "netease" "album" %}
 </div>
 
 在风格上，《*Scandroid*》整体可以归入 **Cybersynth**：以赛博朋克世界观为主线，重用厚重低频和金属感音色。但与我们之前分析过的 Perturbator《*Dangerous Days*》相比，本专辑的整体色彩没那么阴郁；更明显的摇滚编配和流行旋律，是它独立于“暗黑系” Cybersynth 的一大特征，也是许多听众对 Scandroid 音乐印象最深的一点。
@@ -150,15 +126,7 @@ Scandroid 的视觉设定贯穿多个时期：
 
 **2517**
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=440208817&auto=0&height=66">
-</iframe>
+{% meting "440208817" "netease" "song" %}
 
 > 人类与机器的国度，在 2517 年的日本街道上
 > 人类与机器的命运，在 2517 年这一切将开始
@@ -171,15 +139,7 @@ Scandroid 的视觉设定贯穿多个时期：
 
 **Salvation Code**
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=440207867&auto=0&height=66">
-</iframe>
+{% meting "440207867" "netease" "song" %}
 
 > 路径变得清晰
 > 我在逐渐接近
@@ -202,15 +162,7 @@ Scandroid 的视觉设定贯穿多个时期：
 
 **Aphelion**
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=440208818&auto=0&height=66">
-</iframe>
+{% meting "440208818" "netease" "song" %}
 
 > 再次飘向远处，我的冬日降临
 > 但你双眼闪耀如光
@@ -231,15 +183,7 @@ Scandroid 的视觉设定贯穿多个时期：
 
 **Shout**
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=440207868&auto=0&height=66">
-</iframe>
+{% meting "440207868" "netease" "song" %}
 
 > 喊叫 喊叫 全部释放
 > 这些事情我无法承担
@@ -260,15 +204,7 @@ Scandroid 的视觉设定贯穿多个时期：
 
 **Destination Unknown**
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=440208819&auto=0&height=66">
-</iframe>
+{% meting "440208819" "netease" "song" %}
 
 “目的地未知”。滚动的铺底音色与镲钹像是一条没有终点的数据流，象征 Red 对“救赎密码”的漫无目的的寻找。
 
@@ -284,15 +220,7 @@ Scandroid 的视觉设定贯穿多个时期：
 
 **Connection**
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=440207869&auto=0&height=66">
-</iframe>
+{% meting "440207869" "netease" "song" %}
 
 > 我们逃吧，关闭电源
 > 今晚忘记一切完美
@@ -311,15 +239,7 @@ Scandroid 的视觉设定贯穿多个时期：
 
 **Datastream**
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=440208820&auto=0&height=66">
-</iframe>
+{% meting "440208820" "netease" "song" %}
 
 > 对我放下防备
 > 准备缠绕一同
@@ -340,15 +260,7 @@ Scandroid 的视觉设定贯穿多个时期：
 
 **Empty Streets**
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=440207870&auto=0&height=66">
-</iframe>
+{% meting "440207870" "netease" "song" %}
 
 > 数码幻想遨游月光之下
 > 我身中仅剩血肉与电路
@@ -368,15 +280,7 @@ Raven 离去之后，Red 已经清晰地看见了这座城市的真实一面：�
 
 **Awakening With You**
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=440208821&auto=0&height=66">
-</iframe>
+{% meting "440208821" "netease" "song" %}
 
 > 我无法确定自己是否拥有一颗心
 > 但我能感到它正在分崩离析
@@ -395,15 +299,7 @@ Raven 离去之后，Red 已经清晰地看见了这座城市的真实一面：�
 
 **Atom & E.E.V.**
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=440207871&auto=0&height=66">
-</iframe>
+{% meting "440207871" "netease" "song" %}
 
 歌名中的 “Atom & E.E.V.”，可以看作电子世界里的“亚当与夏娃”——在故事线中也可理解为 Red 与 Aphelion 的隐喻。
 
@@ -419,15 +315,7 @@ Raven 离去之后，Red 已经清晰地看见了这座城市的真实一面：�
 
 **Neo-Tokyo**
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=440208822&auto=0&height=66">
-</iframe>
+{% meting "440208822" "netease" "song" %}
 
 > 放手 起飞
 > 梦想将在此重燃
@@ -452,15 +340,7 @@ Raven 离去之后，Red 已经清晰地看见了这座城市的真实一面：�
 
 **Pro-Bots & Robophobes（feat. Circle of Dust）**
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=440207872&auto=0&height=66">
-</iframe>
+{% meting "440207872" "netease" "song" %}
 
 > 用数据为我们施洗
 > 促使全球觉醒
@@ -481,15 +361,7 @@ Raven 离去之后，Red 已经清晰地看见了这座城市的真实一面：�
 
 **Eden**
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=440208823&auto=0&height=66">
-</iframe>
+{% meting "440208823" "netease" "song" %}
 
 > 我们被蓄意置于此
 > 我们彼此拥有
@@ -508,15 +380,7 @@ Raven 离去之后，Red 已经清晰地看见了这座城市的真实一面：�
 
 **Singularity**
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=440207873&auto=0&height=66">
-</iframe>
+{% meting "440207873" "netease" "song" %}
 
 人类的悲剧告一段落，新东京的地平线上只残留坍塌的建筑和被遗弃的设施。接下来，占据城市的是新一代主体——觉醒的机器集合体。
 
@@ -532,15 +396,7 @@ Red 在这首歌中被推举为机械文明的象征性领袖——“奇点”�
 
 **Eden (Waveshaper Remix)**
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=440208824&auto=0&height=66">
-</iframe>
+{% meting "440208824" "netease" "song" %}
 
 专辑的最后一首由瑞典制作人 **Waveshaper** 完成，是 Remix Contest 的获奖版本。相比原曲，这个版本的旋律走向更加多变，在保留 Scandroid 世界观氛围的前提下，加入了明显的 Waveshaper 个人风格。
 

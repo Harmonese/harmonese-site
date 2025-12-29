@@ -16,13 +16,5 @@ copyright_author: 聲爆光年
 高光：A Light In The Dark，我感到午夜降至……
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=90882872&auto=0&height=430">
-</iframe>
+{% meting "90882872" "netease" "album" %}
 </div>

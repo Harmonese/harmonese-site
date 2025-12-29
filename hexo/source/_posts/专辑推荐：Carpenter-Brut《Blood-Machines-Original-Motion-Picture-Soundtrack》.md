@@ -16,13 +16,5 @@ Darksynth大师Carpenter Brut为女权主义概念电影《血液机器》制作
 高光：Blood Machines Theme，滴血起航。
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=88121118&auto=0&height=430">
-</iframe>
+{% meting "88121118" "netease" "album" %}
 </div>

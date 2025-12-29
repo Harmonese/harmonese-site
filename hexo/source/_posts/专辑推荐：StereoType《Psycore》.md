@@ -15,13 +15,5 @@ StereoType自我站位所在的“Psycore”（并非90年代Cenobite那种Psyco
 高光：Taste of Steel，享受这一刀
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=85905085&auto=0&height=430">
-</iframe>
+{% meting "85905085" "netease" "album" %}
 </div>

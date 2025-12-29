@@ -15,13 +15,5 @@ copyright_author: 聲爆光年
 高光：开场曲Descend To Me，从宁静开始，到宁静结束
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=170448130&auto=0&height=430">
-</iframe>
+{% meting "170448130" "netease" "album" %}
 </div>

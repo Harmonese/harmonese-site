@@ -16,13 +16,5 @@ copyright_author: 聲爆光年
 高光：Somewhere Else，无可替代的旋律线
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=92715621&auto=0&height=430">
-</iframe>
+{% meting "92715621" "netease" "album" %}
 </div>

@@ -15,13 +15,5 @@ copyright_author: 聲爆光年
 高光：Hydrogen，同音反复反复反复反复
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=93652583&auto=0&height=430">
-</iframe>
+{% meting "93652583" "netease" "album" %}
 </div>

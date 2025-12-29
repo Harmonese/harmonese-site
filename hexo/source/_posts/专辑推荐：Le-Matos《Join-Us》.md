@@ -16,13 +16,5 @@ copyright_author: 聲爆光年
 高光：La Mer Des Possibilités，在概率之海中遨游
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=2478468&auto=0&height=430">
-</iframe>
+{% meting "2478468" "netease" "album" %}
 </div>

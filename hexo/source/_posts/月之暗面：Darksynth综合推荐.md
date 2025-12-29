@@ -40,28 +40,12 @@ description: 本期不再做一整张专辑的“全鉴赏”，而是围绕一�
 
 **John Carpenter – Halloween Theme - Main Title**
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=26760429&auto=1&height=66">
-</iframe>
+{% meting "26760429" "netease" "song" %}
 
 而在后来的 Synthwave 发展史中，里程碑式专辑 **Kavinsky –《OutRun》** 里，也有不少作品在气质上完全可以算作 Darksynth，尽管当时这个概念还没被明确提出：凶狠的锯齿主音、生硬粗暴的低音层，以及若隐若现的惊悚氛围，都已经具备了 Darksynth 的雏形。
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=2671905&auto=1&height=430">
-</iframe>
+{% meting "2671905" "netease" "album" %}
 </div>
 
 差不多是在这个时间段，**Perturbator**、**Mega Drive**、**Dance With The Dead** 等项目相继成立，并迅速在圈内崭露头角，为 Darksynth 的成形做出了关键贡献。
@@ -69,41 +53,17 @@ description: 本期不再做一整张专辑的“全鉴赏”，而是围绕一�
 - **Perturbator**
 
   <div align="center">
-  <iframe
-    frameborder="no"
-    border="0"
-    marginwidth="0"
-    marginheight="0"
-    width="330"
-    height="450"
-    src="https://music.163.com/outchain/player?type=1&id=34943328&auto=1&height=430">
-  </iframe>
+  {% meting "34943328" "netease" "album" %}
   </div>
 - **Mega Drive – 早期代表《198XAD》**
 
   <div align="center">
-  <iframe
-    frameborder="no"
-    border="0"
-    marginwidth="0"
-    marginheight="0"
-    width="330"
-    height="450"
-    src="https://music.163.com/outchain/player?type=1&id=2887371&auto=1&height=430">
-  </iframe>
+  {% meting "2887371" "netease" "album" %}
   </div>
 - **Dance With The Dead – 早期代表《Out of Body》**
 
   <div align="center">
-  <iframe
-    frameborder="no"
-    border="0"
-    marginwidth="0"
-    marginheight="0"
-    width="330"
-    height="450"
-    src="https://music.163.com/outchain/player?type=1&id=87001917&auto=1&height=430">
-  </iframe>
+  {% meting "87001917" "netease" "album" %}
   </div>
 
 这批艺人里不少人本身有金属乐背景（例如 **Dance With The Dead** 的两位成员，原本就分别在不同的金属乐队效力），这也让 Darksynth 从一开始就带着明显的金属气质——不仅在编曲手法上，甚至也常常体现在封面视觉上。
@@ -128,37 +88,13 @@ Darksynth 本身并不像 House 那样有固定的 BPM 区间，也不像 Hardco
 
 - **Future Club**
 
-  <iframe
-    frameborder="no"
-    border="0"
-    marginwidth="0"
-    marginheight="0"
-    width="330"
-    height="86"
-    src="https://music.163.com/outchain/player?type=2&id=28681523&auto=1&height=66">
-  </iframe>
+  {% meting "28681523" "netease" "song" %}
 - **Diabolus Ex Machina**
 
-  <iframe
-    frameborder="no"
-    border="0"
-    marginwidth="0"
-    marginheight="0"
-    width="330"
-    height="86"
-    src="https://music.163.com/outchain/player?type=2&id=437291000&auto=1&height=66">
-  </iframe>
+  {% meting "437291000" "netease" "song" %}
 - **Excess**
 
-  <iframe
-    frameborder="no"
-    border="0"
-    marginwidth="0"
-    marginheight="0"
-    width="330"
-    height="86"
-    src="https://music.163.com/outchain/player?type=2&id=1819511483&auto=1&height=66">
-  </iframe>
+  {% meting "1819511483" "netease" "song" %}
 
 也正因为此，**Darksynth 与其他风格的混搭极其常见**。常见的组合包括：
 
@@ -194,15 +130,7 @@ Darksynth 的流行，也催生了不少非常边缘、甚至有点魔幻的“�
 
   **Molchat Doma – Судно (Борис Рыжий)**
 
-  <iframe
-    frameborder="no"
-    border="0"
-    marginwidth="0"
-    marginheight="0"
-    width="330"
-    height="86"
-    src="https://music.163.com/outchain/player?type=2&id=1413481294&auto=1&height=66">
-  </iframe>
+  {% meting "1413481294" "netease" "song" %}
 
   但从音乐技术层面看，这类作品与典型 Darksynth 相距甚远，因此这种归类并不常见。
 
@@ -214,26 +142,10 @@ Darksynth 的流行，也催生了不少非常边缘、甚至有点魔幻的“�
 
 - **音速行星 – 鬼市**
 
-  <iframe
-    frameborder="no"
-    border="0"
-    marginwidth="0"
-    marginheight="0"
-    width="330"
-    height="86"
-    src="https://music.163.com/outchain/player?type=2&id=1414002209&auto=1&height=66">
-  </iframe>
+  {% meting "1414002209" "netease" "song" %}
 - **No Birthday – 【FREE】精神入侵 - Dark Synthwave type beat**
 
-  <iframe
-    frameborder="no"
-    border="0"
-    marginwidth="0"
-    marginheight="0"
-    width="330"
-    height="86"
-    src="https://music.163.com/outchain/player?type=2&id=1810150717&auto=1&height=66">
-  </iframe>
+  {% meting "1810150717" "netease" "song" %}
 
 （厚颜无耻自荐一首。）
 
@@ -260,51 +172,19 @@ Darksynth 的流行，也催生了不少非常边缘、甚至有点魔幻的“�
 三张 EP 在风格上高度统一：**世界观设定在 2070 年代的废土未来**，充满 B 级片气质、恶俗又极具魅力的暴力美学。《Trilogy》也因此被视为 Darksynth 史上的经典之作，其整专在 YouTube 上的播放量早已过四百万。
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=35680123&auto=1&height=430">
-</iframe>
+{% meting "35680123" "netease" "album" %}
 </div>
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=2671905&auto=1&height=430">
-</iframe>
+{% meting "2671905" "netease" "album" %}
 </div>
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=35680121&auto=1&height=430">
-</iframe>
+{% meting "35680121" "netease" "album" %}
 </div>
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=3263645&auto=1&height=430">
-</iframe>
+{% meting "3263645" "netease" "album" %}
 </div>
 
 ![几位 Darksynth 代表项目粉丝对比 4](darksynth-artists-fans-4.png)
@@ -316,15 +196,7 @@ Darksynth 的流行，也催生了不少非常边缘、甚至有点魔幻的“�
 随后发行的现场专辑《CARPENTERBRUTLIVE》记录了他以三人乐队形态在舞台上的表现。相比录音室版本，现场加入了更多即兴与乐器层的变化，很多曲目听起来味道大不相同。
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=35697055&auto=1&height=430">
-</iframe>
+{% meting "35697055" "netease" "album" %}
 </div>
 
 ![Carpenter Brut 2018 年汉堡演出](carpenter-brut-live-hamburg.jpg)
@@ -336,29 +208,13 @@ Darksynth 的流行，也催生了不少非常边缘、甚至有点魔幻的“�
 音乐上，《Leather Teeth》在延续《Trilogy》废土科幻 / 恐怖片气质的基础上，加入了更成熟的金属元素与更讲究的编配。
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=37728569&auto=1&height=430">
-</iframe>
+{% meting "37728569" "netease" "album" %}
 </div>
 
 其后，他又为 2020 年的科幻电影《Blood Machines》制作原声专辑，并在结尾曲 “Grand Final” 中直接引用了经典曲目 “Turbo Killer” 的旋律线：
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=88121118&auto=1&height=430">
-</iframe>
+{% meting "88121118" "netease" "album" %}
 </div>
 
 ![Blood Machines 原声专辑封面](blood-machines-ost-cover.jpg)
@@ -369,26 +225,10 @@ Darksynth 的流行，也催生了不少非常边缘、甚至有点魔幻的“�
 
 - **Maniac**
 
-  <iframe
-    frameborder="no"
-    border="0"
-    marginwidth="0"
-    marginheight="0"
-    width="330"
-    height="86"
-    src="https://music.163.com/outchain/player?type=2&id=1448408478&auto=1&height=66">
-  </iframe>
+  {% meting "1448408478" "netease" "song" %}
 - **Fab Tool**
 
-  <iframe
-    frameborder="no"
-    border="0"
-    marginwidth="0"
-    marginheight="0"
-    width="330"
-    height="86"
-    src="https://music.163.com/outchain/player?type=2&id=1498571879&auto=1&height=66">
-  </iframe>
+  {% meting "1498571879" "netease" "song" %}
 
 此后他一直在筹备《Leather Teeth》的续作《Leather Terror》，原定 2020 年发行，后因各种原因推迟。根据他的自述，这张专辑会比以往更黑暗，黑金属元素也会更重。
 
@@ -412,71 +252,31 @@ Perturbator 同样出身金属乐队。与 Carpenter Brut 不同的是，他一�
 - 《********** - EP》（原名《Sexualizer》）
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=2479708&auto=1&height=430">
-</iframe>
+{% meting "2479708" "netease" "album" %}
 </div>
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=2504138&auto=1&height=430">
-</iframe>
+{% meting "2504138" "netease" "album" %}
 </div>
 
 这一时期的作品还没有大量依赖高能锯齿主音，节奏编排比较重复，律动感也略弱，可以看作风格尚在摸索期的实验。真正奠定他在圈内地位的，是 2014 年的专辑 **《Dangerous Days》**。
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=2879029&auto=1&height=430">
-</iframe>
+{% meting "2879029" "netease" "album" %}
 </div>
 
 这张专辑由黑金属厂牌 **Blood Music** 发行，曲目里有不少黑金属思路的编排与和声。与 Carpenter Brut 的合作曲 **“Complete Domination”** 就出自本专：
 
 **Perturbator & Carpenter Brut – Complete Domination**
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=28681530&auto=1&height=66">
-</iframe>
+{% meting "28681530" "netease" "song" %}
 
 #### The Uncanny Valley 与 New Model：从主流暴力到实验解构
 
 2016 年发行的《The Uncanny Valley》，可以视作《Dangerous Days》的“Pro Plus” 版：制作细腻度进一步提升，暴力程度却有增无减。
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=34943328&auto=1&height=430">
-</iframe>
+{% meting "34943328" "netease" "album" %}
 </div>
 
 专辑设定在 2112 年的东京，像 “Neo Tokyo”“Disco Inferno”“Diabolus Ex Machina” 这样的曲目，用高速的锯齿主音与紧绷鼓组，将“赛博地狱”描绘得几乎喘不过气。
@@ -484,15 +284,7 @@ Perturbator 同样出身金属乐队。与 Carpenter Brut 不同的是，他一�
 2017 年的迷你专辑《New Model》则明显走向了更实验的路子：在不放弃主流听感的前提下，他开始大量使用**解构、重组、快速切换**等手法，将既有的 Darksynth 语言打碎重塑。
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=36303355&auto=1&height=430">
-</iframe>
+{% meting "36303355" "netease" "album" %}
 </div>
 
 #### 与 HEALTH 的合作与 Lustful Sacraments
@@ -501,28 +293,12 @@ Perturbator 同样出身金属乐队。与 Carpenter Brut 不同的是，他一�
 
 **HEALTH & Perturbator – BODY/PRISON**
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=1487437691&auto=1&height=66">
-</iframe>
+{% meting "1487437691" "netease" "song" %}
 
 这条路线最终在 2021 年的专辑《Lustful Sacraments》中彻底展开：赛博朋克的视觉符号演变为更加宗教化、仪式化的暗黑美学，音乐则在 Darksynth 的基础上，吸收了大量 Post-punk 与 Coldwave 的质感。
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=122896255&auto=1&height=430">
-</iframe>
+{% meting "122896255" "netease" "album" %}
 </div>
 
 ---
@@ -546,29 +322,13 @@ Perturbator 同样出身金属乐队。与 Carpenter Brut 不同的是，他一�
 2015 年专辑《Behemoth》是 GosT 水准明显上台阶的一张作品：虽然重复性问题并未完全解决，但整体编排与氛围塑造都有不小进步。专辑中还收录了 **Perturbator** 与 **Dance With The Dead** 的两首 remix，加分不少。
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=3217136&auto=1&height=430">
-</iframe>
+{% meting "3217136" "netease" "album" %}
 </div>
 
 2016 年的《Non Paradisi》与 2018 年的《Possessor》（网易云暂缺）在风格上延续了《Behemoth》的路数：宗教与邪典美学、暗黑电子与金属元素交织。
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=34943775&auto=1&height=430">
-</iframe>
+{% meting "34943775" "netease" "album" %}
 </div>
 
 #### Valediction 与 Rites Of Love And Reverence：极端金属加持的 Darksynth
@@ -576,29 +336,13 @@ Perturbator 同样出身金属乐队。与 Carpenter Brut 不同的是，他一�
 真正让 GosT 脱胎换骨的，是 2019 年专辑《Valediction》。专辑开场几首，对于没怎么接触过极端金属的听众来说甚至有点“吓人”：**全程核嗓、吉他 Riff 与电子合成层交织、鼓组编排接近极端金属**。
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=82039304&auto=1&height=430">
-</iframe>
+{% meting "82039304" "netease" "album" %}
 </div>
 
 2021 年的《Rites Of Love And Reverence》延续了这种势头，虽然在表层听起来比《Valediction》“金属味”稍淡，但很多编曲细节仍然是一看就能认出的金属思路，比如 “Embrace The Blade” 结尾部分的处理。
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=130859294&auto=1&height=430">
-</iframe>
+{% meting "130859294" "netease" "album" %}
 </div>
 
 GosT 近年来作品的金属浓度之高，甚至吸引了一些圈外极端金属大神来关注 —— 至于是谁，就留给大家自己去翻翻评论区了。
@@ -650,27 +394,11 @@ GosT 近年来作品的金属浓度之高，甚至吸引了一些圈外极端金
 在 FiXT Neon 发行的两张长专《198XAD》《199XAD》，可以很清楚地看到他在制作与混音上的成长：
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=2887371&auto=1&height=430">
-</iframe>
+{% meting "2887371" "netease" "album" %}
 </div>
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=81279106&auto=1&height=430">
-</iframe>
+{% meting "81279106" "netease" "album" %}
 </div>
 
 近年来值得推荐的还有《Hardwired V1.4》《Sequencer》《Neuroframe》三张专辑，其中《Hardwired V1.4》收录了包括 **GosT** 与 **Perturbator** 在内的四首重混作品：
@@ -680,39 +408,15 @@ GosT 近年来作品的金属浓度之高，甚至吸引了一些圈外极端金
 *图：《Hardwired V1.4》中的 remix 曲目*
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=87019735&auto=1&height=430">
-</iframe>
+{% meting "87019735" "netease" "album" %}
 </div>
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=95311309&auto=1&height=430">
-</iframe>
+{% meting "95311309" "netease" "album" %}
 </div>
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=126995675&auto=1&height=430">
-</iframe>
+{% meting "126995675" "netease" "album" %}
 </div>
 
 ---
@@ -732,55 +436,23 @@ GosT 近年来作品的金属浓度之高，甚至吸引了一些圈外极端金
 Essenger 正式切入 Darksynth 轨道的标志，是专辑 **《After Dark》**。这是近年 Darksynth / Cybersynth 领域非常值得一听的一张作品：赛博朋克世界观、暗黑合成器与暗黑 Glitch Hop 的混合，配上 **Scandroid**、**Young Medicine** 等嘉宾助阵，构成了一个氛围连贯、旋律线条彼此呼应的完整世界。
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=84657786&auto=1&height=430">
-</iframe>
+{% meting "84657786" "netease" "album" %}
 </div>
 
 此后他先后翻唱了 **Kavinsky – Nightcall** 与 **Porter Robinson – Get Your Wish**，这两首都更偏 Outrun / New '80s Synth，Darksynth 气质并不浓重：
 
 - **Nightcall（feat. NINA）**
 
-  <iframe
-    frameborder="no"
-    border="0"
-    marginwidth="0"
-    marginheight="0"
-    width="330"
-    height="86"
-    src="https://music.163.com/outchain/player?type=2&id=1494449184&auto=1&height=66">
-  </iframe>
+  {% meting "1494449184" "netease" "song" %}
 - **Get Your Wish (Porter Robinson Cover)**
 
-  <iframe
-    frameborder="no"
-    border="0"
-    marginwidth="0"
-    marginheight="0"
-    width="330"
-    height="86"
-    src="https://music.163.com/outchain/player?type=2&id=1430130464&auto=1&height=66">
-  </iframe>
+  {% meting "1430130464" "netease" "song" %}
 
 2021 年下半年开始，他更换了 LOGO，并陆续放出声音更接近《赛博朋克 2077》预告片风格的新单曲，例如：
 
 **Divine Virus**
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="https://music.163.com/outchain/player?type=2&id=1890369671&auto=1&height=66">
-</iframe>
+{% meting "1890369671" "netease" "song" %}
 
 很多人推测这是新专辑的前奏。
 
@@ -791,15 +463,7 @@ Essenger 还有一重“隐藏身份”：**Synthwave 乐队 The Midnight《Horr
 他参与了该 EP 中第 2、3、4、5 首作品的制作，在不干扰 The Midnight 原有风格的前提下，悄然注入了个人色彩。《Horror Show》相对 The Midnight 其他专辑而言确实阴暗许多，但在 Darksynth 的整体光谱中仍属温和。
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=122000677&auto=1&height=430">
-</iframe>
+{% meting "122000677" "netease" "album" %}
 </div>
 
 ---
@@ -826,43 +490,19 @@ Essenger 还有一重“隐藏身份”：**Synthwave 乐队 The Midnight《Horr
   太空主题非常直接，“Intrusion” 中的对话、“Highway Jupiter” 这样的曲名都指向星际故事。制作上略显稚嫩，但整体已经相当强悍。
 
   <div align="center">
-  <iframe
-    frameborder="no"
-    border="0"
-    marginwidth="0"
-    marginheight="0"
-    width="330"
-    height="450"
-    src="https://music.163.com/outchain/player?type=1&id=74839215&auto=1&height=430">
-  </iframe>
+  {% meting "74839215" "netease" "album" %}
   </div>
 - **Resistance**
   主题转向起义战争，但在音色与结构上延续了首专的许多思路，并有明显拓展。
 
   <div align="center">
-  <iframe
-    frameborder="no"
-    border="0"
-    marginwidth="0"
-    marginheight="0"
-    width="330"
-    height="450"
-    src="https://music.163.com/outchain/player?type=1&id=74839217&auto=1&height=430">
-  </iframe>
+  {% meting "74839217" "netease" "album" %}
   </div>
 - **Divide & Collide**
   一张名副其实的“神专”。在不过分渲染恐怖与死亡、也几乎不调动金属武器的情况下，它把 Darksynth 与 Spacewave 融合成一种近乎理想的形态。
 
   <div align="center">
-  <iframe
-    frameborder="no"
-    border="0"
-    marginwidth="0"
-    marginheight="0"
-    width="330"
-    height="450"
-    src="https://music.163.com/outchain/player?type=1&id=84232979&auto=1&height=430">
-  </iframe>
+  {% meting "84232979" "netease" "album" %}
   </div>
 
 近期的数支单曲，如 “Pursuit”“The Watchers”“Alpha Prophecy”“Midnight Overdrive”“Doomsday Codex”“Olympus” 等，则几乎可以视作新专辑的“连载预告”。
@@ -871,37 +511,13 @@ Essenger 还有一重“隐藏身份”：**Synthwave 乐队 The Midnight《Horr
 
 - **Pursuit**
 
-  <iframe
-    frameborder="no"
-    border="0"
-    marginwidth="0"
-    marginheight="0"
-    width="330"
-    height="86"
-    src="https://music.163.com/outchain/player?type=2&id=1459399734&auto=1&height=66">
-  </iframe>
+  {% meting "1459399734" "netease" "song" %}
 - **The Watchers**
 
-  <iframe
-    frameborder="no"
-    border="0"
-    marginwidth="0"
-    marginheight="0"
-    width="330"
-    height="86"
-    src="https://music.163.com/outchain/player?type=2&id=1482077868&auto=1&height=66">
-  </iframe>
+  {% meting "1482077868" "netease" "song" %}
 - **Alpha Prophecy**
 
-  <iframe
-    frameborder="no"
-    border="0"
-    marginwidth="0"
-    marginheight="0"
-    width="330"
-    height="86"
-    src="https://music.163.com/outchain/player?type=2&id=1826122188&auto=1&height=66">
-  </iframe>
+  {% meting "1826122188" "netease" "song" %}
 
 ---
 
@@ -919,50 +535,18 @@ Scandroid 的作品风格跨度较广，并不局限于单一子风格，但其�
 
 - **Destination Unknown**
 
-  <iframe
-    frameborder="no"
-    border="0"
-    marginwidth="0"
-    marginheight="0"
-    width="330"
-    height="86"
-    src="https://music.163.com/outchain/player?type=2&id=440208819&auto=1&height=66">
-  </iframe>
+  {% meting "440208819" "netease" "song" %}
 - **Neo-Tokyo**
 
-  <iframe
-    frameborder="no"
-    border="0"
-    marginwidth="0"
-    marginheight="0"
-    width="330"
-    height="86"
-    src="https://music.163.com/outchain/player?type=2&id=440208822&auto=1&height=66">
-  </iframe>
+  {% meting "440208822" "netease" "song" %}
 - **Pro-Bots & Robophobes（feat. Circle of Dust）**
 
-  <iframe
-    frameborder="no"
-    border="0"
-    marginwidth="0"
-    marginheight="0"
-    width="330"
-    height="86"
-    src="https://music.163.com/outchain/player?type=2&id=440207872&auto=1&height=66">
-  </iframe>
+  {% meting "440207872" "netease" "song" %}
 
 2018 年的 EP **《The Darkness》** 如其名，是一张完整向 Darksynth 倾斜的作品。与之后的《The Light》相对照，可以很直观地感受到 Scandroid 在“暗”与“梦”两端的不同操刀方式。
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=74382091&auto=1&height=430">
-</iframe>
+{% meting "74382091" "netease" "album" %}
 </div>
 
 ---
@@ -978,41 +562,17 @@ Scandroid 的作品风格跨度较广，并不局限于单一子风格，但其�
 首专《Metropolis》设定在 3015 年的人类世界：围绕化石能源与淡水的争夺引发了核战争。歌里不乏 Synthwave 圈名嗓 **Dana Jean Phoenix** 等人的献声，也能听到 Nightcrawler 本人的“工地口音”英语。
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=2761844&auto=1&height=430">
-</iframe>
+{% meting "2761844" "netease" "album" %}
 </div>
 
 第二张专辑《Beware Of The Humans》与第三张《Visionary》在制作上明显更精良，氛围也更阴暗，这一点从封面设计就能感受到：
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=124380118&auto=1&height=430">
-</iframe>
+{% meting "124380118" "netease" "album" %}
 </div>
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=96696270&auto=1&height=430">
-</iframe>
+{% meting "96696270" "netease" "album" %}
 </div>
 
 ---
@@ -1028,53 +588,21 @@ Scandroid 的作品风格跨度较广，并不局限于单一子风格，但其�
 早期专辑《Streetwalker》《Dancing Killer》聚焦都市底层的红灯区与“第三产业”景象——题材本身就带着黑暗核心，只是披着 80s 浪漫的外皮而已：
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=34840243&auto=1&height=430">
-</iframe>
+{% meting "34840243" "netease" "album" %}
 </div>
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=35835123&auto=1&height=430">
-</iframe>
+{% meting "35835123" "netease" "album" %}
 </div>
 
 后期专辑《Pursuer》《Stalking Danger》则在编曲中大量加入电吉他，整体语法与 **Dance With The Dead**、**Fury Weekend** 等项目变得颇为接近：
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=87062435&auto=1&height=430">
-</iframe>
+{% meting "87062435" "netease" "album" %}
 </div>
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=120296947&auto=1&height=430">
-</iframe>
+{% meting "120296947" "netease" "album" %}
 </div>
 
 ---
@@ -1090,41 +618,17 @@ Scandroid 的作品风格跨度较广，并不局限于单一子风格，但其�
 作为 Darksynth 制作人的首专《Convergence 2045》是近几年“赛博朋克热”的典型产物：故事设定在 2045 年的深圳，通过 Darksynth、Brostep、Psy Trance 等多种风格混合，构建出一个高科技、重压之下的东方赛博世界。
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=85284090&auto=1&height=430">
-</iframe>
+{% meting "85284090" "netease" "album" %}
 </div>
 
 随后两张长专《Projekt 2077》《ZION》则直接把“2077”这一赛博文化符号写进标题，且在不少曲目中加入了 Spacewave 式的太空元素，可以看作 **Spacewave + Darksynth** 的组合。不过这两张中 Synthwave 的比例，相较《Convergence 2045》有所下降，现代 Bass 与其他电子语法的比重有所上升。
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=96622328&auto=1&height=430">
-</iframe>
+{% meting "96622328" "netease" "album" %}
 </div>
 
 <div align="center">
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="450"
-  src="https://music.163.com/outchain/player?type=1&id=132235129&auto=1&height=430">
-</iframe>
+{% meting "132235129" "netease" "album" %}
 </div>
 
 ---

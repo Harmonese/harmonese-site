@@ -152,7 +152,7 @@
     descr: 我们的 Bandcamp 主页
   - name: 网易云音乐
     link: https://music.163.com/#/artist?id=50640143
-    avatar: https://favicone.com/music.163.com?s=256
+    avatar: https://favicone.com/music.163.com?s=128
     descr: 我们的网易云音乐主页
   - name: Spotify
     link: https://open.spotify.com/artist/65AqYg3LYwTzCEdzJOMK9v

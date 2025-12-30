@@ -19,4 +19,4 @@ description: 本播客将不定期更新，收录一些乐队在创作过程中�
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=3&id=3709897887&auto=1&height=66"></iframe>
 
-《血紅都會主題 (Extended Mix)》最早将于《《血紅都會 (Probabilities)》衍生专辑中发布，敬请期待！
+《血紅都會主題 (Extended Mix)》最早将于《血紅都會 (Probabilities)》衍生专辑中发布，敬请期待！

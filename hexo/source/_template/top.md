@@ -21,23 +21,60 @@
 
   - 以 [CC BY-SA 许可证](https://creativecommons.org/licenses/by/4.0/)发行（自由使用、可商用，二次创作或发布需使用相同许可证），托管于 [Bandcamp](https://harmonese.bandcamp.com) 。
   - 未在 [Bandcamp](https://harmonese.bandcamp.com) 上托管的音乐作品可以通过[电子邮件](mailto:home@harmonese.cn)联系我们获取。
+{% flink %}
+- link_list:
+  - name: Bandcamp
+    link: https://harmonese.bandcamp.com
+    avatar: https://favicone.com/bandcamp.com?s=256
+    descr: 我们的 Bandcamp 主页
+{% endflink %}
+
 
 - **音乐元数据 / 完整发行目录 / 录音信息 / 完整 credits 等**
 
   - 维护于 [MusicBrainz](https://musicbrainz.org/artist/ab1d470e-10fe-4d25-bde9-2ef62b7b8397) 数据库的相关页面。
+{% flink %}
+- link_list:
+  - name: MusicBrainz
+    link: https://musicbrainz.org/artist/ab1d470e-10fe-4d25-bde9-2ef62b7b8397
+    avatar: https://favicone.com/musicbrainz.org?s=256
+    descr: 我们的 MusicBrainz 主页
+{% endflink %}
+
 
 - **歌词**
 
   - 无时间轴歌词可在 [Bandcamp](https://harmonese.bandcamp.com) 上查看；
   - 带时间轴歌词维护并托管于公开数据库 [lrclib](https://lrclib.net)。
+{% flink %}
+- link_list:
+  - name: lrclib
+    link: https://lrclib.net
+    avatar: https://favicone.com/lrclib.net?s=256
+    descr: lrclib 数据库主页
+{% endflink %}
 
 - **歌曲工程文件**
 
   - 出于安全考虑不公开发布，可通过[电子邮件](mailto:home@harmonese.cn)联系我们获取。
+{% flink %}
+- link_list:
+  - name: 电子邮件
+    link: mailto:home@harmonese.cn
+    avatar: https://favicone.com/harmonese.cn?s=256
+    descr: 通过电子邮件联系我们
+{% endflink %}
 
 - **音乐相关项目源代码**
 
   - 以 [MIT 许可证](https://opensource.org/license/mit) 发行并托管于 [GitHub](https://github.com/harmonese)。
+{% flink %}
+- link_list:
+  - name: GitHub
+    link: https://github.com/harmonese.
+    avatar: https://favicone.com/github.com?s=256
+    descr: 我们的 GitHub 主页
+{% endflink %}
 
 ---
 
@@ -65,24 +102,60 @@
 
 ### 专辑
 
-- **[《電子歌劇》](https://harmonese.bandcamp.com/album/-)**（*Electropera*）– 簡諧點源的首张录音室专辑，确立了世界观基石，发行于 2022 年 2 月 18 日。
-
-- **[《血紅都會》](https://harmonese.bandcamp.com/album/--2)**（*Crimsonopolis*）– 最新录音室专辑，将于 2025 年 12 月 25 日正式发行。
+{% flink %}
+- link_list:
+  - name: 電子歌劇
+    link: https://harmonese.bandcamp.com/album/-
+    avatar: https://archive.org/download/mbid-338501b4-5ef1-44d0-8402-da7cf8648adc/mbid-338501b4-5ef1-44d0-8402-da7cf8648adc-43436467877_thumb500.jpg
+    descr: 簡諧點源
+  - name: 血紅都會
+    link: https://harmonese.bandcamp.com/album/--2
+    avatar: https://archive.org/download/mbid-62941769-d005-4a25-a3ca-c6a6de08ce80/mbid-62941769-d005-4a25-a3ca-c6a6de08ce80-43814944573_thumb500.jpg
+    descr: 簡諧點源
+{% endflink %}
 
 ### 合辑
 
-- **[《電子歌劇 (Probabilities)》](https://harmonese.bandcamp.com/album/probabilities)** – 原专辑的延伸合集，包含重混、特殊版本和器乐混音，风格跨越 House、Dubstep、Hardcore 等，发行于 2023 年 7 月 20 日。
+{% flink %}
+- link_list:
+  - name: 電子歌劇 (Probabilities)
+    link: https://harmonese.bandcamp.com/album/probabilities
+    avatar: https://archive.org/download/mbid-17e16de2-cb1d-4723-a993-feb6e23c6e36/mbid-17e16de2-cb1d-4723-a993-feb6e23c6e36-43436565721_thumb500.jpg
+    descr: 簡諧點源
+{% endflink %}
+
 
 ### 代表曲目
 
-- **[《零點 (with luny)》](https://harmonese.bandcamp.com/track/with-luny)**
+{% flink %}
+- link_list:
+  - name: 零點
+    link: https://harmonese.bandcamp.com/track/with-luny
+    avatar: https://archive.org/download/mbid-e03026bf-7173-4d26-b34d-36a39b754b22/mbid-e03026bf-7173-4d26-b34d-36a39b754b22-43817249835_thumb500.jpg
+    descr: 簡諧點源 & luny
+  - name: 對決
+    link: https://harmonese.bandcamp.com/track/--8
+    avatar: https://archive.org/download/mbid-d352e3e2-192e-4ffb-860b-424fe20fc351/mbid-d352e3e2-192e-4ffb-860b-424fe20fc351-43817999220_thumb500.jpg
+    descr: 簡諧點源
+{% endflink %}
 
-- **[《對決》](https://harmonese.bandcamp.com/track/--8)**
 
 ## 关注我们
 
 你可以在多个平台找到我们的音乐，以下这些平台中的音乐由我们直接管理与维护：
 
-- [Bandcamp](https://harmonese.bandcamp.com)
-- [网易云音乐](https://music.163.com/#/artist?id=50640143)
-- [Spotify](https://open.spotify.com/artist/65AqYg3LYwTzCEdzJOMK9v)
+{% flink %}
+- link_list:
+  - name: Bandcamp
+    link: https://harmonese.bandcamp.com
+    avatar: https://favicone.com/bandcamp.com?s=256
+    descr: 我们的 Bandcamp 主页
+  - name: 网易云音乐
+    link: https://music.163.com/#/artist?id=50640143
+    avatar: https://favicone.com/music.163.com?s=256
+    descr: 我们的网易云音乐主页
+  - name: Spotify
+    link: https://open.spotify.com/artist/65AqYg3LYwTzCEdzJOMK9v
+    avatar: https://favicone.com/spotify.com?s=256
+    descr: 我们的 Spotify 主页
+{% endflink %}

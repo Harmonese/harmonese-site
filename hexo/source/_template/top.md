@@ -149,13 +149,31 @@
   - name: Bandcamp
     link: https://harmonese.bandcamp.com
     avatar: https://favicone.com/bandcamp.com?s=256
-    descr: 我们的 Bandcamp 主页
+    descr: Artist Homepage
   - name: 网易云音乐
     link: https://music.163.com/#/artist?id=50640143
     avatar: https://favicone.com/music.163.com?s=128
-    descr: 我们的网易云音乐主页
+    descr: 网易音乐人
+  - name: QQ音乐
+    link: https://y.qq.com/n/ryqq_v2/singer/000BxO0A2dg5Nm
+    avatar: https://favicone.com/y.qq.com?s=256
+    descr: 腾讯音乐人
+  - name: 酷狗音乐
+    link: https://www.kugou.com/singer/info/71B0OK15A1C4CC/
+    avatar: https://favicone.com/kugou.com?s=256
+    descr: 腾讯音乐人
   - name: Spotify
     link: https://open.spotify.com/artist/65AqYg3LYwTzCEdzJOMK9v
     avatar: https://favicone.com/spotify.com?s=256
-    descr: 我们的 Spotify 主页
+    descr: Spotify for Artists
+  - name: TikTok
+    link: https://www.tiktok.com/@harmonesemusic
+    avatar: https://favicone.com/tiktok.com?s=256
+    descr: TikTok Artist Account
+  - name: Tidal
+    link: https://tidal.com/artist/29475451
+    avatar: https://favicone.com/tidal.com?s=256
+    descr: Tidal Artist Home
 {% endflink %}
+
+在其他流媒体平台如 Deezer、YouTube Music 等，也可以找到我们的音乐，但我们并不直接维护这些平台上的页面。

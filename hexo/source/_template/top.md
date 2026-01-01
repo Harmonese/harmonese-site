@@ -174,6 +174,12 @@
     link: https://tidal.com/artist/29475451
     avatar: https://favicone.com/tidal.com?s=256
     descr: Tidal Artist Home
+  - name: Audiomack
+    link: https://audiomack.com/harmonese
+    avatar: https://favicone.com/audiomack.com?s=128
+    descr: Audiomack Account
 {% endflink %}
 
 在其他流媒体平台如 Deezer、YouTube Music 等，也可以找到我们的音乐，但我们并不直接维护这些平台上的页面。
+
+注意，Apple Music 上 **没有** 我们的主页，这是因为 Apple Music 不接受中文内容的发行。

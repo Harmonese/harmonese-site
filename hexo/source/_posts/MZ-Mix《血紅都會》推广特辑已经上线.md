@@ -26,7 +26,7 @@ MZ Mix Vol.18 with 聲爆光年：《血紅都會》推广特辑已于今晚上�
 - [20:26] 簡諧點源 - 電子歌劇主題 (Re-recorded & Remastered)
 - [25:33] deadmau5 - SATRN
 - [31:07] 簡諧點源 - 齊步走
-- [38:20] Aly & Fila, Luke Bond and AudreyGallagher - Million Voices (Radio Edit)
+- [38:20] Aly & Fila, Luke Bond and Audrey Gallagher - Million Voices (Radio Edit)
 - [42:33] Taival - Queen of the Abyss
 - [49:21] Lawn Jarre - Preposterous
 - [55:22] 簡諧點源 - 凛冬將至

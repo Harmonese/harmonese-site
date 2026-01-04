@@ -1,6 +1,7 @@
 ---
 title: {{ title }}
 date: {{ date }}
+updated: {{ date }}
 tags: 
   - 公告
   - 簡諧點源

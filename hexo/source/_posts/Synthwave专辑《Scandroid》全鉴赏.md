@@ -7,9 +7,9 @@ tags:
   - Synthwave
   - 赛博朋克
 categories: 音樂專欄
+description: 让我们把时间拨到 2517 年，发动引擎驶入一个赛博朋克城市。
 cover: cover.jpg
 copyright_author: 聲爆光年
-description: 让我们把时间拨到 2517 年，发动引擎驶入一个赛博朋克城市。
 ---
 本文最初登载于电子谐奏，此文为重投。
 

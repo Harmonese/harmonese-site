@@ -1,13 +1,14 @@
 ---
 title: 专辑推荐：FreqGen《Dreaming》
+date: 2023-11-15 23:48
+updated: 2023-11-15 23:48
 tags:
   - 乐评
   - 推歌
   - 短评
 categories: 音樂短評
-cover:  /pictures/short_cover.jpg
-date: 2023-11-15 23:48
 description: FreqGen的2021年专辑是Klayton在科幻世界中最宁静的一角所搭建的宇宙。
+cover:  /pictures/short_cover.jpg
 copyright_author: 聲爆光年
 ---
 

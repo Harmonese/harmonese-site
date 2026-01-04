@@ -1,13 +1,14 @@
 ---
 title: 专辑推荐：StereoType《Psycore》
+date: 2023-11-15 00:10
+updated: 2023-11-15 00:10
 tags:
   - 乐评
   - 推歌
   - 短评
 categories: 音樂短評
-cover:  /pictures/short_cover.jpg
-date: 2023-11-15 00:10
 description: StereoType自我站位所在的“Psycore”（并非90年代Cenobite那种Psycore）是一张颇为成功的融合型专辑。
+cover:  /pictures/short_cover.jpg
 copyright_author: 聲爆光年
 ---
 其实我写硬核的乐评是外行，，不过这张太软（

@@ -1,14 +1,15 @@
 ---
 title: 《諧波工坊：Demos & IDs》播客于网易云电台上线
+date: 2025-12-29 23:09:18
+updated: 2025-12-29 23:09:18
 tags:
   - 公告
   - 簡諧點源
   - 新闻
 categories: 樂隊公告
+description: 本播客将不定期更新，收录一些乐队在创作过程中的 Demo 版本，以及一些未完成/未公布的 ID 曲目。
 cover: image.jpeg
 copyright_author: 簡諧點源
-date: 2025-12-29 23:09:18
-description: 本播客将不定期更新，收录一些乐队在创作过程中的 Demo 版本，以及一些未完成/未公布的 ID 曲目。
 ---
 
 《諧波工坊：Demos & IDs》播客已于网易云电台上线！本播客将不定期更新，收录一些乐队在创作过程中的 Demo 版本，以及一些未完成/未公布的 ID 曲目。欢迎前往 [网易云电台](https://music.163.com/#/djradio?id=1483620199) 进行收听！

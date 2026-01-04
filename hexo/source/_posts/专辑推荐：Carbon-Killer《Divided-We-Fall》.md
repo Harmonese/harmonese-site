@@ -1,6 +1,7 @@
 ---
 title: 专辑推荐：Carbon Killer《Divided We Fall》
 date: 2023-10-13 23:32
+updated: 2023-10-13 23:32
 tags: 
   - 乐评
   - 推歌

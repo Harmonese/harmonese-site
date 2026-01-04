@@ -6,9 +6,9 @@ tags:
   - 乐评
   - Synthwave
 categories: 音樂專欄
+description: Fashwave 究竟是什么？
 cover: https://cdn.dribbble.com/userupload/27808197/file/original-9d33abe38dfe6fb07d3f422722d68702.png
 copyright_author: 聲爆光年
-description: Fashwave 究竟是什么？
 ---
 
 在中文互联网里，“fashwave”还是一个相对生疏的词。它听上去像是某种冷门电子流派，实际上却是近年来极右翼、白人至上主义圈子在网络上自造的一种“配乐”——用怀旧的 80 年代合成器音色，去包装法西斯主义的政治想象。而且随着政治极化的浪潮，它正在从地下亚文化向主流平台渗透。

@@ -1,14 +1,15 @@
 ---
 title: 专辑推荐：Robert Parker《Club 707》
+date: 2023-11-01
+updated: 2023-11-01
 tags:
   - 乐评
   - 推歌
   - 短评
   - Synthwave
 categories: 音樂短評
-cover:  /pictures/short_cover.jpg
-date: 2023-11-01
 description: 这里是Retrowave明星Robert Parker的707俱乐部，欢迎光临。
+cover:  /pictures/short_cover.jpg
 copyright_author: 聲爆光年
 ---
 

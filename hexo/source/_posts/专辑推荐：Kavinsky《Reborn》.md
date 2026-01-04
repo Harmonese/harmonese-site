@@ -1,14 +1,15 @@
 ---
 title: 专辑推荐：Kavinsky《Reborn》
+date: 2023-11-21 23:51
+updated: 2023-11-21 23:51
 tags:
   - 乐评
   - 推歌
   - 短评
   - Synthwave
 categories: 音樂短評
-cover:  /pictures/short_cover.jpg
-date: 2023-11-21 23:51
 description: 在2013年那张改变一切的传奇专辑《OutRun》发行的十年后，Kavinsky带来了他的“重生”。
+cover:  /pictures/short_cover.jpg
 copyright_author: 聲爆光年
 ---
 

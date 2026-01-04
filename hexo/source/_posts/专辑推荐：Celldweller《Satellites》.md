@@ -1,11 +1,12 @@
 ---
 title: 专辑推荐：Celldweller《Satellites》
+date: 2023-10-20 23:54
+updated: 2023-10-20 23:54
 tags:
   - 乐评
   - 推歌
   - 短评
 categories: 音樂短評
-date: 2023-10-20 23:54
 description: 合成器-金属-迷幻-电子-摇滚！
 cover:  /pictures/short_cover.jpg
 copyright_author: 聲爆光年

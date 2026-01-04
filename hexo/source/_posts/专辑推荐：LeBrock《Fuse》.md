@@ -1,12 +1,13 @@
 ---
 title: 专辑推荐：LeBrock《Fuse》
+date: 2023-10-16 08:20
+updated: 2023-10-16 08:20
 tags:
   - 乐评
   - 推歌
   - 短评
   - Synthwave
 categories: 音樂短評
-date: 2023-10-16 08:20
 description: 英国二人电子乐队LeBrock首专。
 cover:  /pictures/short_cover.jpg
 copyright_author: 聲爆光年

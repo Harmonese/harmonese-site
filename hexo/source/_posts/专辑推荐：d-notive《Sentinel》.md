@@ -1,11 +1,12 @@
 ---
 title: 专辑推荐：d.notive《Sentinel》
+date: 2023-10-25 23:36
+updated: 2023-10-25 23:36
 tags:
   - 乐评
   - 推歌
   - 短评
 categories: 音樂短評
-date: 2023-10-25 23:36
 description: 1980s都市电影的氛围，d.notive通过这张专辑讲述了这样一个故事。
 cover:  /pictures/short_cover.jpg
 copyright_author: 聲爆光年

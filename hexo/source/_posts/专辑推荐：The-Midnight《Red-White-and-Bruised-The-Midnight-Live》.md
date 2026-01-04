@@ -1,6 +1,7 @@
 ---
 title: "专辑推荐：The Midnight《Red, White and Bruised: The Midnight Live》"
 date: 2023-10-12 23:27
+updated: 2023-10-12 23:27
 tags: 
   - 乐评
   - 推歌

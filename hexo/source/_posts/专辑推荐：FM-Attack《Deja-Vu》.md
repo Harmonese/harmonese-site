@@ -1,14 +1,15 @@
 ---
 title: 专辑推荐：FM Attack《Deja Vu》
+date: 2023-11-04 23:53
+updated: 2023-11-04 23:53
 tags:
   - 乐评
   - 推歌
   - 短评
   - Synthwave
 categories: 音樂短評
-cover:  /pictures/short_cover.jpg
-date: 2023-11-04 23:53
 description: 看腻了黑夜暴雨于霓虹灯下的赛博朋克都市，FM Attack构建了一个晴天下的梦幻超城市化世界。
+cover:  /pictures/short_cover.jpg
 copyright_author: 聲爆光年
 ---
 

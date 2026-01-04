@@ -7,9 +7,9 @@ tags:
   - Synthwave
   - 赛博朋克
 categories: 音樂專欄
+description: 2014 年，Perturbator 加入 Blood Music，并在该厂牌旗下发行了这张在之后影响深远的 Cybersynth 专辑《Dangerous Days》。
 cover: cover.jpg
 copyright_author: 聲爆光年
-description: 2014 年，Perturbator 加入 Blood Music，并在该厂牌旗下发行了这张在之后影响深远的 Cybersynth 专辑《Dangerous Days》。
 ---
 本文最初登载于电子谐奏，此文为重投。
 

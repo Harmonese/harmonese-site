@@ -1,12 +1,13 @@
 ---
 title: 专辑推荐：Le Matos《Join Us》
+date: 2023-10-24 23:33
+updated: 2023-10-24 23:33
 tags:
   - 乐评
   - 推歌
   - 短评
   - Synthwave
 categories: 音樂短評
-date: 2023-10-24 23:33
 description: 法国二人组合Le Matos早在十年前打造的一张神秘主义大作，处在Progressive House与Synthwave的边缘地带
 cover:  /pictures/short_cover.jpg
 copyright_author: 聲爆光年

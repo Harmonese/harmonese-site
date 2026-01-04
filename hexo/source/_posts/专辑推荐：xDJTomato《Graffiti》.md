@@ -1,11 +1,12 @@
 ---
 title: 专辑推荐：xDJTomato《Graffiti》
+date: 2023-10-16 23:48
+updated: 2023-10-16 23:48
 tags:
   - 乐评
   - 推歌
   - 短评
 categories: 音樂短評
-date: 2023-10-16 23:48
 description: 长时间的打磨形成的一张色彩斑斓、元素丰富的小型专辑。
 cover:  /pictures/short_cover.jpg
 copyright_author: 聲爆光年

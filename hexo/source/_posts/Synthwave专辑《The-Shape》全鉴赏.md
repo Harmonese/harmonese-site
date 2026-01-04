@@ -8,9 +8,9 @@ tags:
   - Darksynth
   - 金属
 categories: 音樂專欄
+description: 这篇文章我们就沿着 DWTD 2016 年的代表作、全器乐专辑 《The Shape》，完整走一遍这片“金属+合成器”的幽暗森林。
 cover: cover.jpg
 copyright_author: 聲爆光年
-description: 这篇文章我们就沿着 DWTD 2016 年的代表作、全器乐专辑 《The Shape》，完整走一遍这片“金属+合成器”的幽暗森林。
 ---
 本文最初登载于电子谐奏。
 

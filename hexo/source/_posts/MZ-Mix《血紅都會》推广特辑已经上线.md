@@ -1,14 +1,15 @@
 ---
 title: MZ Mix《血紅都會》推广特辑已经上线
+date: 2025-12-26 23:52:40
+updated: 2025-12-26 23:52:40
 tags:
   - 公告
   - 簡諧點源
   - 新闻
 categories: 樂隊公告
+description: MZ Mix Vol.18 with 聲爆光年：《血紅都會》推广特辑已于今晚上线！
 cover: image.jpeg
 copyright_author: 簡諧點源
-date: 2025-12-26 23:52:40
-description: MZ Mix Vol.18 with 聲爆光年：《血紅都會》推广特辑已于今晚上线！
 ---
 
 MZ Mix Vol.18 with 聲爆光年：《血紅都會》推广特辑已于今晚上线！本次特辑由聲爆光年录制，收录了《血紅都會》专辑中的部分曲目，以及一些未公开的混音版本。欢迎前往网易云电台 [MZ Mix 频道](https://music.163.com/#/djradio?id=794439370) 进行收听！

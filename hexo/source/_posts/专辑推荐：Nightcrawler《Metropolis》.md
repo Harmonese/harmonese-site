@@ -1,14 +1,15 @@
 ---
 title: 专辑推荐：Nightcrawler《Metropolis》
+date: 2023-11-19 23:12
+updated: 2023-11-19 23:12
 tags:
   - 乐评
   - 推歌
   - 短评
   - Synthwave
 categories: 音樂短評
-cover:  /pictures/short_cover.jpg
-date: 2023-11-19 23:12
 description: 大都会之中，漫步者寻找着黑暗所掩埋的秘密。Nightcrawler首专中，这位西班牙制作人用他还并不成熟的制作能力撑起了这一场景。
+cover:  /pictures/short_cover.jpg
 copyright_author: 聲爆光年
 ---
 

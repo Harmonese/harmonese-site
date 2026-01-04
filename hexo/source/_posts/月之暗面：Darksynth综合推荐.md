@@ -7,9 +7,9 @@ tags:
   - 合成器浪潮
   - 赛博朋克
 categories: 音樂專欄
+description: 本期不再做一整张专辑的“全鉴赏”，而是围绕一个分支风格来横向展开：Darksynth。
 cover: cover.jpg
 copyright_author: 聲爆光年
-description: 本期不再做一整张专辑的“全鉴赏”，而是围绕一个分支风格来横向展开：Darksynth。
 ---
 本文最初登载于电子谐奏，此文为重投。
 

@@ -1,14 +1,15 @@
 ---
 title: '专辑推荐：Carpenter Brut《Blood Machines: Original Motion Picture Soundtrack'
+date: 2023-11-02 23:12
+updated: 2023-11-02 23:12
 tags:
   - 乐评
   - 推歌
   - 短评
   - Synthwave
 categories: 音樂短評
-cover:  /pictures/short_cover.jpg
-date: 2023-11-02 23:12
 description: Darksynth大师Carpenter Brut为女权主义概念电影《血液机器》制作的原声大碟。
+cover:  /pictures/short_cover.jpg
 copyright_author: 聲爆光年
 ---
 

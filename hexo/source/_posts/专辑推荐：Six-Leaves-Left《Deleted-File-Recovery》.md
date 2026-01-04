@@ -1,14 +1,15 @@
 ---
 title: 专辑推荐：Six Leaves Left《Deleted File Recovery》
+date: 2023-10-30 23:53
+updated: 2023-10-30 23:53
 tags:
   - 乐评
   - 推歌
   - 短评
   - Synthwave
 categories: 音樂短評
-cover:  /pictures/short_cover.jpg
-date: 2023-10-30 23:53
 description: 直到我分享这张EP前，它的网易云分享量一直是零。但是你永远想象不到在互联网最偏僻的角落里能藏匿着如何汹涌澎湃的情感。
+cover:  /pictures/short_cover.jpg
 copyright_author: 聲爆光年
 ---
 

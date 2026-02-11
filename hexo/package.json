@@ -29,6 +29,7 @@
     "hexo-tag-aplayer": "^3.0.4",
     "hexo-theme-butterfly": "^5.5.3",
     "hexo-theme-landscape": "^1.0.0",
+    "hexo-twitter-auto-publish": "^0.0.11",
     "hexo-util": "^4.0.0",
     "hexo-wordcount": "^6.0.1",
     "katex": "^0.16.27",

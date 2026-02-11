@@ -1,6 +1,7 @@
 ---
 title: {{ title }}
 date: {{ date }}
+updated: {{ date }}
 tags:
 categories: 音樂專欄
 cover: 

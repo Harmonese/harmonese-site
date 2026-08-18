@@ -16,5 +16,5 @@ copyright_author: 聲爆光年
 高光：Dark Side of the Road，所向披靡的军队在道路上行进。
 
 <div align="center">
-{% meting "88282319" "netease" "album" %}
+<meting-js id="88282319" server="netease" type="album"></meting-js>
 </div>

@@ -18,5 +18,5 @@ copyright_author: 聲爆光年
 高光：Interstellar，与你走向浩瀚星空。
 
 <div align="center">
-{% meting "128405053" "netease" "album" %}
+<meting-js id="128405053" server="netease" type="album"></meting-js>
 </div>

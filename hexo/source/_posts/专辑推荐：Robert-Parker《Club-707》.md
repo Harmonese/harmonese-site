@@ -17,5 +17,5 @@ copyright_author: 聲爆光年
 高光：A Light In The Dark，我感到午夜降至……
 
 <div align="center">
-{% meting "90882872" "netease" "album" %}
+<meting-js id="90882872" server="netease" type="album"></meting-js>
 </div>

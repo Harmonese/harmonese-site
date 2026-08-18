@@ -16,5 +16,5 @@ copyright_author: 聲爆光年
 高光：Kinescopese，显像管人之舞
 
 <div align="center">
-{% meting "82200734" "netease" "album" %}
+<meting-js id="82200734" server="netease" type="album"></meting-js>
 </div>

@@ -58,7 +58,7 @@ copyright_author: 聲爆光年
 **专辑《The Shape》**
 
 <div align="center">
-{% meting "79012162" "netease" "album" %}
+<meting-js id="79012162" server="netease" type="album"></meting-js>
 </div>
 
 ---
@@ -81,7 +81,7 @@ DWTD 的封面与视觉一贯钟爱“幽灵、骷髅、满月与黑林”的组
 
 **There's a Storm Coming**
 
-{% meting "1364125056" "netease" "song" %}
+<meting-js id="1364125056" server="netease" type="song"></meting-js>
 
 作为全专辑的 **前奏曲**，“There's a Storm Coming”（风暴即将来临）并没有走那种“只铺氛围、没旋律”的功能性路线：
 
@@ -101,7 +101,7 @@ DWTD 的封面与视觉一贯钟爱“幽灵、骷髅、满月与黑林”的组
 
 **Eyes of Madness**
 
-{% meting "1364123952" "netease" "song" %}
+<meting-js id="1364123952" server="netease" type="song"></meting-js>
 
 “Eyes of Madness”（狂暴之眼）是整张专辑的 **主打曲之一**。它的结构可以近似理解为三次“抬升—释放”的循环：
 
@@ -122,7 +122,7 @@ DWTD 的封面与视觉一贯钟爱“幽灵、骷髅、满月与黑林”的组
 
 **Her Ghost**
 
-{% meting "1364125059" "netease" "song" %}
+<meting-js id="1364125059" server="netease" type="song"></meting-js>
 
 “Her Ghost” 以 **人声合唱铺垫** 引入金属吉他的低音层，紧接着明亮的分解和弦在中高频闪耀，像是满月下林间忽明忽暗的微光。
 
@@ -144,7 +144,7 @@ DWTD 的封面与视觉一贯钟爱“幽灵、骷髅、满月与黑林”的组
 
 **Screams and Whispers**
 
-{% meting "1364125060" "netease" "song" %}
+<meting-js id="1364125060" server="netease" type="song"></meting-js>
 
 这首歌的名字就已经把编曲的最核心设计写出来了：
 
@@ -166,7 +166,7 @@ DWTD 的封面与视觉一贯钟爱“幽灵、骷髅、满月与黑林”的组
 
 **Adrift**
 
-{% meting "1364125057" "netease" "song" %}
+<meting-js id="1364125057" server="netease" type="song"></meting-js>
 
 “Adrift” 可视作一首 **Ambient 间奏曲**。这首歌几乎完全收起了前面几首的咆哮：
 
@@ -186,7 +186,7 @@ DWTD 的封面与视觉一贯钟爱“幽灵、骷髅、满月与黑林”的组
 
 **Riot**
 
-{% meting "1364123949" "netease" "song" %}
+<meting-js id="1364123949" server="netease" type="song"></meting-js>
 
 刚刚被 Ambient 抚了几分钟，“Riot” 立刻把你丢回到 130 BPM 的快节奏 Darksynth 里：
 
@@ -206,7 +206,7 @@ DWTD 的封面与视觉一贯钟爱“幽灵、骷髅、满月与黑林”的组
 
 **Horizon**
 
-{% meting "1364125058" "netease" "song" %}
+<meting-js id="1364125058" server="netease" type="song"></meting-js>
 
 “Horizon”（地平线）在整张专辑里算是相对平缓的一首：
 
@@ -226,7 +226,7 @@ DWTD 的封面与视觉一贯钟爱“幽灵、骷髅、满月与黑林”的组
 
 **Diabolic**
 
-{% meting "1364125055" "netease" "song" %}
+<meting-js id="1364125055" server="netease" type="song"></meting-js>
 
 “Diabolic”（恶魔般的）与我们曾经分析过的 Perturbator《Dangerous Days》中的 “Satanic Rites” 有异曲同工之妙：都是以“恶魔 / 撒旦”意象为核心的 Darksynth 作品。
 
@@ -246,7 +246,7 @@ DWTD 的封面与视觉一贯钟爱“幽灵、骷髅、满月与黑林”的组
 
 **Watching You**
 
-{% meting "1364123951" "netease" "song" %}
+<meting-js id="1364123951" server="netease" type="song"></meting-js>
 
 就个人口味而言，这是我在整张专辑里最喜欢的一首。
 
@@ -268,7 +268,7 @@ DWTD 的封面与视觉一贯钟爱“幽灵、骷髅、满月与黑林”的组
 
 **Quietly into the Night**
 
-{% meting "1364123950" "netease" "song" %}
+<meting-js id="1364123950" server="netease" type="song"></meting-js>
 
 最后一首 “Quietly into the Night” 是一首非常典型的 **“尾曲式抒情金属合成器”**：
 

@@ -17,5 +17,5 @@ copyright_author: 聲爆光年
 高光：Magic，与你吐露心声
 
 <div align="center">
-{% meting "2664565" "netease" "album" %}
+<meting-js id="2664565" server="netease" type="album"></meting-js>
 </div>

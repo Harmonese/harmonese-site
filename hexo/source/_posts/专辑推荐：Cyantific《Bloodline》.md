@@ -16,5 +16,5 @@ copyright_author: 聲爆光年
 高光：Fade Into The Night，午夜疾驰
 
 <div align="center">
-{% meting "71821519" "netease" "album" %}
+<meting-js id="71821519" server="netease" type="album"></meting-js>
 </div>

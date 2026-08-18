@@ -17,5 +17,5 @@ copyright_author: 聲爆光年
 高光：收尾曲The Dawn，一路冲向黎明
 
 <div align="center">
-{% meting "91131872" "netease" "album" %}
+<meting-js id="91131872" server="netease" type="album"></meting-js>
 </div>

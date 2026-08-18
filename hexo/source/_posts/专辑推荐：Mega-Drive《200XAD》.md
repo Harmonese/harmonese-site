@@ -16,5 +16,5 @@ copyright_author: 聲爆光年
 高光：Mnemonic Head Trip，思想风暴
 
 <div align="center">
-{% meting "169909040" "netease" "album" %}
+<meting-js id="169909040" server="netease" type="album"></meting-js>
 </div>

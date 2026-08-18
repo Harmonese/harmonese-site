@@ -995,11 +995,6 @@ pjax:
   exclude:
     # - /xxxxxx/
 
-# Inject the css and script (aplayer/meting)
-aplayerInject:
-  enable: true
-  per_page: true
-
 # Snackbar - Toast Notification
 # https://github.com/polonel/SnackBar
 # position: top-left / top-center / top-right / bottom-left / bottom-center / bottom-right
@@ -1065,8 +1060,11 @@ css_prefix: true
 inject:
   head:
     - <link rel="stylesheet" href="//at.alicdn.com/t/c/font_5096099_s299o8t4kbi.css">
+    - <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css">
     # - <link rel="stylesheet" href="/xxx.css">
   bottom:
+    - <script src="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js"></script>
+    - <script src="https://cdn.jsdelivr.net/npm/meting@2.0.2/dist/Meting.min.js"></script>
     # - <script src="xxxx"></script>
 
 # CDN Settings

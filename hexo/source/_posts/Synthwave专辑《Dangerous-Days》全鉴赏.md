@@ -40,16 +40,16 @@ Cybersynth 则可以看作赛博朋克世界观在 Synthwave 语境中的投射�
 **专辑《Dangerous Days》**
 
 <div align="center">
-{% meting "2879029" "netease" "album" %}
+<meting-js id="2879029" server="netease" type="album"></meting-js>
 </div>
 
 ---
 
 ## Welcome Back & Perturbator's Theme
 
-{% meting "28681520" "netease" "song" %}
+<meting-js id="28681520" server="netease" type="song"></meting-js>
 
-{% meting "28681521" "netease" "song" %}
+<meting-js id="28681521" server="netease" type="song"></meting-js>
 
 专辑以无缝衔接的两首曲目拉开序幕：“Welcome Back” 作为 Intro，用两分多钟营造出幽暗而压抑的氛围；紧接其后的 “Perturbator's Theme” 则在铺垫完成后直接切入主题。
 
@@ -63,7 +63,7 @@ Cybersynth 则可以看作赛博朋克世界观在 Synthwave 语境中的投射�
 
 ## Raw Power
 
-{% meting "28681522" "netease" "song" %}
+<meting-js id="28681522" server="netease" type="song"></meting-js>
 
 “Raw Power” 可以直译为“原始之力”。延续 “Perturbator's Theme” 提升后的整体情绪，这首曲目在力度和密度上同样毫不松懈。
 
@@ -77,7 +77,7 @@ Cybersynth 则可以看作赛博朋克世界观在 Synthwave 语境中的投射�
 
 ## Future Club
 
-{% meting "28681523" "netease" "song" %}
+<meting-js id="28681523" server="netease" type="song"></meting-js>
 
 “Future Club” 是整张专辑中最具代表性、也最容易打动听众的一首。短暂的 30 秒铺垫之后，厚重的低频与合成器鼓点迅速把律动感推向前台，1:10 左右主旋律切入，并通过多轮推进不断强化。
 
@@ -91,7 +91,7 @@ Cybersynth 则可以看作赛博朋克世界观在 Synthwave 语境中的投射�
 
 ## War Against Machines
 
-{% meting "28681524" "netease" "song" %}
+<meting-js id="28681524" server="netease" type="song"></meting-js>
 
 “War Against Machines”（与机器开战）对应的是赛博朋克叙事里非常典型的母题：强人工智能与人类之间的冲突。
 
@@ -105,7 +105,7 @@ Cybersynth 则可以看作赛博朋克世界观在 Synthwave 语境中的投射�
 
 ## Hard Wired
 
-{% meting "28681525" "netease" "song" %}
+<meting-js id="28681525" server="netease" type="song"></meting-js>
 
 “Hard Wired” 中，空灵却略带疏离感的人声，与生硬的合成器音色发生对撞，勾勒出“新 80 年代”里被荷尔蒙、药物与消费刺激反复浸泡的城市生活。
 
@@ -119,7 +119,7 @@ Cybersynth 则可以看作赛博朋克世界观在 Synthwave 语境中的投射�
 
 ## She is Young, She is Beautiful, She is Next
 
-{% meting "28681526" "netease" "song" %}
+<meting-js id="28681526" server="netease" type="song"></meting-js>
 
 在略长的引子之后，翻滚的合成低频宣告又一轮“黑暗轰炸”到来。跳跃感很强的合成贝斯和迷幻的电子音层推动整首曲目的律动，营造出一种既亢奋又不安的氛围。曲名中 “She is Next” 这一句，本身就带有一种冷酷的宿命感——在暴力循环的世界里，“下一位”随时可能出现。
 
@@ -131,7 +131,7 @@ Cybersynth 则可以看作赛博朋克世界观在 Synthwave 语境中的投射�
 
 ## Humans Are Such Easy Prey
 
-{% meting "28681527" "netease" "song" %}
+<meting-js id="28681527" server="netease" type="song"></meting-js>
 
 这是专辑中第二首以强人工智能为主题的作品。开头引用了《*终结者*》的台词，直接将听众带入“机器视角”的世界。
 
@@ -145,7 +145,7 @@ Cybersynth 则可以看作赛博朋克世界观在 Synthwave 语境中的投射�
 
 ## Minuit
 
-{% meting "28681528" "netease" "song" %}
+<meting-js id="28681528" server="netease" type="song"></meting-js>
 
 不要被 “Minuit” 开头柔和的音色误导。Perturbator 与 **Dead Astronauts** 合作的这首歌，虽然在失真程度上不如前几首那般“暴烈”，但低沉的人声与厚重的音墙依然牢牢压住了整体情绪。
 
@@ -159,7 +159,7 @@ Cybersynth 则可以看作赛博朋克世界观在 Synthwave 语境中的投射�
 
 ## Satanic Rites
 
-{% meting "28681529" "netease" "song" %}
+<meting-js id="28681529" server="netease" type="song"></meting-js>
 
 “恶魔”意象是 Perturbator 作品里经常出现的元素之一。“Satanic Rites” 以粗粝的合成音层开场，大量失谐的波形充斥全曲。中段出现的尖叫声进一步强化了恐惧与混乱的氛围。
 
@@ -173,7 +173,7 @@ Cybersynth 则可以看作赛博朋克世界观在 Synthwave 语境中的投射�
 
 ## Complete Domination
 
-{% meting "28681530" "netease" "song" %}
+<meting-js id="28681530" server="netease" type="song"></meting-js>
 
 “Complete Domination” 是一首节奏极其紧凑的作品。翻滚的弹拨合成器不断冲击听觉，在高密度的十六分音符镲和低频推进之下，很容易让人联想到赛博未来中的霓虹赛车场：机器、车辆与人类在光与影交错的赛道上全速冲撞。
 
@@ -187,7 +187,7 @@ Cybersynth 则可以看作赛博朋克世界观在 Synthwave 语境中的投射�
 
 ## Last Kiss
 
-{% meting "28681531" "netease" "song" %}
+<meting-js id="28681531" server="netease" type="song"></meting-js>
 
 与专辑中多首高压、失真的作品相比，“Last Kiss” 显得格外特别。它更接近一首带有微光色彩的 Ambient：柔和的弹拨主旋律在平静的底色下徐徐展开，像是在黑暗世界中短暂露出的黄昏天空。
 
@@ -203,7 +203,7 @@ Cybersynth 则可以看作赛博朋克世界观在 Synthwave 语境中的投射�
 
 **专辑同名曲《Dangerous Days》**
 
-{% meting "28681532" "netease" "song" %}
+<meting-js id="28681532" server="netease" type="song"></meting-js>
 
 作为收官的同名组曲 “Dangerous Days” 长达约 12 分钟，是整张专辑叙事与情绪的集中总结。
 

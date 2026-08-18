@@ -16,5 +16,5 @@ copyright_author: 聲爆光年
 高光：Cloud Generator，彩云环绕
 
 <div align="center">
-{% meting "85895399" "netease" "album" %}
+<meting-js id="85895399" server="netease" type="album"></meting-js>
 </div>

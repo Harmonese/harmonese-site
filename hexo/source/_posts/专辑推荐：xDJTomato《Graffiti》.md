@@ -16,5 +16,5 @@ copyright_author: 聲爆光年
 高光：开场曲Descend To Me，从宁静开始，到宁静结束
 
 <div align="center">
-{% meting "170448130" "netease" "album" %}
+<meting-js id="170448130" server="netease" type="album"></meting-js>
 </div>

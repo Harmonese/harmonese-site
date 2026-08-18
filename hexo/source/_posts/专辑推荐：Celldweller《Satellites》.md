@@ -16,5 +16,5 @@ copyright_author: 聲爆光年
 高光：My Disintegration，你使我分崩离析
 
 <div align="center">
-{% meting "152131617" "netease" "album" %}
+<meting-js id="152131617" server="netease" type="album"></meting-js>
 </div>

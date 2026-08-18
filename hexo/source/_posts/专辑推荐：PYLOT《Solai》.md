@@ -16,5 +16,5 @@ copyright_author: 聲爆光年
 高光：Lost，灯光再明亮，也胜不过黑色的天空。
 
 <div align="center">
-{% meting "75662489" "netease" "album" %}
+<meting-js id="75662489" server="netease" type="album"></meting-js>
 </div>

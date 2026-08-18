@@ -16,5 +16,5 @@ StereoType自我站位所在的“Psycore”（并非90年代Cenobite那种Psyco
 高光：Taste of Steel，享受这一刀
 
 <div align="center">
-{% meting "85905085" "netease" "album" %}
+<meting-js id="85905085" server="netease" type="album"></meting-js>
 </div>

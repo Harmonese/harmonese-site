@@ -16,5 +16,5 @@ Eekkoo的2020年专辑。冬季的山坡上，风吹草扑，节奏随风在草�
 高光：Run，逃离一切
 
 <div align="center">
-{% meting "97801873" "netease" "album" %}
+<meting-js id="97801873" server="netease" type="album"></meting-js>
 </div>

@@ -16,9 +16,9 @@ copyright_author: 聲爆光年
 高光：Behemoth (Remix)，神秘学之世
 
 <div align="center">
-{% meting "178518047" "netease" "album" %}
+<meting-js id="178518047" server="netease" type="album"></meting-js>
 </div>
 
 <div align="center">
-{% meting "178582092" "netease" "album" %}
+<meting-js id="178582092" server="netease" type="album"></meting-js>
 </div>

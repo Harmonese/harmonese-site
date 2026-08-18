@@ -16,5 +16,5 @@ copyright_author: 聲爆光年
 高光：Don't Leave，请你留下
 
 <div align="center">
-{% meting "36148393" "netease" "album" %}
+<meting-js id="36148393" server="netease" type="album"></meting-js>
 </div>

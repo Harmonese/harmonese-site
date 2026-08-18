@@ -17,5 +17,5 @@ copyright_author: 聲爆光年
 高光：Somewhere Else，无可替代的旋律线
 
 <div align="center">
-{% meting "92715621" "netease" "album" %}
+<meting-js id="92715621" server="netease" type="album"></meting-js>
 </div>

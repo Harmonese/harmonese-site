@@ -17,5 +17,5 @@ copyright_author: 聲爆光年
 高光：开场曲"Shape Shifter"，高空降落。
 
 <div align="center">
-{% meting "84232979" "netease" "album" %}
+<meting-js id="84232979" server="netease" type="album"></meting-js>
 </div>

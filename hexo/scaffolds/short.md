@@ -12,4 +12,4 @@ cover: pexels-ericxon-1116767-35269031.jpg
 copyright_author: 聲爆光年
 ---
 
-{% meting "歌曲/专辑编号" "netease" "song/album" %}
+<meting-js id="歌曲/专辑编号" server="netease" type="song/album"></meting-js>

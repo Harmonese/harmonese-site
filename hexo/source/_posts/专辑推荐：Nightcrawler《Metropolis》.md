@@ -17,5 +17,5 @@ copyright_author: 聲爆光年
 高光：The Legacy，神的遗产
 
 <div align="center">
-{% meting "124361957" "netease" "album" %}
+<meting-js id="124361957" server="netease" type="album"></meting-js>
 </div>

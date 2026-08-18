@@ -16,5 +16,5 @@ copyright_author: 聲爆光年
 高光：300% More Human，开除你人籍
 
 <div align="center">
-{% meting "138703678" "netease" "album" %}
+<meting-js id="138703678" server="netease" type="album"></meting-js>
 </div>

@@ -148,10 +148,6 @@ search:
   content: true
   format: striptags
 
-aplayer:
-  asset_inject: false
-  meting: true
-
 ## Themes: https://hexo.io/themes/
 theme: butterfly
 

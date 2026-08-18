@@ -16,5 +16,5 @@ copyright_author: 聲爆光年
 高光：Robot Heaven，遥远未来天堂
 
 <div align="center">
-{% meting "74438941" "netease" "album" %}
+<meting-js id="74438941" server="netease" type="album"></meting-js>
 </div>

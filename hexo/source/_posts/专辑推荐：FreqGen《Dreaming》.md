@@ -16,5 +16,5 @@ FreqGen的2021年专辑是Klayton在科幻世界中最宁静的一角所搭建�
 高光：Andromeda，游到仙女座
 
 <div align="center">
-{% meting "97816690" "netease" "album" %}
+<meting-js id="97816690" server="netease" type="album"></meting-js>
 </div>

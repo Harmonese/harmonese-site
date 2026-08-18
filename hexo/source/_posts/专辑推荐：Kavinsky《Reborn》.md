@@ -17,5 +17,5 @@ copyright_author: 聲爆光年
 高光：主打曲Reborn，我将重生
 
 <div align="center">
-{% meting "142402717" "netease" "album" %}
+<meting-js id="142402717" server="netease" type="album"></meting-js>
 </div>

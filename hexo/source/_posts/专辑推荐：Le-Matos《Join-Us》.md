@@ -17,5 +17,5 @@ copyright_author: 聲爆光年
 高光：La Mer Des Possibilités，在概率之海中遨游
 
 <div align="center">
-{% meting "2478468" "netease" "album" %}
+<meting-js id="2478468" server="netease" type="album"></meting-js>
 </div>

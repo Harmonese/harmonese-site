@@ -15,5 +15,5 @@ copyright_author: 聲爆光年
 高光：收尾曲Martyr，我无法被仇恨所击败。
 
 <div align="center">
-{% meting "35023269" "netease" "album" %}
+<meting-js id="35023269" server="netease" type="album"></meting-js>
 </div>

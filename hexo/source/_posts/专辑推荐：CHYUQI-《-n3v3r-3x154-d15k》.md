@@ -16,9 +16,9 @@ copyright_author: 聲爆光年
 高光：26.5/5childhood,is it true?，一个孩子的成长
 
 <div align="center">
-{% meting "140318899" "netease" "album" %}
+<meting-js id="140318899" server="netease" type="album"></meting-js>
 </div>
 
 <div align="center">
-{% meting "162011739" "netease" "album" %}
+<meting-js id="162011739" server="netease" type="album"></meting-js>
 </div>

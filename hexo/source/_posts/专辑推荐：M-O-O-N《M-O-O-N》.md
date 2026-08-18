@@ -16,5 +16,5 @@ copyright_author: 聲爆光年
 高光：Hydrogen，同音反复反复反复反复
 
 <div align="center">
-{% meting "93652583" "netease" "album" %}
+<meting-js id="93652583" server="netease" type="album"></meting-js>
 </div>

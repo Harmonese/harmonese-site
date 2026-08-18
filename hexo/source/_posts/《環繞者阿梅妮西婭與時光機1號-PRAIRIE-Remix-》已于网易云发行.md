@@ -14,4 +14,4 @@ copyright_author: 簡諧點源
 
 PRAIRIE 于2023年1月8日上线了《環繞者阿梅妮西婭與時光機1號 (PRAIRIE Remix)》，此 Remix 不会出现在《電子歌劇 (Probabilities)》专辑中。
 
-{% meting "2012877543" "netease" "song" %}
+<meting-js id="2012877543" server="netease" type="song"></meting-js>

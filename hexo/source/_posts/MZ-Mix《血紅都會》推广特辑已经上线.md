@@ -8,7 +8,7 @@ tags:
   - 新闻
 categories: 樂隊公告
 description: MZ Mix Vol.18 with 聲爆光年：《血紅都會》推广特辑已于今晚上线！
-cover: image.jpeg
+cover: cover.webp
 copyright_author: 簡諧點源
 ---
 

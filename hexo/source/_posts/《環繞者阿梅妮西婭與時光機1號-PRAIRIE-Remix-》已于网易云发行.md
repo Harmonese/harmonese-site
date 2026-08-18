@@ -8,7 +8,7 @@ tags:
   - 新闻
 categories: 樂隊公告
 description: PRAIRIE 于2023年1月8日上线了《環繞者阿梅妮西婭與時光機1號 (PRAIRIE Remix)》
-cover: image.png
+cover: cover.webp
 copyright_author: 簡諧點源
 ---
 

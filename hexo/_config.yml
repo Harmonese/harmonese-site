@@ -1,3 +1,4 @@
+# yaml-language-server: $schema=none
 # Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
@@ -5,15 +6,21 @@
 # Site
 title: 簡諧點源
 subtitle: ''
-description: '樂隊門戶網站'
+description: '簡諧點源樂隊官方門戶網站'
 keywords:
+  - 簡諧點源
+  - Harmonese
+  - 合成器浪潮
+  - Synthwave
+  - 电子音乐
+  - 音乐
 author: 簡諧點源
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://harmonese.cn/
+url: https://harmonese.cn
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -81,7 +88,7 @@ meta_generator: true
 date_format: YYYY-MM-DD
 time_format: HH:mm:ss
 ## updated_option supports 'mtime', 'date', 'empty'
-updated_option: 'mtime'
+updated_option: 'date'
 
 # Pagination
 ## Set per_page to 0 to disable pagination
@@ -125,21 +132,17 @@ markdown:
     post_asset: true
   inline: false  # https://markdown-it.github.io/markdown-it/#MarkdownIt.renderInline
 
-include_markdown:
-  dir: source/_template   # Base directory of template markdown
-  verbose : true          # If you want to check the path of markdown that use <!-- md --> tag , please set the true.
-
 feed:
   enable: true
   type: atom
   path: atom.xml
-  limit: 0
+  limit: 50
   hub:
   content: true
-  content_limit: 0
+  content_limit: 280
   content_limit_delim: ' '
   order_by: -date
-  icon:  /pictures/logo_harmonese.png
+  icon: /pictures/site/logo.png
   autodiscovery: true
 
 search:

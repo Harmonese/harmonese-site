@@ -5,7 +5,7 @@ tags:
   - 簡諧點源
   - 新闻
 categories: 樂隊公告
-cover: e04d741e28bd43e50497db3fa5ebcad0.jpg
+cover: cover.webp
 copyright_author: 簡諧點源
 date: 2026-02-11 17:43:06
 updated: 2026-02-11 17:43:06
@@ -21,8 +21,8 @@ description: 首批 CD 完全由乐队成员亲手完成制作，限量 25 张
 
 CD 为 jewel case 厚盒包装，含歌词本。国内常规地区可包邮发货，偏远地区需补邮费差价。
 
-![](e04d741e28bd43e50497db3fa5ebcad0.jpg)
+![](cover.webp)
 
-![](5758e59c67ac09f8ef3d89f461b831db.jpg)
+![](5758e59c67ac09f8ef3d89f461b831db.webp)
 
 ![](03d379046d03167f0ee927b01ea1afd8.jpg)

@@ -8,7 +8,7 @@ tags:
   - 赛博朋克
 categories: 音樂專欄
 description: 2014 年，Perturbator 加入 Blood Music，并在该厂牌旗下发行了这张在之后影响深远的 Cybersynth 专辑《Dangerous Days》。
-cover: cover.jpg
+cover: cover.webp
 copyright_author: 聲爆光年
 ---
 本文最初登载于电子谐奏，此文为重投。
@@ -69,7 +69,7 @@ Cybersynth 则可以看作赛博朋克世界观在 Synthwave 语境中的投射�
 
 在更厚重的金属感低频和鼓组之上，加入了少量 8-bit 元素，既保持了 Cybersynth 的工业质地，又带来了略微“电玩化”的颗粒感。后半段那一分多钟的新旋律段落，为整体结构增添了亮点。4:44 左右，曲子节奏放缓，逐步收束，为随后 “Future Club” 的渐入式开头留下空间。
 
-![赛博朋克底层世界艺术图](cyberpunk-undercity-art.jpg)
+![赛博朋克底层世界艺术图](cyberpunk-undercity-art.webp)
 
 *图：赛博朋克底层世界艺术图*
 
@@ -111,7 +111,7 @@ Cybersynth 则可以看作赛博朋克世界观在 Synthwave 语境中的投射�
 
 约 3:40 以后，延绵不绝的分解和弦仿佛在绘制一张肮脏而密集的都市网格：迷失方向的人们在潮湿的街道上游荡，偶尔从几家破旧俱乐部的霓虹与灯球中泄出短暂的享乐气息。
 
-![科洛桑地表概念图](coruscant-surface-concept.jpg)
+![科洛桑地表概念图](coruscant-surface-concept.png)
 
 *图：科洛桑地表概念图，对赛博朋克底层生活的典型想象*
 
@@ -151,7 +151,7 @@ Cybersynth 则可以看作赛博朋克世界观在 Synthwave 语境中的投射�
 
 歌词描绘的是在赛博朋克社会环境中被长期消耗的人群：在数十年不断加码的技术与资本压力之下，人们对未来逐渐失去信心，最后选择集体性地“放弃”。
 
-![赛博城市全景画面](cyber-city-panorama.jpg)
+![赛博城市全景画面](cyber-city-panorama.webp)
 
 *图：《星球大战》系列作品中的赛博城市全景画面*
 
@@ -179,7 +179,7 @@ Cybersynth 则可以看作赛博朋克世界观在 Synthwave 语境中的投射�
 
 这首歌是 Perturbator 与法国 Synthwave 音乐人 **Carpenter Brut** 的合作。两位在 Cybersynth 领域都极具代表性，这次合作也展现出他们对暴力美学与节奏控制的高度默契。
 
-![赛博朋克霓虹街道](cyberpunk-neon-street-nero-into-the-night.jpg)
+![赛博朋克霓虹街道](cyberpunk-neon-street-nero-into-the-night.webp)
 
 *图：赛博朋克霓虹街道，截自 Nero《Into the Night》音乐视频*
 
@@ -193,7 +193,7 @@ Cybersynth 则可以看作赛博朋克世界观在 Synthwave 语境中的投射�
 
 经过滤波处理的锯齿主音从左右声场掠过，为整体增添了些许“风景感”。在专辑结构中，这首曲子像是一段让听众短暂缓冲、也让整张作品显得不至于“完全绝望”的空间。
 
-![紫色晚霞](purple-sunset.jpg)
+![紫色晚霞](purple-sunset.webp)
 
 *图：紫色晚霞*
 

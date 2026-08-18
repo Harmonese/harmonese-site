@@ -8,7 +8,7 @@ tags:
   - 新闻
 categories: 樂隊公告
 description: 我们宣布乐队即将推出两张专辑的 CD 发行版：《血紅都會》和《電子歌劇 (Remastered)》。
-cover: cover.jpeg
+cover: cover.webp
 copyright_author: 簡諧點源
 ---
 各位朋友们新年快乐！2022 年乐队第一张专辑《電子歌劇》发行时就有朋友建议我们出实体专辑，但是当时迫于时间和资金限制未能实现。今年年末我们上新了乐队第二张专辑《血紅都會》，实体 CD 的制作也提上了日程！

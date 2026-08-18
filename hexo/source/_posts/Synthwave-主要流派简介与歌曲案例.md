@@ -7,7 +7,7 @@ tags:
   - Synthwave
 categories: 音樂專欄
 description: Synthwave主要流派简介与歌曲案例。
-cover: cover.jpg
+cover: cover.webp
 copyright_author: 聲爆光年
 ---
 本文最初登载于电子谐奏，此文为重投。

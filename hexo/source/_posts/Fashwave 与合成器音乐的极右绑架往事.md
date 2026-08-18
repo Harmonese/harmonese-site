@@ -7,7 +7,7 @@ tags:
   - Synthwave
 categories: 音樂專欄
 description: Fashwave 究竟是什么？
-cover: https://cdn.dribbble.com/userupload/27808197/file/original-9d33abe38dfe6fb07d3f422722d68702.png
+cover: cover.webp
 copyright_author: 聲爆光年
 ---
 

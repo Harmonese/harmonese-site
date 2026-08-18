@@ -8,7 +8,7 @@ tags:
   - 赛博朋克
 categories: 音樂專欄
 description: 本期不再做一整张专辑的“全鉴赏”，而是围绕一个分支风格来横向展开：Darksynth。
-cover: cover.jpg
+cover: cover.webp
 copyright_author: 聲爆光年
 ---
 本文最初登载于电子谐奏，此文为重投。
@@ -78,7 +78,7 @@ copyright_author: 聲爆光年
 
 在这一阶段，也有新的 Darksynth 制作人加入战局，比如曾在现代 Bass 圈闯荡过的 **Extra Terra**。
 
-![Extra Terra《Convergence 2045》封面](extra-terra-convergence-cover.jpg)
+![Extra Terra《Convergence 2045》封面](extra-terra-convergence-cover.webp)
 
 *图：Extra Terra –《Convergence 2045》赛博朋克风封面*
 
@@ -122,7 +122,7 @@ Darksynth 的流行，也催生了不少非常边缘、甚至有点魔幻的“�
 - **Fashwave**
   这几乎不能算作真正的“曲风”。其兴起方式，本质上就是一帮自称“新纳粹”的油管博主，把别人的 Darksynth 歌曲拿来，随便换上几张极右宣传图就往网上扔——大多连版权授权都很可疑。内容贫乏，创作意义极低，却在算法推波助澜下意外走红。
 
-  ![Fashwave 视频配图示例](fashwave-poster.jpg)
+  ![Fashwave 视频配图示例](fashwave-poster.png)
 
 *图：某 Fashwave 视频所配的极右宣传图*
 - **Sovietwave + Post-punk**
@@ -161,7 +161,7 @@ Darksynth 的流行，也催生了不少非常边缘、甚至有点魔幻的“�
 
 他的音乐辨识度极高：**失真过载的小军鼓、粗糙暴力的锯齿主音、以及在部分作品中几乎魔怔的歌词与视觉**——这些元素组合在一起，很难被误认。
 
-![Carpenter Brut](carpenter-brut-portrait.jpg)
+![Carpenter Brut](carpenter-brut-portrait.png)
 
 *图：Carpenter Brut*
 
@@ -187,7 +187,7 @@ Darksynth 的流行，也催生了不少非常边缘、甚至有点魔幻的“�
 <meting-js id="3263645" server="netease" type="album"></meting-js>
 </div>
 
-![几位 Darksynth 代表项目粉丝对比 4](darksynth-artists-fans-4.png)
+![几位 Darksynth 代表项目粉丝对比 4](darksynth-artists-fans-4.jpg)
 
 *图：截至 2022-01-19 几位 Darksynth 知名项目的粉丝数*
 
@@ -347,7 +347,7 @@ Perturbator 同样出身金属乐队。与 Carpenter Brut 不同的是，他一�
 
 GosT 近年来作品的金属浓度之高，甚至吸引了一些圈外极端金属大神来关注 —— 至于是谁，就留给大家自己去翻翻评论区了。
 
-![某极端金属乐手在 GosT 专辑下留言](metal-legend-comment.png)
+![某极端金属乐手在 GosT 专辑下留言](metal-legend-comment.jpg)
 
 *图：某位极端金属大神的“串门评论”*
 
@@ -403,7 +403,7 @@ GosT 近年来作品的金属浓度之高，甚至吸引了一些圈外极端金
 
 近年来值得推荐的还有《Hardwired V1.4》《Sequencer》《Neuroframe》三张专辑，其中《Hardwired V1.4》收录了包括 **GosT** 与 **Perturbator** 在内的四首重混作品：
 
-![Hardwired V1.4 重混音曲目表](hardwired-v14-remix-tracklist.jpg)
+![Hardwired V1.4 重混音曲目表](hardwired-v14-remix-tracklist.png)
 
 *图：《Hardwired V1.4》中的 remix 曲目*
 

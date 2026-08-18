@@ -8,7 +8,7 @@ tags:
   - 吐槽
 categories: 音樂專欄
 description: 本专栏针对中国用户在使用 DistroKid 的过程中可能踩到的各种坑进行简单汇总和指引避免走弯路。
-cover: images.png
+cover: cover.webp
 copyright_author: 聲爆光年
 ---
 如果你也喜欢写小曲，但和我一样因为种种原因不希望把作品送审唱片公司（保持独立性 / 实力不够 / 懒或者其他各种原因），但又不满足于某些音乐软件的幽默签约条款，那么使用音乐分发平台进行个人发行是个很好的选择。

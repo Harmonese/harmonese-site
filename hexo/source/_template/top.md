@@ -7,7 +7,6 @@
 - **[乐队公告](https://harmonese.cn/categories/%E6%A8%82%E9%9A%8A%E5%85%AC%E5%91%8A/)**：乐队相关的公告、通知、新闻等。
 - **[软件项目](https://harmonese.cn/categories/%E8%BB%9F%E4%BB%B6%E9%A0%85%E7%9B%AE/)**：乐队开发的软件项目，主要为音乐开源社区相关的软件与工具等。
 - **[音乐专栏](https://harmonese.cn/categories/%E9%9F%B3%E6%A8%82%E5%B0%88%E6%AC%84/)**：乐队成员个人撰写的音乐相关文章。
-- **[音乐短评](https://harmonese.cn/categories/%E9%9F%B3%E6%A8%82%E7%9F%AD%E8%A9%95/)**：乐队成员个人撰写的音乐短评，主要用于歌曲推荐。
 
 可以根据文章底部的署名识别作者。
 

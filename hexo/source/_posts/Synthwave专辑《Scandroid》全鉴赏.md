@@ -8,7 +8,7 @@ tags:
   - 赛博朋克
 categories: 音樂專欄
 description: 让我们把时间拨到 2517 年，发动引擎驶入一个赛博朋克城市。
-cover: cover.jpg
+cover: cover.webp
 copyright_author: 聲爆光年
 ---
 本文最初登载于电子谐奏，此文为重投。
@@ -21,13 +21,13 @@ copyright_author: 聲爆光年
 
 2013 年，美国多面手 **Klayton Albert**（下文简称 *Klayton*）在自己的 Facebook 页“**Celldweller**”上发布了一张“机械骷髅头”式的 LOGO。对熟悉唱片行业的人来说，这往往意味着：一个新的音乐项目即将登场。
 
-![Scandroid 机械骷髅 LOGO](mechanical-skull-logo.jpg)
+![Scandroid 机械骷髅 LOGO](mechanical-skull-logo.png)
 
 *图：新音乐项目 LOGO*
 
 不久之后，介绍短片 “What is the Salvation Code?” 被上传到 YouTube——这便是由 **Klayton Albert** 和 **Nikki Kaelar** 共同组建的全新 Synthwave 乐队 **Scandroid** 的第一次亮相。视频中的配乐，正是后来同名首专《*Scandroid*》里的先行单曲 “Salvation Code”。
 
-![What is the Salvation Code? 视频画面](salvation-code-video-still.jpg)
+![What is the Salvation Code? 视频画面](salvation-code-video-still.png)
 
 *图：视频 “What is the Salvation Code?” 画面*
 
@@ -173,7 +173,7 @@ Scandroid 的视觉设定贯穿多个时期：
 
 相较于专辑前段，“Aphelion” 的旋律线更为婉转，合成音色的堆叠也显得温柔许多。Red 用“寒冷”“遥远”来形容自己新萌生的情感：像行星运行轨道上的远日点（Aphelion），在最远的位置，却也最清晰地映出光芒。
 
-![Red 与 Aphelion 人设稿](red-aphelion-concept.jpg)
+![Red 与 Aphelion 人设稿](red-aphelion-concept.webp)
 
 *图：Red 与 Aphelion 人设稿*
 
@@ -194,7 +194,7 @@ Scandroid 的视觉设定贯穿多个时期：
 
 在充满监控与控制的新东京，人类和机器都渴望有一天可以不再麻木，不再被迫对现实的痛感装作若无其事，而是有机会对这座钢铁都市真正吼出自己的愤怒和不甘。
 
-![饭制 Red 人设](red-fanart-fullbody.jpg)
+![饭制 Red 人设](red-fanart-fullbody.webp)
 
 *图：饭制 Red 人设*
 
@@ -210,7 +210,7 @@ Scandroid 的视觉设定贯穿多个时期：
 
 在这首歌的叙事里，Red 开始意识到：所谓的“救赎”很可能只是空洞的口号。他于是转身离开既定路径，向真正未知的方向前进——不再是某个预先定义好的“应许之地”，而是自己也说不清的远方。
 
-![赛博朋克城市景观](cyberpunk-cityscape.jpg)
+![赛博朋克城市景观](cyberpunk-cityscape.webp)
 
 *图：赛博朋克城市景观*
 
@@ -250,7 +250,7 @@ Scandroid 的视觉设定贯穿多个时期：
 
 然而，就在真相即将浮出水面前，Raven 独自离开了连接——对 Red 而言，这是一次短暂但意义重大的“吴越同舟”。
 
-![Datastream MV 截图](datastream-mv-still.jpg)
+![Datastream MV 截图](datastream-mv-still.webp)
 
 *图：“Datastream” MV 截图*
 
@@ -270,7 +270,7 @@ Raven 离去之后，Red 已经清晰地看见了这座城市的真实一面：�
 
 他在空荡的街道上反复行走，几乎身无长物，却拥有近乎痛苦的清醒——继续寻找下一个可以“建立连接”的个体。
 
-![Empty Streets MV 截图](empty-streets-mv-still.jpg)
+![Empty Streets MV 截图](empty-streets-mv-still.webp)
 
 *图：“Empty Streets” MV 截图*
 

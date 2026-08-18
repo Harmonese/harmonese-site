@@ -9,7 +9,7 @@ tags:
   - 金属
 categories: 音樂專欄
 description: 这篇文章我们就沿着 DWTD 2016 年的代表作、全器乐专辑 《The Shape》，完整走一遍这片“金属+合成器”的幽暗森林。
-cover: cover.jpg
+cover: cover.webp
 copyright_author: 聲爆光年
 ---
 本文最初登载于电子谐奏。
@@ -41,7 +41,7 @@ copyright_author: 聲爆光年
 
 ## 乐队与专辑：从金属乐队到 Darksynth 代表作
 
-![Dance With The Dead 艺术照](dwtd-band-photo.jpg)
+![Dance With The Dead 艺术照](dwtd-band-photo.webp)
 
 *图：Dance With The Dead 艺术照*
 
@@ -91,7 +91,7 @@ DWTD 的封面与视觉一贯钟爱“幽灵、骷髅、满月与黑林”的组
 
 你能在这首歌里清楚地看到一幅画：海面上乌云迅速堆叠，远处闪电隐现，金属般冰冷的海风开始拍打整张专辑的帷幕。
 
-![Dance With The Dead 部分专辑封面拼图](dwtd-releases-covers-2.jpg)
+![Dance With The Dead 部分专辑封面拼图](dwtd-releases-covers-2.webp)
 
 *图：Dance With The Dead 部分发行音乐封面，幽灵与骷髅为常见元素*
 
@@ -112,7 +112,7 @@ DWTD 的封面与视觉一贯钟爱“幽灵、骷髅、满月与黑林”的组
 
 旋律线在谱面上画出一条条回旋上升的电流，像疯狂的视线在夜色中急速扫射——“Eyes of Madness” 这个标题，几乎可以被你耳朵直接“看见”。
 
-![Eyes Of Madness 主旋律乐谱](eyes-of-madness-score.jpg)
+![Eyes Of Madness 主旋律乐谱](eyes-of-madness-score.png)
 
 *图：“Eyes Of Madness” 主旋律乐谱示意*
 
@@ -134,7 +134,7 @@ DWTD 的封面与视觉一贯钟爱“幽灵、骷髅、满月与黑林”的组
 
 如果说 Darksynth 的常见意象是“赛博都市 + 末日”，那 DWTD 的想象力显然更偏向“满月 + 森林 + 幽灵”。
 
-![满月下的游魂森林](ghost-forest.jpg)
+![满月下的游魂森林](ghost-forest.webp)
 
 *图：满月下的游魂森林，Dance With The Dead 许多歌曲的共同意象*
 
@@ -156,7 +156,7 @@ DWTD 的封面与视觉一贯钟爱“幽灵、骷髅、满月与黑林”的组
 
 节奏的“半速/全速”切换，既是对曲名的呼应，也是 DWTD 非常典型的编曲手法之一。
 
-![部分 80 年代金属专辑封面](80s-metal-albums.jpg)
+![部分 80 年代金属专辑封面](80s-metal-albums.webp)
 
 *图：部分 80 年代金属专辑封面，它们对 Darksynth 曲风影响极大*
 
@@ -176,7 +176,7 @@ DWTD 的封面与视觉一贯钟爱“幽灵、骷髅、满月与黑林”的组
 
 它像是在一片黑压压的林木之间，依稀出现几只萤火虫：光线不强，但让你确认“前路并非只有黑暗”。
 
-![Adrift 的意境想象](adrift-landscape.jpg)
+![Adrift 的意境想象](adrift-landscape.webp)
 
 *图：“Adrift” 一曲的意境想象*
 
@@ -196,7 +196,7 @@ DWTD 的封面与视觉一贯钟爱“幽灵、骷髅、满月与黑林”的组
 
 “Riot”（暴乱）这个命名绝非空穴来风：它听上去就像街头警灯乱闪、机车呼啸而过、远处不时传来玻璃破碎的声音。
 
-![Riot 的视觉意象](riot-city.jpg)
+![Riot 的视觉意象](riot-city.webp)
 
 *图：“Riot” 所对应的另一常见意象：暴乱与毁灭*
 
@@ -298,6 +298,6 @@ DWTD 的封面与视觉一贯钟爱“幽灵、骷髅、满月与黑林”的组
 
 最后附上专辑封面大图一张。
 
-![The Shape 专辑封面大图](cover.jpg)
+![The Shape 专辑封面大图](cover.webp)
 
 *图：《The Shape》专辑封面大图*

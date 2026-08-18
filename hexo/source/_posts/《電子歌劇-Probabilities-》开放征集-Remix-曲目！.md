@@ -8,7 +8,7 @@ tags:
   - 新闻
 categories: 樂隊公告
 description: 《電子歌劇》的衍生专辑《電子歌劇 (Probabilities)》正在筹备中，现对外开放征集原专辑中歌曲的重混音曲目。
-cover:  /pictures/announcement_cover.jpeg
+cover:  cover.webp
 copyright_author: 簡諧點源
 ---
 《電子歌劇》的衍生专辑《電子歌劇 (Probabilities)》正在筹备中，现对外开放征集原专辑中歌曲的重混音曲目。

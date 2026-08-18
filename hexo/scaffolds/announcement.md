@@ -8,6 +8,6 @@ tags:
   - 新闻
 categories: 樂隊公告
 description: 
-cover:  /pictures/announcement_cover.jpeg
+cover: cover.webp
 copyright_author: 簡諧點源
 ---

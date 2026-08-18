@@ -8,7 +8,7 @@ tags:
   - 新闻
 categories: 樂隊公告
 description: 新的混音专辑已经正式上线。
-cover: image.jpeg
+cover: cover.webp
 copyright_author: 簡諧點源
 ---
 > 西元2176年，洙玒，黑暗籠罩。一道流星劃過漆黑冬夜，兩抹身影出現在了聚光燈所忽略的陰影中。

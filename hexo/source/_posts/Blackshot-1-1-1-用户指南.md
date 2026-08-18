@@ -9,7 +9,7 @@ tags:
   - Swift
 categories: 軟件項目
 description: 基于 Swift 为 MacOS 开发的轻量级菜单栏屏幕截图反色工具。
-cover: /2025/10/23/Blackshot-1-1-1-用户指南/icon.png
+cover: cover.webp
 copyright_author: 簡諧點源
 ---
 

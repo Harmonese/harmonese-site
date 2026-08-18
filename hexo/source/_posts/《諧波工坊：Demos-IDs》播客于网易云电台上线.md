@@ -8,7 +8,7 @@ tags:
   - 新闻
 categories: 樂隊公告
 description: 本播客将不定期更新，收录一些乐队在创作过程中的 Demo 版本，以及一些未完成/未公布的 ID 曲目。
-cover: image.jpeg
+cover: cover.webp
 copyright_author: 簡諧點源
 ---
 

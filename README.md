@@ -72,7 +72,7 @@ Their music is rooted in **Electronic**, **Synthwave**, and **Trance**, deeply i
 - **Static Site Generator:** [Hexo](https://hexo.io/)
 - **Theme:** [Butterfly](https://github.com/jerryc127/hexo-theme-butterfly)
 - **Language:** Chinese (zh‑CN)
-- **Deployment:** pre‑generated static files deployed to a web server / static hosting
+- **Deployment:** Cloudflare Pages, automatically built from the `main` branch
 
 > Note: This repository only contains the **site source** (content & configuration).
 > Music files and most code projects are hosted on external platforms.
@@ -85,12 +85,13 @@ Their music is rooted in **Electronic**, **Synthwave**, and **Trance**, deeply i
 
 - [Node.js](https://nodejs.org/) (LTS recommended)
 - [Git](https://git-scm.com/)
+- [pnpm](https://pnpm.io/) (the package manager used by this repository)
 
 Check versions:
 
 ```bash
 node -v
-npm -v
+pnpm -v
 git --version
 ```
 
@@ -101,13 +102,19 @@ git clone https://github.com/Harmonese/harmonese-site.git
 cd harmonese-site
 ```
 
+The repository root is used for Git operations. The actual Hexo project is in
+the `hexo/` subdirectory, so all package-manager and Hexo commands below must
+be run from there.
+
 ### 3. Install Dependencies
 
 ```bash
-npm install
+cd hexo
+pnpm install --frozen-lockfile
 ```
 
-Depending on the project setup, this will typically install:
+This installs the exact dependency versions recorded in `pnpm-lock.yaml`,
+including:
 
 - Hexo CLI & core
 - Butterfly theme dependencies
@@ -118,8 +125,7 @@ Depending on the project setup, this will typically install:
 Start a local server with hot‑reload:
 
 ```bash
-npx hexo clean
-npx hexo server
+pnpm server
 ```
 
 The site will be available at:
@@ -131,14 +137,31 @@ The site will be available at:
 Generate the static site:
 
 ```bash
-npx hexo clean
-npx hexo generate
+pnpm build
 ```
 
-The output is in the `public/` directory.
-Upload this directory to your web server or static hosting service.
+The output is in `hexo/public/`. This directory is ignored by Git and should
+not be committed.
 
-If deployment is automated (e.g. via Hexo deploy or CI), refer to the project’s `_config.yml` and CI configuration.
+Pushing the `main` branch to GitHub triggers the connected Cloudflare Pages
+deployment. Hexo's `deploy` command is not used by this repository.
+
+> npm can technically be used inside `hexo/` (`npm install`, `npm run server`,
+> `npm run build`), but it does not use `pnpm-lock.yaml` and may resolve different
+> dependency versions or create a `package-lock.json`. To keep local and
+> Cloudflare builds reproducible, use pnpm and do not mix lockfile formats.
+
+### 6. Embed NetEase Cloud Music
+
+Use the standard MetingJS element directly in Markdown posts:
+
+```html
+<meting-js id="28391863" server="netease" type="song"></meting-js>
+```
+
+Set `type` to `song`, `album`, or `playlist` as needed. The pinned APlayer and
+MetingJS browser assets are loaded explicitly through `_config.butterfly.yml`;
+the site does not use the legacy `hexo-tag-aplayer` plugin.
 
 ---
 
@@ -282,12 +305,13 @@ Under the following terms:
 
 - [Node.js](https://nodejs.org/)（建议使用 LTS 版本）
 - [Git](https://git-scm.com/)
+- [pnpm](https://pnpm.io/)（本仓库使用的包管理器）
 
 验证版本：
 
 ```bash
 node -v
-npm -v
+pnpm -v
 git --version
 ```
 
@@ -298,13 +322,17 @@ git clone https://github.com/Harmonese/harmonese-site.git
 cd harmonese-site
 ```
 
+仓库根目录用于执行 Git 操作；真正的 Hexo 项目位于 `hexo/` 子目录中。
+下文所有包管理器和 Hexo 命令都应在 `hexo/` 目录执行。
+
 ### 3. 安装依赖
 
 ```bash
-npm install
+cd hexo
+pnpm install --frozen-lockfile
 ```
 
-通常会安装：
+该命令会按照 `pnpm-lock.yaml` 中记录的确切版本安装：
 
 - Hexo 相关依赖
 - Butterfly 主题依赖
@@ -313,8 +341,7 @@ npm install
 ### 4. 本地预览
 
 ```bash
-npx hexo clean
-npx hexo server
+pnpm server
 ```
 
 在浏览器打开：
@@ -324,13 +351,30 @@ npx hexo server
 ### 5. 生成静态文件
 
 ```bash
-npx hexo clean
-npx hexo generate
+pnpm build
 ```
 
-生成后的静态文件位于 `public/` 目录，可直接上传至服务器或托管平台。
+生成后的静态文件位于 `hexo/public/`。该目录已被 Git 忽略，不应提交。
 
-如使用 Hexo 自带部署或 CI/CD，请参考仓库中的 `_config.yml` 和 CI 配置。
+将 `main` 分支推送到 GitHub 后，关联的 Cloudflare Pages 项目会自动构建并部署。
+本仓库不使用 Hexo 自带的 `deploy` 命令。
+
+> 技术上也可以在 `hexo/` 目录使用 npm，例如 `npm install`、
+> `npm run server` 和 `npm run build`。但 npm 不读取 `pnpm-lock.yaml`，可能安装
+> 不同的依赖版本或生成 `package-lock.json`。为了让本地与 Cloudflare 构建结果
+> 可复现，建议统一使用 pnpm，不要混用两种锁文件。
+
+### 6. 在文章中嵌入网易云音乐
+
+直接在 Markdown 文章中使用标准 MetingJS 元素：
+
+```html
+<meting-js id="28391863" server="netease" type="song"></meting-js>
+```
+
+`type` 可以设置为 `song`、`album` 或 `playlist`。APlayer 与 MetingJS 的浏览器
+资源已在 `_config.butterfly.yml` 中固定版本并显式加载，本站不再使用旧的
+`hexo-tag-aplayer` 插件。
 
 ---
 

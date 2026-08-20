@@ -1,5 +1,6 @@
 ---
 title: {{ title }}
+url_slug:
 date: {{ date }}
 updated: {{ date }}
 tags:

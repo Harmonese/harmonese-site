@@ -1,5 +1,6 @@
 ---
 title: 《電子歌劇 (Probabilities)》已正式发行
+url_slug: electropera-probabilities-release
 date: 2023-07-20 00:43:13
 updated: 2023-07-20 00:43:13
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Synthwave专辑《The Shape》全鉴赏
+url_slug: the-shape-album-review
 date: 2023-10-20 21:23
 updated: 2025-12-20
 tags:

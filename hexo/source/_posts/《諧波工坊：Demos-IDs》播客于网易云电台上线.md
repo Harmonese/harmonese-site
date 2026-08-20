@@ -1,5 +1,6 @@
 ---
 title: 《諧波工坊：Demos & IDs》播客于网易云电台上线
+url_slug: demos-and-ids-podcast
 date: 2025-12-29 23:09:18
 updated: 2025-12-29 23:09:18
 tags:

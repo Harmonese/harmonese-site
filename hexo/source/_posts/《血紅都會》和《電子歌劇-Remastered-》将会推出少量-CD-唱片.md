@@ -1,5 +1,6 @@
 ---
 title: 《血紅都會》和《電子歌劇 (Remastered)》将会推出少量 CD 唱片
+url_slug: physical-cd-announcement
 date: 2026-01-01 13:09:32
 updated: 2026-01-01 13:09:32
 tags:
@@ -24,4 +25,3 @@ copyright_author: 簡諧點源
     avatar: http://p1.music.126.net/dxIaxXaB8iPv9tzsWbI82g==/109951170153075093.jpg?param=180y180
     descr: 关注 + 转发即可参与
 {% endflink %}
-

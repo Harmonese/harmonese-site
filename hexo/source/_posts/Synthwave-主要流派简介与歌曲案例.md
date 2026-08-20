@@ -1,5 +1,6 @@
 ---
 title: Synthwave主要流派简介与歌曲案例
+url_slug: synthwave-subgenres
 date: 2023-10-21 21:16
 updated: 2025-12-21
 tags:

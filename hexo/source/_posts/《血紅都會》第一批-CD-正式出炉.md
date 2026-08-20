@@ -1,5 +1,6 @@
 ---
 title: 《血紅都會》第一批 CD 正式出炉
+url_slug: crimsonopolis-first-cd-batch
 tags:
   - 公告
   - 簡諧點源

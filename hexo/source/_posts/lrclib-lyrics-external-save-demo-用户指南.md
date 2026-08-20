@@ -1,5 +1,6 @@
 ---
 title: lrclib_lyrics_external_save demo 用户指南
+url_slug: lrclib-external-save-demo-guide
 date: 2025-11-14 21:13:04
 updated: 2025-12-20
 tags:

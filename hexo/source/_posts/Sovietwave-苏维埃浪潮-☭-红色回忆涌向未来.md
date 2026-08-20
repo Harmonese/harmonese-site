@@ -1,5 +1,6 @@
 ---
 title: Sovietwave 苏维埃浪潮 ☭ 红色回忆涌向未来
+url_slug: sovietwave-red-memory-future
 date: 2023-11-16 11:41:11
 updated: 2023-11-16 11:41:11
 tags: 

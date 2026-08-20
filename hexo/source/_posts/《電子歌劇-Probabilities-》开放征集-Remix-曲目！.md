@@ -1,5 +1,6 @@
 ---
 title: 《電子歌劇 (Probabilities)》开放征集 Remix 曲目！
+url_slug: electropera-remix-call
 date: 2022-03-27 10:42:50
 updated: 2022-03-27 10:42:50
 tags:

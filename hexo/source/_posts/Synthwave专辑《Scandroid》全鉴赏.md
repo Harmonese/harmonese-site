@@ -1,5 +1,6 @@
 ---
 title: Synthwave专辑《Scandroid》全鉴赏
+url_slug: scandroid-album-review
 date: 2023-10-22 20:17
 updated: 2025-12-20
 tags:

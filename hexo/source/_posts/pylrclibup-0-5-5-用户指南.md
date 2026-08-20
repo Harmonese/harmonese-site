@@ -1,5 +1,6 @@
 ---
 title: pylrclibup 0.5.5 用户指南
+url_slug: pylrclibup-0-5-5-guide
 date: 2025-12-14 21:13:04
 updated: 2025-12-20
 tags:

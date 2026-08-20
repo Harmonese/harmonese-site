@@ -1,0 +1,200 @@
+:root {
+  --home-welcome-duration: 1450ms;
+  --home-welcome-easing: cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+html.home-welcome-active,
+html.home-welcome-active body {
+  overscroll-behavior: none;
+  overflow: hidden;
+}
+
+html.home-welcome-reading {
+  overscroll-behavior-y: none;
+}
+
+html.home-welcome-active #page-header.full_page {
+  position: fixed;
+  inset: 0;
+  z-index: 90;
+  margin: 0;
+  width: 100%;
+  height: 100vh;
+  height: 100dvh;
+  will-change: opacity, transform, filter, clip-path;
+}
+
+/* The welcome scene has its own identity; navigation returns with the article view. */
+html.home-welcome-active #page-header.full_page #nav {
+  visibility: hidden;
+  opacity: 0;
+  pointer-events: none;
+}
+
+html.home-welcome-active #content-inner,
+html.home-welcome-active #footer,
+html.home-welcome-reading #content-inner,
+html.home-welcome-reading #footer {
+  animation: none !important;
+}
+
+html.home-welcome-active #content-inner,
+html.home-welcome-active #footer {
+  opacity: 0;
+  transform: translateY(10vh) scale(0.965);
+  filter: blur(7px);
+  pointer-events: none;
+  will-change: opacity, transform, filter;
+}
+
+/* Stage 1: the title leaves; stage 2: the welcome curtain retracts upward. */
+html.home-welcome-active.home-welcome-leaving #page-header.full_page {
+  animation: home-welcome-curtain-out var(--home-welcome-duration) var(--home-welcome-easing) both;
+  pointer-events: none;
+}
+
+html.home-welcome-active.home-welcome-leaving #site-info,
+html.home-welcome-active.home-welcome-leaving #scroll-down {
+  animation: home-welcome-title-out 620ms cubic-bezier(0.55, 0, 1, 0.45) both;
+}
+
+html.home-welcome-active.home-welcome-leaving #content-inner,
+html.home-welcome-active.home-welcome-leaving #footer {
+  animation: home-welcome-content-in var(--home-welcome-duration) var(--home-welcome-easing) both !important;
+}
+
+/* Reverse transition: article first recedes, then the welcome curtain unfolds. */
+html.home-welcome-active.home-welcome-returning #page-header.full_page {
+  opacity: 0.15;
+  clip-path: inset(0 0 100% 0);
+  transform: scale(0.94);
+  filter: blur(10px);
+}
+
+html.home-welcome-active.home-welcome-returning #content-inner,
+html.home-welcome-active.home-welcome-returning #footer {
+  opacity: 1;
+  transform: none;
+  filter: none;
+}
+
+html.home-welcome-active.home-welcome-returning.home-welcome-returning-visible #page-header.full_page {
+  animation: home-welcome-curtain-in var(--home-welcome-duration) var(--home-welcome-easing) both;
+}
+
+html.home-welcome-active.home-welcome-returning.home-welcome-returning-visible #site-info,
+html.home-welcome-active.home-welcome-returning.home-welcome-returning-visible #scroll-down {
+  animation: home-welcome-title-in 760ms 480ms var(--home-welcome-easing) both;
+}
+
+html.home-welcome-active.home-welcome-returning.home-welcome-returning-visible #content-inner,
+html.home-welcome-active.home-welcome-returning.home-welcome-returning-visible #footer {
+  animation: home-welcome-content-out var(--home-welcome-duration) var(--home-welcome-easing) both !important;
+}
+
+@keyframes home-welcome-curtain-out {
+  0% {
+    opacity: 1;
+    clip-path: inset(0 0 0 0);
+    transform: scale(1);
+    filter: blur(0);
+  }
+  28% {
+    opacity: 1;
+    clip-path: inset(0 0 0 0);
+    transform: scale(0.985);
+    filter: blur(0);
+  }
+  100% {
+    opacity: 0.15;
+    clip-path: inset(0 0 100% 0);
+    transform: scale(0.94);
+    filter: blur(10px);
+  }
+}
+
+@keyframes home-welcome-title-out {
+  0% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(-2.25rem);
+  }
+}
+
+@keyframes home-welcome-content-in {
+  0%,
+  20% {
+    opacity: 0;
+    transform: translateY(10vh) scale(0.965);
+    filter: blur(7px);
+  }
+  100% {
+    opacity: 1;
+    transform: none;
+    filter: none;
+  }
+}
+
+@keyframes home-welcome-curtain-in {
+  0% {
+    opacity: 0.15;
+    clip-path: inset(0 0 100% 0);
+    transform: scale(0.94);
+    filter: blur(10px);
+  }
+  72% {
+    opacity: 1;
+    clip-path: inset(0 0 0 0);
+    transform: scale(0.985);
+    filter: blur(0);
+  }
+  100% {
+    opacity: 1;
+    clip-path: inset(0 0 0 0);
+    transform: scale(1);
+    filter: blur(0);
+  }
+}
+
+@keyframes home-welcome-title-in {
+  0% {
+    opacity: 0;
+    transform: translateY(-2.25rem);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes home-welcome-content-out {
+  0% {
+    opacity: 1;
+    transform: none;
+    filter: none;
+  }
+  80%,
+  100% {
+    opacity: 0;
+    transform: translateY(10vh) scale(0.965);
+    filter: blur(7px);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    --home-welcome-duration: 1ms;
+  }
+
+  html.home-welcome-active #page-header.full_page,
+  html.home-welcome-active #site-info,
+  html.home-welcome-active #scroll-down,
+  html.home-welcome-active #content-inner,
+  html.home-welcome-active #footer {
+    animation-duration: 1ms !important;
+    animation-delay: 0ms !important;
+  }
+}

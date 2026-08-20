@@ -1,5 +1,6 @@
 ---
 title: Synthwave专辑《Dangerous Days》全鉴赏
+url_slug: dangerous-days-album-review
 date: 2023-10-19 20:44  
 updated: 2025-12-20
 tags:

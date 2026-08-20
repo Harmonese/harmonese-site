@@ -1,5 +1,6 @@
 ---
 title: 《電子歌劇 (Probabilities)》将于 7 月 20 日发行
+url_slug: electropera-probabilities-release-date
 date: 2023-7-17 00:36:25
 updated: 2023-7-17 00:36:25
 tags:

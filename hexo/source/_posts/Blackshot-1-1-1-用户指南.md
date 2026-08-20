@@ -1,5 +1,6 @@
 ---
 title: Blackshot 1.1.1 用户指南
+url_slug: blackshot-1-1-1-guide
 date: 2025-10-23 22:10:10
 updated: 2025-12-20
 tags:

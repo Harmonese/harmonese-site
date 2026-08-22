@@ -1,30 +1,129 @@
 :root {
-  --home-welcome-duration: 1450ms;
+  --home-welcome-duration: 1250ms;
   --home-welcome-easing: cubic-bezier(0.16, 1, 0.3, 1);
+  scrollbar-gutter: stable;
 }
 
+html.home-welcome-pending,
+html.home-welcome-pending body,
 html.home-welcome-active,
 html.home-welcome-active body {
-  overscroll-behavior: none;
   overflow: hidden;
+  overscroll-behavior: none;
 }
 
-html.home-welcome-reading {
-  overscroll-behavior-y: none;
+/* Hide navigation before the runtime layer is ready, preventing a first-paint flash. */
+html.home-welcome-pending #page-header.full_page #nav {
+  visibility: hidden;
+  opacity: 0;
 }
 
-html.home-welcome-active #page-header.full_page {
+/* The welcome scene is no longer part of document flow. */
+html.home-welcome-ready #page-header.full_page {
+  margin: 0;
+  min-height: 0;
+  height: 0;
+  background: transparent !important;
+  transition: none;
+}
+
+html.home-welcome-ready #page-header.full_page::before {
+  display: none;
+}
+
+html.home-welcome-ready #content-inner,
+html.home-welcome-ready #footer {
+  animation: none !important;
+}
+
+#home-welcome-layer {
   position: fixed;
   inset: 0;
-  z-index: 90;
-  margin: 0;
-  width: 100%;
+  z-index: 92;
+  overflow: hidden;
+  width: 100vw;
   height: 100vh;
   height: 100dvh;
-  will-change: opacity, transform, filter, clip-path;
+  opacity: 1;
+  transform: translate3d(0, -100%, 0);
+  transition:
+    transform var(--home-welcome-duration) var(--home-welcome-easing),
+    opacity 720ms ease;
+  contain: layout paint;
+  will-change: transform;
+  touch-action: none;
 }
 
-/* The welcome scene has its own identity; navigation returns with the article view. */
+#home-welcome-layer::before {
+  position: absolute;
+  inset: 0;
+  background-color: var(--mark-bg);
+  content: '';
+}
+
+#home-welcome-layer #site-info {
+  position: absolute;
+  top: 43%;
+  z-index: 1;
+  padding: 0 10px;
+  width: 100%;
+  text-align: center;
+}
+
+#home-welcome-layer #site-title,
+#home-welcome-layer #site-subtitle,
+#home-welcome-layer #scroll-down .scroll-down-effects {
+  text-align: center;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.15);
+  line-height: 1.5;
+}
+
+#home-welcome-layer #site-title {
+  margin: 0;
+  overflow: hidden;
+  color: var(--white);
+  font-size: 1.85em;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+}
+
+#home-welcome-layer #site-subtitle {
+  color: var(--light-grey);
+  font-size: 1.15em;
+}
+
+#home-welcome-layer #site_social_icons {
+  display: none;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#home-welcome-layer #site_social_icons .social-icon {
+  margin: 0 10px;
+  color: var(--light-grey);
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.15);
+  font-size: 1.43em;
+}
+
+#home-welcome-layer #scroll-down {
+  position: absolute;
+  bottom: max(10px, env(safe-area-inset-bottom));
+  z-index: 1;
+  width: 100%;
+  cursor: pointer;
+}
+
+#home-welcome-layer #scroll-down .scroll-down-effects {
+  position: relative;
+  width: 100%;
+  color: var(--light-grey);
+  font-size: 20px;
+}
+
+html.home-welcome-active #home-welcome-layer {
+  transform: translate3d(0, 0, 0);
+}
+
 html.home-welcome-active #page-header.full_page #nav {
   visibility: hidden;
   opacity: 0;
@@ -32,155 +131,111 @@ html.home-welcome-active #page-header.full_page #nav {
 }
 
 html.home-welcome-active #content-inner,
-html.home-welcome-active #footer,
-html.home-welcome-reading #content-inner,
-html.home-welcome-reading #footer {
-  animation: none !important;
-}
-
-html.home-welcome-active #content-inner,
 html.home-welcome-active #footer {
   opacity: 0;
-  transform: translateY(10vh) scale(0.965);
-  filter: blur(7px);
-  pointer-events: none;
-  will-change: opacity, transform, filter;
-}
-
-/* Stage 1: the title leaves; stage 2: the welcome curtain retracts upward. */
-html.home-welcome-active.home-welcome-leaving #page-header.full_page {
-  animation: home-welcome-curtain-out var(--home-welcome-duration) var(--home-welcome-easing) both;
+  transform: translate3d(0, 4vh, 0) scale(0.985);
+  transition:
+    opacity 720ms ease,
+    transform var(--home-welcome-duration) var(--home-welcome-easing);
   pointer-events: none;
 }
 
-html.home-welcome-active.home-welcome-leaving #site-info,
-html.home-welcome-active.home-welcome-leaving #scroll-down {
-  animation: home-welcome-title-out 620ms cubic-bezier(0.55, 0, 1, 0.45) both;
+/* Entering: the independent curtain leaves while the normal document appears. */
+html.home-welcome-active.home-welcome-leaving #home-welcome-layer {
+  transform: translate3d(0, -100%, 0);
+}
+
+html.home-welcome-active.home-welcome-leaving #page-header.full_page #nav {
+  position: fixed;
+  top: 0;
+  z-index: 91;
+  visibility: visible;
+  opacity: 1;
+  background: rgba(255, 255, 255, 0.7);
+  box-shadow: 0 5px 6px -5px rgba(133, 133, 133, 0.6);
+  transition: opacity 520ms 360ms ease;
+  backdrop-filter: blur(7px);
+}
+
+html.home-welcome-active.home-welcome-leaving #page-header.full_page #nav #blog-info,
+html.home-welcome-active.home-welcome-leaving #page-header.full_page #nav a,
+html.home-welcome-active.home-welcome-leaving #page-header.full_page #nav span.site-page,
+html.home-welcome-active.home-welcome-leaving #page-header.full_page #nav #toggle-menu {
+  color: var(--font-color);
+  text-shadow: none;
 }
 
 html.home-welcome-active.home-welcome-leaving #content-inner,
 html.home-welcome-active.home-welcome-leaving #footer {
-  animation: home-welcome-content-in var(--home-welcome-duration) var(--home-welcome-easing) both !important;
+  opacity: 1;
+  transform: translate3d(0, 0, 0) scale(1);
+  pointer-events: auto;
 }
 
-/* Reverse transition: article first recedes, then the welcome curtain unfolds. */
-html.home-welcome-active.home-welcome-returning #page-header.full_page {
-  opacity: 0.15;
-  clip-path: inset(0 0 100% 0);
-  transform: scale(0.94);
-  filter: blur(10px);
+/* At the real document top, keep Butterfly's navigation usable and legible. */
+html.home-welcome-reading #page-header.full_page:not(.nav-fixed) #nav {
+  position: fixed;
+  top: 0;
+  z-index: 91;
+  visibility: visible;
+  opacity: 1;
+  background: rgba(255, 255, 255, 0.7);
+  box-shadow: 0 5px 6px -5px rgba(133, 133, 133, 0.6);
+  backdrop-filter: blur(7px);
+}
+
+html.home-welcome-reading #page-header.full_page:not(.nav-fixed) #nav #blog-info,
+html.home-welcome-reading #page-header.full_page:not(.nav-fixed) #nav a,
+html.home-welcome-reading #page-header.full_page:not(.nav-fixed) #nav span.site-page,
+html.home-welcome-reading #page-header.full_page:not(.nav-fixed) #nav #toggle-menu {
+  color: var(--font-color);
+  text-shadow: none;
+}
+
+[data-theme='dark'].home-welcome-reading #page-header.full_page:not(.nav-fixed) #nav {
+  background: rgba(18, 18, 18, 0.8);
+  box-shadow: 0 5px 6px -5px rgba(133, 133, 133, 0);
+}
+
+[data-theme='dark'].home-welcome-active.home-welcome-leaving #page-header.full_page #nav {
+  background: rgba(18, 18, 18, 0.8);
+  box-shadow: 0 5px 6px -5px rgba(133, 133, 133, 0);
+}
+
+/* Returning starts off-screen, then unfolds only after a fresh animation frame. */
+html.home-welcome-active.home-welcome-returning #home-welcome-layer {
+  transform: translate3d(0, -100%, 0);
 }
 
 html.home-welcome-active.home-welcome-returning #content-inner,
 html.home-welcome-active.home-welcome-returning #footer {
   opacity: 1;
-  transform: none;
-  filter: none;
+  transform: translate3d(0, 0, 0) scale(1);
 }
 
-html.home-welcome-active.home-welcome-returning.home-welcome-returning-visible #page-header.full_page {
-  animation: home-welcome-curtain-in var(--home-welcome-duration) var(--home-welcome-easing) both;
-}
-
-html.home-welcome-active.home-welcome-returning.home-welcome-returning-visible #site-info,
-html.home-welcome-active.home-welcome-returning.home-welcome-returning-visible #scroll-down {
-  animation: home-welcome-title-in 760ms 480ms var(--home-welcome-easing) both;
+html.home-welcome-active.home-welcome-returning.home-welcome-returning-visible #home-welcome-layer {
+  transform: translate3d(0, 0, 0);
 }
 
 html.home-welcome-active.home-welcome-returning.home-welcome-returning-visible #content-inner,
 html.home-welcome-active.home-welcome-returning.home-welcome-returning-visible #footer {
-  animation: home-welcome-content-out var(--home-welcome-duration) var(--home-welcome-easing) both !important;
+  opacity: 0;
+  transform: translate3d(0, 4vh, 0) scale(0.985);
 }
 
-@keyframes home-welcome-curtain-out {
-  0% {
-    opacity: 1;
-    clip-path: inset(0 0 0 0);
-    transform: scale(1);
-    filter: blur(0);
+@media screen and (min-width: 768px) {
+  #home-welcome-layer #site-title {
+    font-size: 2.85em;
   }
-  28% {
-    opacity: 1;
-    clip-path: inset(0 0 0 0);
-    transform: scale(0.985);
-    filter: blur(0);
-  }
-  100% {
-    opacity: 0.15;
-    clip-path: inset(0 0 100% 0);
-    transform: scale(0.94);
-    filter: blur(10px);
+
+  #home-welcome-layer #site-subtitle {
+    font-size: 1.72em;
   }
 }
 
-@keyframes home-welcome-title-out {
-  0% {
-    opacity: 1;
-    transform: translateY(0);
-  }
-  100% {
-    opacity: 0;
-    transform: translateY(-2.25rem);
-  }
-}
-
-@keyframes home-welcome-content-in {
-  0%,
-  20% {
-    opacity: 0;
-    transform: translateY(10vh) scale(0.965);
-    filter: blur(7px);
-  }
-  100% {
-    opacity: 1;
-    transform: none;
-    filter: none;
-  }
-}
-
-@keyframes home-welcome-curtain-in {
-  0% {
-    opacity: 0.15;
-    clip-path: inset(0 0 100% 0);
-    transform: scale(0.94);
-    filter: blur(10px);
-  }
-  72% {
-    opacity: 1;
-    clip-path: inset(0 0 0 0);
-    transform: scale(0.985);
-    filter: blur(0);
-  }
-  100% {
-    opacity: 1;
-    clip-path: inset(0 0 0 0);
-    transform: scale(1);
-    filter: blur(0);
-  }
-}
-
-@keyframes home-welcome-title-in {
-  0% {
-    opacity: 0;
-    transform: translateY(-2.25rem);
-  }
-  100% {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
-@keyframes home-welcome-content-out {
-  0% {
-    opacity: 1;
-    transform: none;
-    filter: none;
-  }
-  80%,
-  100% {
-    opacity: 0;
-    transform: translateY(10vh) scale(0.965);
-    filter: blur(7px);
+@media screen and (max-width: 768px) {
+  #home-welcome-layer #site_social_icons {
+    display: block;
   }
 }
 
@@ -189,12 +244,11 @@ html.home-welcome-active.home-welcome-returning.home-welcome-returning-visible #
     --home-welcome-duration: 1ms;
   }
 
-  html.home-welcome-active #page-header.full_page,
-  html.home-welcome-active #site-info,
-  html.home-welcome-active #scroll-down,
-  html.home-welcome-active #content-inner,
-  html.home-welcome-active #footer {
-    animation-duration: 1ms !important;
-    animation-delay: 0ms !important;
+  #home-welcome-layer,
+  html.home-welcome-ready #content-inner,
+  html.home-welcome-ready #footer,
+  html.home-welcome-ready #page-header.full_page #nav {
+    transition-duration: 1ms !important;
+    transition-delay: 0ms !important;
   }
 }

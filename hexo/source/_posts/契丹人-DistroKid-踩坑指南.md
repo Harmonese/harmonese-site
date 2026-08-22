@@ -3,7 +3,7 @@ title: 契丹人 DistroKid 踩坑指南
 url_slug: distrokid-pitfall-guide
 date: 2022-01-10 15:08:09
 updated: 2026-08-19 18:32:00
-tags: 
+tags:
   - 音乐发行
   - 经验分享
   - 吐槽

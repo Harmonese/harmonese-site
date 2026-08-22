@@ -4,18 +4,30 @@
   const rootElement = document.documentElement;
   const script = document.currentScript;
   const homeRoot = normalizeRoot(script?.dataset.homeRoot || '/');
-  const transitionDuration = window.matchMedia('(prefers-reduced-motion: reduce)').matches
-    ? 0
-    : 1450;
+  const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  const transitionFallback = prefersReducedMotion ? 0 : 1450;
+  const topTolerance = 1;
+  const returnGateDelay = 140;
+  const returnGestureGap = 140;
+  const returnGestureBoost = 1.65;
+  const returnGestureBoostFloor = 28;
+  const welcomeSeenKey = 'harmonese-home-welcome-seen';
 
-  let abortController;
   let mode = 'idle';
-  let touchStartY = null;
+  let interactionController;
+  let welcomeLayer;
+  let transitionCleanup;
+  let movedNodes = [];
   let gestureDistance = 0;
   let gestureResetTimer;
-  let returnArmTimer;
-  let returnArmed = false;
-  let touchCanReturn = false;
+  let topReady = false;
+  let topReadyTimer;
+  let topWheelPrimed = false;
+  let lastTopWheelTime = 0;
+  let lastTopWheelDelta = 0;
+  let touchStartY = null;
+  let touchStartedAtTop = false;
+  let welcomeSeenInRuntime = false;
 
   function normalizeRoot(value) {
     const withLeadingSlash = value.startsWith('/') ? value : `/${value}`;
@@ -32,58 +44,60 @@
       || /^page\/[1-9]\d*\/(?:index\.html)?$/.test(relativePath);
   }
 
-  function elements() {
+  function pageElements() {
     return {
       header: document.querySelector('#page-header.full_page'),
+      nav: document.getElementById('nav'),
+      siteInfo: document.getElementById('site-info'),
+      scrollDown: document.getElementById('scroll-down'),
       content: document.getElementById('content-inner'),
       footer: document.getElementById('footer')
     };
   }
 
-  function setPageInert({ header = false, content = false }) {
-    const page = elements();
-    if (page.header) page.header.inert = header;
-    if (page.content) page.content.inert = content;
-    if (page.footer) page.footer.inert = content;
+  function setMode(nextMode) {
+    mode = nextMode;
+    rootElement.dataset.homeWelcomeState = nextMode;
   }
 
-  function releaseListeners() {
+  function setPageInert({ page = false, welcome = false } = {}) {
+    const elements = pageElements();
+    if (elements.nav) elements.nav.inert = page;
+    if (elements.content) elements.content.inert = page;
+    if (elements.footer) elements.footer.inert = page;
+    if (welcomeLayer) welcomeLayer.inert = welcome;
+  }
+
+  function clearGestureTimers() {
     window.clearTimeout(gestureResetTimer);
-    window.clearTimeout(returnArmTimer);
-    abortController?.abort();
-    abortController = undefined;
-    touchStartY = null;
+    window.clearTimeout(topReadyTimer);
+    gestureResetTimer = undefined;
+    topReadyTimer = undefined;
+  }
+
+  function stopInteractions() {
+    interactionController?.abort();
+    interactionController = undefined;
+    clearGestureTimers();
     gestureDistance = 0;
-    returnArmed = false;
-    touchCanReturn = false;
+    touchStartY = null;
+    touchStartedAtTop = false;
+    topReady = false;
+    topWheelPrimed = false;
+    lastTopWheelTime = 0;
+    lastTopWheelDelta = 0;
   }
 
   function listenerOptions(extra = {}) {
-    return { signal: abortController.signal, ...extra };
+    return { signal: interactionController.signal, ...extra };
   }
 
-  function resetGestureSoon() {
+  function resetGestureAfter(delay = 180) {
     window.clearTimeout(gestureResetTimer);
     gestureResetTimer = window.setTimeout(() => {
       gestureDistance = 0;
-    }, 200);
-  }
-
-  function clearState() {
-    releaseListeners();
-    mode = 'idle';
-    setPageInert({});
-    rootElement.classList.remove(
-      'home-welcome-active',
-      'home-welcome-leaving',
-      'home-welcome-reading',
-      'home-welcome-returning',
-      'home-welcome-returning-visible'
-    );
-  }
-
-  function getContentTop() {
-    return elements().content?.offsetTop || window.innerHeight;
+      gestureResetTimer = undefined;
+    }, delay);
   }
 
   function wheelDeltaInPixels(event) {
@@ -92,48 +106,172 @@
     return event.deltaY;
   }
 
-  function holdAtContentTop() {
-    const contentTop = getContentTop();
-    if (Math.abs(window.scrollY - contentTop) > 0.5) {
-      window.scrollTo({ top: contentTop, left: 0, behavior: 'auto' });
+  function isAtDocumentTop() {
+    return window.scrollY <= topTolerance;
+  }
+
+  function hasSeenWelcomeThisSession() {
+    if (welcomeSeenInRuntime) return true;
+
+    try {
+      return window.sessionStorage.getItem(welcomeSeenKey) === '1';
+    } catch {
+      return false;
     }
   }
 
-  function disarmReturn() {
-    window.clearTimeout(returnArmTimer);
-    returnArmTimer = undefined;
-    returnArmed = false;
-    gestureDistance = 0;
+  function markWelcomeSeen() {
+    welcomeSeenInRuntime = true;
+
+    try {
+      window.sessionStorage.setItem(welcomeSeenKey, '1');
+    } catch {
+      // Storage can be unavailable in some privacy modes; the welcome still works.
+    }
   }
 
-  function scheduleReturnArm(delay = 480) {
-    disarmReturn();
-    returnArmTimer = window.setTimeout(() => {
-      if (mode === 'reading' && window.scrollY <= getContentTop() + 2) {
-        returnArmed = true;
-      }
-      returnArmTimer = undefined;
+  function resetReturnGate() {
+    window.clearTimeout(topReadyTimer);
+    topReadyTimer = undefined;
+    topReady = false;
+    gestureDistance = 0;
+    topWheelPrimed = false;
+    lastTopWheelTime = 0;
+    lastTopWheelDelta = 0;
+  }
+
+  function openReturnGateAfter(delay = 220) {
+    window.clearTimeout(topReadyTimer);
+    topReady = false;
+    gestureDistance = 0;
+    topWheelPrimed = false;
+    lastTopWheelTime = 0;
+    lastTopWheelDelta = 0;
+    topReadyTimer = window.setTimeout(() => {
+      if (mode === 'reading' && isAtDocumentTop()) topReady = true;
+      topReadyTimer = undefined;
     }, delay);
   }
 
-  function bindWelcomeInteractions() {
-    releaseListeners();
-    abortController = new AbortController();
+  function isFreshTopWheelGesture(deltaPixels) {
+    const now = performance.now();
+    const separatedFromPreviousGesture = now - lastTopWheelTime > returnGestureGap
+      && deltaPixels >= returnGestureBoostFloor;
+    const renewedAfterInertia = deltaPixels >= returnGestureBoostFloor
+      && deltaPixels > lastTopWheelDelta * returnGestureBoost;
 
-    window.addEventListener('wheel', event => {
+    lastTopWheelTime = now;
+    lastTopWheelDelta = deltaPixels;
+
+    if (!topWheelPrimed) {
+      topWheelPrimed = true;
+      return false;
+    }
+
+    return separatedFromPreviousGesture || renewedAfterInertia;
+  }
+
+  function moveIntoLayer(node) {
+    if (!node || !welcomeLayer) return;
+    movedNodes.push({ node, parent: node.parentNode, nextSibling: node.nextSibling });
+    welcomeLayer.appendChild(node);
+  }
+
+  function restoreMovedNodes() {
+    for (const placement of movedNodes.reverse()) {
+      const { node, parent, nextSibling } = placement;
+      if (!parent) continue;
+      if (nextSibling?.parentNode === parent) parent.insertBefore(node, nextSibling);
+      else parent.appendChild(node);
+    }
+    movedNodes = [];
+  }
+
+  function createWelcomeLayer(elements) {
+    const layer = document.createElement('div');
+    layer.id = 'home-welcome-layer';
+    layer.setAttribute('aria-label', '欢迎页面');
+    document.body.appendChild(layer);
+    welcomeLayer = layer;
+    moveIntoLayer(elements.siteInfo);
+    moveIntoLayer(elements.scrollDown);
+  }
+
+  function cancelPendingTransition() {
+    transitionCleanup?.();
+    transitionCleanup = undefined;
+  }
+
+  function afterLayerTransition(callback) {
+    cancelPendingTransition();
+    if (!welcomeLayer || prefersReducedMotion) {
+      window.requestAnimationFrame(callback);
+      return;
+    }
+
+    let finished = false;
+    let fallbackTimer;
+
+    const finish = () => {
+      if (finished) return;
+      finished = true;
+      window.clearTimeout(fallbackTimer);
+      welcomeLayer?.removeEventListener('transitionend', onTransitionEnd);
+      transitionCleanup = undefined;
+      callback();
+    };
+
+    const onTransitionEnd = event => {
+      if (event.target === welcomeLayer && event.propertyName === 'transform') finish();
+    };
+
+    welcomeLayer.addEventListener('transitionend', onTransitionEnd);
+    fallbackTimer = window.setTimeout(finish, transitionFallback);
+    transitionCleanup = () => {
+      finished = true;
+      window.clearTimeout(fallbackTimer);
+      welcomeLayer?.removeEventListener('transitionend', onTransitionEnd);
+    };
+  }
+
+  function clearState() {
+    stopInteractions();
+    cancelPendingTransition();
+    setPageInert({});
+    restoreMovedNodes();
+    welcomeLayer?.remove();
+    welcomeLayer = undefined;
+    setMode('idle');
+    delete rootElement.dataset.homeWelcomeState;
+    rootElement.classList.remove(
+      'home-welcome-pending',
+      'home-welcome-ready',
+      'home-welcome-active',
+      'home-welcome-leaving',
+      'home-welcome-reading',
+      'home-welcome-returning',
+      'home-welcome-returning-visible'
+    );
+  }
+
+  function bindWelcomeInteractions() {
+    stopInteractions();
+    interactionController = new AbortController();
+
+    welcomeLayer.addEventListener('wheel', event => {
       event.preventDefault();
       if (mode !== 'welcome' || event.deltaY <= 0) return;
 
-      gestureDistance += event.deltaY;
-      resetGestureSoon();
+      gestureDistance += Math.max(0, wheelDeltaInPixels(event));
+      resetGestureAfter();
       if (gestureDistance >= 56) enterContent();
     }, listenerOptions({ passive: false }));
 
-    window.addEventListener('touchstart', event => {
+    welcomeLayer.addEventListener('touchstart', event => {
       touchStartY = event.touches[0]?.clientY ?? null;
     }, listenerOptions({ passive: true }));
 
-    window.addEventListener('touchmove', event => {
+    welcomeLayer.addEventListener('touchmove', event => {
       if (touchStartY === null) return;
       const currentY = event.touches[0]?.clientY;
       if (currentY === undefined) return;
@@ -158,118 +296,99 @@
   }
 
   function finishEnterContent() {
-    const page = elements();
+    markWelcomeSeen();
     rootElement.classList.remove('home-welcome-active', 'home-welcome-leaving');
     rootElement.classList.add('home-welcome-reading');
-    setPageInert({});
-
-    window.scrollTo({
-      top: page.content?.offsetTop || window.innerHeight,
-      left: 0,
-      behavior: 'auto'
-    });
-
-    mode = 'reading';
+    welcomeLayer?.setAttribute('aria-hidden', 'true');
+    setPageInert({ welcome: true });
+    setMode('reading');
     bindReadingInteractions();
-    scheduleReturnArm(600);
+    openReturnGateAfter(320);
   }
 
   function enterContent() {
     if (mode !== 'welcome') return;
 
-    mode = 'transition';
-    releaseListeners();
+    setMode('entering');
+    stopInteractions();
     rootElement.classList.add('home-welcome-leaving');
-    window.setTimeout(finishEnterContent, transitionDuration);
+    setPageInert({ page: true });
+    afterLayerTransition(finishEnterContent);
   }
 
   function bindReadingInteractions() {
-    releaseListeners();
-    abortController = new AbortController();
+    stopInteractions();
+    interactionController = new AbortController();
 
     window.addEventListener('wheel', event => {
       if (mode !== 'reading') return;
-      if (event.deltaY >= 0) {
-        if (window.scrollY > getContentTop() + 2) disarmReturn();
+      if (!isAtDocumentTop()) {
+        resetReturnGate();
         return;
       }
 
-      const contentTop = getContentTop();
+      if (event.deltaY >= 0) {
+        resetReturnGate();
+        return;
+      }
+
       const deltaPixels = Math.abs(wheelDeltaInPixels(event));
-      const boundaryLookAhead = Math.min(deltaPixels * 1.25, 80) + 2;
-      if (window.scrollY > contentTop + boundaryLookAhead) return;
+      if (!topReady) {
+        if (!topReadyTimer) openReturnGateAfter(returnGateDelay);
+        return;
+      }
+
+      if (!isFreshTopWheelGesture(deltaPixels)) return;
 
       event.preventDefault();
-      holdAtContentTop();
-      if (!returnArmed) {
-        scheduleReturnArm();
-        return;
-      }
-
-      gestureDistance += Math.abs(event.deltaY);
-      resetGestureSoon();
+      gestureDistance += deltaPixels;
+      resetGestureAfter();
       if (gestureDistance >= 80) returnToWelcome();
     }, listenerOptions({ passive: false }));
 
     window.addEventListener('touchstart', event => {
       touchStartY = event.touches[0]?.clientY ?? null;
-      touchCanReturn = returnArmed && window.scrollY <= getContentTop() + 2;
+      touchStartedAtTop = topReady && isAtDocumentTop();
     }, listenerOptions({ passive: true }));
 
     window.addEventListener('touchmove', event => {
-      if (touchStartY === null) return;
+      if (!touchStartedAtTop || touchStartY === null) return;
       const currentY = event.touches[0]?.clientY;
       if (currentY === undefined || currentY <= touchStartY) return;
 
-      const dragDistance = currentY - touchStartY;
-      if (window.scrollY > getContentTop() + dragDistance + 12) return;
-
       event.preventDefault();
-      holdAtContentTop();
-      if (touchCanReturn && dragDistance >= 72) returnToWelcome();
+      if (currentY - touchStartY >= 72) returnToWelcome();
     }, listenerOptions({ passive: false }));
 
     window.addEventListener('touchend', () => {
-      if (mode === 'reading' && window.scrollY <= getContentTop() + 2) {
-        scheduleReturnArm(380);
+      if (!isAtDocumentTop()) {
+        resetReturnGate();
+        return;
       }
+      if (!touchStartedAtTop && !topReadyTimer) openReturnGateAfter(120);
+      touchStartY = null;
+      touchStartedAtTop = false;
     }, listenerOptions({ passive: true }));
 
     window.addEventListener('keydown', event => {
-      const atContentTop = window.scrollY <= getContentTop() + 2;
-      const upwardAtTop = atContentTop && returnArmed && ['ArrowUp', 'PageUp'].includes(event.key);
-      const moveToContentTop = event.key === 'Home';
-      if (!upwardAtTop && !moveToContentTop) return;
+      const upwardAtTop = topReady
+        && isAtDocumentTop()
+        && ['ArrowUp', 'PageUp'].includes(event.key);
+      if (!upwardAtTop) return;
       if (event.altKey || event.ctrlKey || event.metaKey || event.shiftKey) return;
 
       event.preventDefault();
-      if (moveToContentTop) {
-        window.scrollTo({ top: getContentTop(), left: 0, behavior: 'smooth' });
-        scheduleReturnArm(700);
-      } else {
-        returnToWelcome();
-      }
+      returnToWelcome();
     }, listenerOptions());
 
     window.addEventListener('scroll', () => {
       if (mode !== 'reading') return;
-      const contentTop = getContentTop();
-      if (window.scrollY > contentTop + 2) {
-        disarmReturn();
+      if (!isAtDocumentTop()) {
+        resetReturnGate();
         return;
       }
-      if (window.scrollY < contentTop - 2) {
-        holdAtContentTop();
-      }
-      if (!returnArmed && !returnArmTimer) scheduleReturnArm();
+      if (!topReady && !topReadyTimer) openReturnGateAfter(returnGateDelay);
     }, listenerOptions({ passive: true }));
-
-    document.getElementById('go-up')?.addEventListener('click', event => {
-      event.preventDefault();
-      event.stopImmediatePropagation();
-      window.scrollTo({ top: getContentTop(), left: 0, behavior: 'smooth' });
-      scheduleReturnArm(700);
-    }, listenerOptions({ capture: true }));
   }
 
   function finishReturnToWelcome() {
@@ -277,53 +396,67 @@
       'home-welcome-returning',
       'home-welcome-returning-visible'
     );
-    setPageInert({ content: true });
-    mode = 'welcome';
+    setPageInert({ page: true });
+    setMode('welcome');
     bindWelcomeInteractions();
   }
 
   function returnToWelcome() {
-    if (mode !== 'reading') return;
+    if (mode !== 'reading' || !isAtDocumentTop()) return;
 
-    mode = 'transition';
-    releaseListeners();
+    setMode('returning');
+    stopInteractions();
+    document.activeElement?.blur?.();
+    welcomeLayer?.removeAttribute('aria-hidden');
+    setPageInert({ page: true });
     rootElement.classList.remove('home-welcome-reading');
     rootElement.classList.add('home-welcome-active', 'home-welcome-returning');
-    setPageInert({});
-    window.scrollTo({ top: 0, left: 0, behavior: 'auto' });
 
     window.requestAnimationFrame(() => {
       window.requestAnimationFrame(() => {
         rootElement.classList.add('home-welcome-returning-visible');
+        afterLayerTransition(finishReturnToWelcome);
       });
     });
-
-    window.setTimeout(finishReturnToWelcome, transitionDuration + 34);
   }
 
   function initialize() {
     clearState();
 
-    const page = elements();
-    if (!isIndexPage() || !page.header || !page.content) return;
+    const elements = pageElements();
+    const hasRequiredStructure = isIndexPage()
+      && elements.header
+      && elements.nav
+      && elements.siteInfo
+      && elements.scrollDown
+      && elements.content;
+
+    if (!hasRequiredStructure) {
+      rootElement.classList.remove('home-welcome-pending');
+      return;
+    }
 
     const hasContentTarget = window.location.hash && window.location.hash !== '#';
-    const restoredBelowWelcome = window.scrollY > Math.min(window.innerHeight / 3, 240);
-    if (hasContentTarget || restoredBelowWelcome) {
-      rootElement.classList.add('home-welcome-reading');
-      mode = 'reading';
+    const restoredBelowTop = window.scrollY > Math.min(window.innerHeight / 3, 240);
+    const startInReadingMode = hasContentTarget || restoredBelowTop || hasSeenWelcomeThisSession();
+
+    rootElement.classList.add('home-welcome-ready');
+    rootElement.classList.add(startInReadingMode ? 'home-welcome-reading' : 'home-welcome-active');
+    createWelcomeLayer(elements);
+    rootElement.classList.remove('home-welcome-pending');
+
+    if (startInReadingMode) {
+      welcomeLayer.setAttribute('aria-hidden', 'true');
+      setPageInert({ welcome: true });
+      setMode('reading');
       bindReadingInteractions();
-      if (window.scrollY <= getContentTop() + 2) scheduleReturnArm(600);
-      if (window.location.hash === '#content-inner') {
-        window.requestAnimationFrame(() => holdAtContentTop());
-      }
+      if (isAtDocumentTop()) openReturnGateAfter(320);
       return;
     }
 
     window.scrollTo({ top: 0, left: 0, behavior: 'auto' });
-    rootElement.classList.add('home-welcome-active');
-    setPageInert({ content: true });
-    mode = 'welcome';
+    setPageInert({ page: true });
+    setMode('welcome');
     bindWelcomeInteractions();
   }
 

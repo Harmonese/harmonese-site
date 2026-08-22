@@ -767,8 +767,8 @@ site_verification:
 theme_color:
   enable: true
   main: "#ff0000"
-#   paginator: "#00c4b6"
-#   button_hover: "#FF7242"
+  paginator: "#8f1d2c"
+  button_hover: "#c96969"
   text_selection: "#c96969"
   link_color: "#ff0000"
 #   meta_color: "#858585"

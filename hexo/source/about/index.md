@@ -1,5 +1,5 @@
 ---
-title: 關於本站
+title: 關於我們
 date: 2025-12-19 13:54:44
 top_img:  '/about/cover.webp'
 aside: false

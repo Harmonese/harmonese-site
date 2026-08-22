@@ -9,9 +9,9 @@ tags:
   - 新闻
 categories: 樂隊公告
 description: 《電子歌劇》的衍生专辑《電子歌劇 (Probabilities)》正在筹备中，现对外开放征集原专辑中歌曲的重混音曲目。
-cover:  cover.webp
+cover: cover.webp
 copyright_author: 簡諧點源
 ---
-《電子歌劇》的衍生专辑《電子歌劇 (Probabilities)》正在筹备中，现对外开放征集原专辑中歌曲的重混音曲目。
+《電子歌劇》的衍生专辑《電子歌劇 (Probabilities)》正在筹备中，现对外开放征集原专辑中歌曲的重混音曲目。经过协商后完成制作的曲目将会进入《電子歌劇 (Probabilities)》的发行！时长不限、风格不限、门槛很低！欢迎参加！
 
 通过[电子邮件](mailto:home@harmonese.cn)联系我们获得更多信息。

@@ -8,7 +8,7 @@ tags:
   - Python
   - 归档
 categories: 軟件項目
-description: pylrclibup 是 Harmonese 早期维护的 LRCLIB 歌词上传工具，现已归档；新的歌词工具链将集中到 pylrclib 等项目中。
+description: pylrclibup 是我们先前维护的 LRCLIB 歌词上传工具，现已归档；新的歌词工具链将集中到 pylrclib 项目中。
 cover: cover.webp
 copyright_author: 簡諧點源
 ---
@@ -33,8 +33,8 @@ copyright_author: 簡諧點源
 迁移时建议先把自己的需求拆开看：
 
 - 只是查找或下载歌词：优先看 `pylrclib`。
-- 需要清理、标准化或批量处理 LRC：优先看 `pylrclib` 当前提供的能力。
-- 需要完整的歌词工作台：关注 Rolling Pebble。
-- 需要生成滚动歌词素材：关注 py-roller。
+- 需要清理、标准化或批量处理 LRC：我们正在完善 `pylrclib` 当前提供的相关能力。
+- 需要生成滚动歌词素材：关注 `py-roller`。
+- 需要完整的歌词工作台：我们正在积极开发相关软件，请等待后续消息。
 
 本站后续不会继续更新 `pylrclibup` 的相关信息。项目最新状态请以 [GitHub 仓库](https://github.com/Harmonese/pylrclibup) 为准。

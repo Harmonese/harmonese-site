@@ -10,7 +10,7 @@ importers:
     dependencies:
       '@renbaoshuo/markdown-it-katex':
         specifier: ^2.0.2
-        version: 2.0.2(katex@0.18.4)(markdown-it@13.0.2)
+        version: 2.0.2(katex@0.19.1)(markdown-it@13.0.2)
       hexo:
         specifier: ^8.1.2
         version: 8.1.2(chokidar@3.6.0)
@@ -54,8 +54,8 @@ importers:
         specifier: ^6.0.1
         version: 6.0.1
       katex:
-        specifier: ^0.18.4
-        version: 0.18.4
+        specifier: ^0.19.1
+        version: 0.19.1
       moment-timezone:
         specifier: ^0.6.3
         version: 0.6.3
@@ -181,13 +181,13 @@ packages:
   command-exists@1.2.9:
     resolution: {integrity: sha512-LTQ/SGc+s0Xc0Fu5WaKnR0YiygZkm9eKFvyS+fRsU7/ZWFF8ykFM6Pc9aCVf1+xasOOZpO3BAVgVrKvsqKHV7w==}
 
+  commander@15.0.0:
+    resolution: {integrity: sha512-z67u4ZhzCL/Tydu1lJARtEZYWbWaN7oYLHbsuzocr6y4N6WZAagG3RQ4FW61V1/0+jImpj293XfrcYnd1qxtPg==}
+    engines: {node: '>=22.12.0'}
+
   commander@5.1.0:
     resolution: {integrity: sha512-P0CysNDQ7rtVw4QIQtm+MRxV66vKFSvlsQvGYXZWR3qFU0jlMKHZZZgw8e+8DSah4UDKMqnknRDQz+xuQXQ/Zg==}
     engines: {node: '>= 6'}
-
-  commander@8.3.0:
-    resolution: {integrity: sha512-OkTL9umf+He2DZkUq8f8J9of7yL6RJKI24dVITBmNfZBmri9zYZQrKkuXiKhyfPSu8tUhnVBB1iKXevvnlR4Ww==}
-    engines: {node: '>= 12'}
 
   compressible@2.0.18:
     resolution: {integrity: sha512-AF3r7P5dWxL8MxyITRMlORQNaOA2IkAFaTr4k7BUumjPtRpGDTZpl0Pb1XCO6JeDCBdp126Cgs9sMxqSjgYyRg==}
@@ -579,8 +579,8 @@ packages:
   jstransformer@1.0.0:
     resolution: {integrity: sha512-C9YK3Rf8q6VAPDCCU9fnqo3mAfOH6vUGnMcP4AQAYIEpWtfGLpwOTmZ+igtdK5y+VvI2n3CyYSzy4Qh34eq24A==}
 
-  katex@0.18.4:
-    resolution: {integrity: sha512-IMPntbRLOU+eu88XDiFKqQ8Akhr9Tv7jDMXqPhjG9SI1JMA4DIgXk4x9k4skJz2NZJXBRbC+2pYBLj9olqcZow==}
+  katex@0.19.1:
+    resolution: {integrity: sha512-jG8uKntjSEcm2EpQOh0XturpPuuC9r3Sq5HLHdsFdWZT27E672SF19QEi+of0/YeOy15lDgRhKvr5614uRrEfA==}
     hasBin: true
 
   linkify-it@4.0.1:
@@ -1004,9 +1004,9 @@ snapshots:
 
   '@nodable/entities@3.0.0': {}
 
-  '@renbaoshuo/markdown-it-katex@2.0.2(katex@0.18.4)(markdown-it@13.0.2)':
+  '@renbaoshuo/markdown-it-katex@2.0.2(katex@0.19.1)(markdown-it@13.0.2)':
     dependencies:
-      katex: 0.18.4
+      katex: 0.19.1
       markdown-it: 13.0.2
 
   a-sync-waterfall@1.0.1: {}
@@ -1094,9 +1094,9 @@ snapshots:
 
   command-exists@1.2.9: {}
 
-  commander@5.1.0: {}
+  commander@15.0.0: {}
 
-  commander@8.3.0: {}
+  commander@5.1.0: {}
 
   compressible@2.0.18:
     dependencies:
@@ -1573,9 +1573,9 @@ snapshots:
       is-promise: 2.2.2
       promise: 7.3.1
 
-  katex@0.18.4:
+  katex@0.19.1:
     dependencies:
-      commander: 8.3.0
+      commander: 15.0.0
 
   linkify-it@4.0.1:
     dependencies:
